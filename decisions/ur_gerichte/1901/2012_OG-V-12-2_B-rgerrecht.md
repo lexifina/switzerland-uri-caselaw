@@ -1,0 +1,636 @@
+---
+decision_id: "ur_gerichte_2012_OG_V_12_2_B_rgerrecht"
+court: "UR Gerichte"
+court_id: "ur_gerichte"
+docket: "2012_OG V 12 2_Bürgerrecht"
+decided: "1901-01-01"
+language: "de"
+source_url: "https://www.ur.ch/_rte/publikation/6451"
+pdf_url: "https://www.ur.ch/_rte/publikation/6451"
+cites_law: ["switzerland/bund/acts/101/art-007.md", "switzerland/bund/acts/101/art-008.md", "switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/101/art-035.md", "switzerland/bund/acts/101/art-038.md", "switzerland/bund/acts/142.20/art-004.md"]
+---
+
+# UR Gerichte 2012_OG V 12 2_Bürgerrecht
+
+## Regeste
+
+Art. 8 Abs. 2, Art. 9, Art. 29 Abs. 2 BV. Art. 15b BüG. Art. 5 Abs. 2 lit. a und b KBüG.
+
+## Text
+
+Bürgerrecht. Art. 8 Abs. 2, Art. 9, Art. 29 Abs. 2 BV. Art. 15b BüG. Art. 5 Abs. 2 
+lit. a und b KBüG. Beschwerde gegen ablehnende Entscheide über die 
+ordentliche 
+Einbürgerung. 
+Der 
+Gemeinderat 
+Erstfeld 
+beantragte 
+der 
+Gemeindeversammlung, die Einbürgerungsgesuche der Beschwerdeführer 
+wegen mangelnder Integration abzulehnen. Dazu machte der Gemeinderat 
+konkrete Ausführungen. Die Gemeindeversammlung stimmte dem Antrag zu 
+und folgte damit der Begründung des Gemeinderates. Eine sachgerechte 
+Anfechtung der negativen Einbürgerungsentscheide war gewährleistet. Die 
+Integration wird als 
+gegenseitiger 
+Annäherungsprozess 
+zwischen 
+der 
+einheimischen und der ausländischen Bevölkerung betrachtet. Er setzt sowohl 
+den Willen der Ausländerinnen und Ausländer zur Eingliederung als auch die 
+Offenheit der schweizerischen Bevölkerung voraus (Art. 4 Abs. 3 AuG). Die 
+Beschwerdeführer sind beide invalid. Die Invalidität macht es sicherlich 
+schwieriger, sich am Dorfleben und allgemein an öffentlichen Aktivitäten zu 
+beteiligen. Diesen Umstand gilt es zu berücksichtigen. Dennoch rechtfertigt es 
+sich auch unter diesen Umständen, gewisse Integrationsanstrengungen von 
+den Beschwerdeführern abzuverlangen. Konkrete Integrationsbemühungen 
+bestehen 
+nicht. 
+Eine 
+lokale 
+Verwurzelung 
+ist 
+nicht 
+erkennbar. 
+Die 
+Eignungsvoraussetzungen für die Erteilung des Bürgerrechtes sind somit nicht 
+erfüllt. Eine Verletzung des Diskriminierungs- und des Willkürverbotes ist nicht 
+ersichtlich. Abweisung der Beschwerde. 
+ 
+Obergericht, 23. Oktober 2012, OG V 12 2 
+ 
+ 
+Aus den Erwägungen: 
+ 
+ 
+1. 
+a) Am 
+1. 
+Januar 
+2011 
+ist 
+das 
+Gesetz 
+über 
+das 
+Kantons- 
+und 
+Gemeindebürgerrecht (KBüG; RB 1.4121) in Kraft getreten. Die bei Inkrafttreten hängigen 
+Einbürgerungsgesuche werden nach neuem Recht beurteilt (Art. 19 KBüG). Entsprechend 
+sind die vorliegenden Einbürgerungsgesuche nach den Bestimmungen des KBüG zu 
+beurteilen. Gemäss Art. 14 Abs. 1 KBüG richtet sich das Rechtsmittelverfahren nach der 
+VRPV. 
+ 
+ 
+ 
+b) Wer sich um die Erteilung des Kantons- und Gemeindebürgerrechts bewirbt, 
+muss hierzu geeignet sein (Art. 5 Abs. 1 KBüG). Die Eignungsvoraussetzungen werden im 
+Gesetz selbst genannt, jedoch erlässt der Landrat dazu nähere Bestimmungen (Art. 5 Abs. 4 
+KBüG). 
+Zu 
+diesem 
+Zweck 
+verabschiedete 
+er 
+die 
+Verordnung 
+über 
+die 
+Eignungsvoraussetzungen für das Kantons- und Gemeindebürgerrecht (RB 1.4123; 
+nachfolgend: Eignungsverordnung). Der Regierungsrat setzte diese Verordnung auf den 1. 
+April 
+2012 
+in 
+Kraft. 
+Auch 
+die 
+Eignungsverordnung 
+dürfte 
+auf 
+hängige 
+Einbürgerungsverfahren Anwendung finden. Fraglich ist aber, ob die geänderte Rechtslage 
+auch Beachtung für das vorliegende Rechtsmittelverfahren beanspruchen kann. Nun ist die 
+Rechtmässigkeit eines Verwaltungsaktes grundsätzlich nach der Rechtslage zur Zeit seines 
+Erlasses 
+zu 
+beurteilen. 
+Im 
+Laufe 
+des 
+Beschwerdeverfahrens 
+eingetretene 
+Rechtsänderungen sind an sich unbeachtlich, es sei denn, zwingende Gründe sprächen für 
+die Berücksichtigung des neuen Rechtes. Das trifft nach bundesgerichtlicher Praxis vor allem 
+dann zu, wenn Vorschriften um der öffentlichen Ordnung willen oder zur Durchsetzung 
+erheblicher öffentlicher Interessen erlassen worden und daher auch in hängigen Verfahren 
+sofort anwendbar sind. Im Weiteren führte es zu nichts, eine Bewilligung oder deren 
+Änderung aufzuheben, weil sie dem alten Recht widerspricht, während sie nach neuem 
+Recht auf Gesuch hin oder von Amtes wegen zu erteilen bzw. zu verfügen wäre (BGE 127 II 
+315 f. E. 7c). Bei der Eignungsverordnung handelt es sich um eine Verordnung der 
+Legislative (nicht der Exekutive) mit gesetzesvertretendem Charakter (vgl. Art. 87 Abs. 1 und 
+Art. 90 KV). Solche Verordnungen fügen der weitmaschigen, auf das Grundsätzliche 
+
+
+beschränkenden Regelungen im Gesetz neue Normen hinzu (Häfelin/Müller/Uhlmann, 
+Allgemeines Verwaltungsrecht, 6. Aufl., Zürich 2010, Rz. 136). Vorliegend von Interesse 
+wären vor allem die Weiterungen zu Art. 5 Abs. 2 lit. a und b KBüG. Diese sind in Art. 2 
+(Eingliederung) und Art. 3 (Vertrautheit) Eignungsverordnung zu finden. Gemäss Ersterem 
+ist die gesuchstellende Person in die kommunalen, kantonalen und schweizerischen 
+Verhältnissen eingegliedert, wenn sie soziale Beziehungen zu Schweizerinnen und 
+Schweizer am Arbeitsplatz, in Nachbarschaft, Gemeinde, Ortsteil, Quartier, Kirche oder 
+anderen 
+Institutionen 
+pflegt. 
+Nach 
+Art. 
+3 
+Eignungsverordnung 
+ist 
+mit 
+den 
+Lebensgewohnheiten, Sitten und Gebräuchen insbesondere vertraut, wer am öffentlichen 
+Geschehen interessiert ist, darüber Bescheid weiss und sich daran beteiligt. Art. 2 und Art. 3 
+Eignungsverordnung 
+begründen 
+keine 
+weiteren 
+Verpflichtungen 
+zulasten 
+der 
+einbürgerungswilligen Personen. Entsprechend weisen sie mehr die Natur einer Bestimmung 
+einer Vollziehungsverordnung- als einer gesetzesvertretenden Verordnung auf (BGE 136 I 
+33 E. 3.3). Angesichts dessen kann dem Regelfall gefolgt werden, d.h. die abgewiesenen 
+Einbürgerungsgesuche sind nach der Rechtslage zur Zeit des Erlasses der entsprechenden 
+Verfügungen zu beurteilen. Demzufolge ist darauf zu verzichten, die Einbürgerungsgesuche 
+anhand der Eignungsverordnung zu beurteilen. Eine Rückweisung, wie von den 
+Beschwerdeführern verlangt, kommt im vorliegenden Zusammenhang also nicht in Frage. Im 
+Übrigen kann als ausgewiesen gelten, dass die Beschwerdeführer über ausreichende 
+Kenntnisse der mit dem Bürgerrecht verbundenen Rechte und Pflichten sowie der deutschen 
+Sprache verfügen (Eingabe der Beschwerdeführer vom 31.05.2012; Sprachstandnachweise 
+Deutsch der Beschwerdeführer vom 19.04.2011). 
+ 
+ 
+2. 
+a) Die Kantone setzen Gerichtsbehörden ein, die als letzte kantonale Instanzen 
+Beschwerden gegen ablehnende Entscheide über die ordentliche Einbürgerung beurteilen 
+(Art. 50 Bundesgesetz über Erwerb und Verlust des Schweizer Bürgerrechtes [BüG; SR 
+141.0]). Gegen Verfügungen des Regierungsrates ist die Verwaltungsgerichtsbeschwerde an 
+das Obergericht zulässig, soweit die Gesetzgebung den Weiterzug nicht ausschliesst oder 
+anders regelt (Art. 54 Abs. 1 und 2 lit. a VRPV). Die Beschwerdefrist (Art. 59 Abs. 1 VRPV) 
+sowie die Formvorschriften (Art. 64 i.V.m. Art. 49 Abs. 1 und 2 VRPV) wurden eingehalten. 
+Die Beschwerdeführer sind als Adressaten durch den angefochtenen Beschwerdeentscheid 
+berührt und haben ein schutzwürdiges Interesse an dessen Aufhebung oder Abänderung 
+(Art. 64 i.V.m. Art. 46 Abs. 1 lit. a VRPV). Die Beschwerdeführer rügen Rechtsverletzung 
+(Art. 57 Abs. 1 und 2 VRPV) sowie die unrichtige bzw. ungenügende Feststellung des 
+rechtserheblichen Sachverhaltes (Art. 57 Abs. 3 VRPV). 
+ 
+ 
+ 
+b) Die Verwaltungsgerichtsbeschwerde richtet sich gegen den vorinstanzlichen 
+Entscheid vom 6. Dezember 2011 und den Beschluss der Gemeindeversammlung Erstfeld 
+vom 8. Juni 2011. Jedoch ist Letzterer durch den vorinstanzlichen Entscheid vom 6. 
+Dezember 2011 ersetzt worden (vgl. BGE 134 II 144 E 1.4). Entsprechend ist nur der 
+vorinstanzliche Entscheid vom 6. Dezember 2011 mögliches Anfechtungsobjekt der 
+Verwaltungsgerichtsbeschwerde. Soweit sich die Verwaltungsgerichtsbeschwerde gegen 
+den Beschluss der Gemeindeversammlung Erstfeld vom 8. Juni 2011 richtet, ist mangels 
+Anfechtungsobjekt darauf nicht einzutreten. 
+ 
+ 
+ 
+Im Übrigen ist auf die Beschwerde einzutreten. 
+ 
+ 
+3. 
+Bei Einbürgerungsgesuchen von Eheleuten treten die beiden Ehepartner je als 
+selbstständige Gesuchsteller auf. In Bezug auf die Begründungserfordernisse nach Art. 29 
+Abs. 2 BV bedeutet dies, dass negative Entscheide je individuell begründet werden müssen; 
+dies gilt jedenfalls dann, wenn die Einbürgerungsvoraussetzungen der Eheleute 
+unterschiedlich zu beurteilen sind und diese nicht auf eine individuelle Beurteilung ihrer 
+Gesuche verzichtet haben (BGE 134 I 58 E. 2 m.H.). Die Vorinstanz hat die 
+Verwaltungsbeschwerden 
+des 
+Beschwerdeführers 
+und 
+der 
+Beschwerdeführerin 
+(nachfolgend: Beschwerdeführer) aus verfahrensökonomischen Gründen in einem Entscheid 
+zusammengefasst 
+(Art. 
+13 
+Abs. 
+2 
+VRPV). 
+Dabei 
+beurteilte 
+sie 
+die 
+beiden 
+
+
+Einbürgerungsgesuche getrennt, soweit es um Vorbringen ging, die nicht beide 
+Beschwerdeführer betroffen haben (angefochtener Entscheid E. 2). Dem angefochtenen 
+Entscheid folgend erhoben die Beschwerdeführer die Verwaltungsgerichtsbeschwerde in 
+einer gemeinsamen Eingabe. Auch im Verfahren vor Obergericht kann darauf verzichtet 
+werden, für die Beschwerdeführer je separate Entscheide zu fällen. 
+ 
+ 
+4. 
+Die Gemeindeversammlung Erstfeld lehnte die Einbürgerungsgesuche der 
+Beschwerdeführer aufgrund mangelnder Integration ab. Konkret wurden folgende Punkte 
+angeführt: 
+ 
+ mangelnde Teilnahme an gesellschaftlichen Aktivitäten in der Gemeinde Erstfeld; 
+ Fehlen von Vereinsaktivitäten; 
+ Meidung des Kontaktes mit der schweizerischen Bevölkerung seitens des 
+ 
+Beschwerdeführers. 
+ 
+ 
+ 
+Die Vorinstanz stützte die Argumentation der Gemeindeversammlung Erstfeld. 
+ 
+ 
+5. 
+a) Das Einbürgerungsverfahren ist mehrstufig. Nach Art. 12 BüG wird das 
+Schweizer Bürgerrecht im ordentlichen Verfahren mit der Einbürgerung in einem Kanton und 
+einer Gemeinde erworben (Abs. 1). Die Einbürgerung ist nur gültig, wenn eine 
+Einbürgerungsbewilligung des Bundesamtes für Migration vorliegt (Abs. 2; vgl. auch Art. 13 
+BüG). Daraus folgt, dass die Bewilligung des Bundesamtes für Migration der eigentlichen 
+Einbürgerung durch den Kanton und die Gemeinde vorausgeht. Gemäss Art. 14 BüG ist vor 
+Erteilung der Bewilligung insbesondere zu prüfen, ob die bewerbende Person in die 
+schweizerischen Verhältnisse eingegliedert ist (lit. a), ob sie mit den schweizerischen 
+Lebensgewohnheiten, Sitten und Gebräuchen vertraut ist (lit. b), ob sie die schweizerische 
+Rechtsordnung beachtet (lit. c) und ob sie die innere oder äussere Sicherheit der Schweiz 
+nicht gefährdet (lit. d). Obwohl im geltenden Recht keine verbindliche Rollenklärung 
+zwischen Bund und Kantonen hinsichtlich der Prüfungsbereiche bei der Eignungsabklärung 
+einer einbürgerungswilligen Person besteht (BBl 2011 S. 2830 f.) und Art. 14 BüG 
+systematisch im Kontext mit der Bundesbewilligung steht, enthält die Bestimmung die für die 
+Eignungsabklärung und für die eigentliche Einbürgerung massgebenden Voraussetzungen, 
+nach denen sich der Einbürgerungsentscheid der Kantone bzw. der Gemeinden zu richten 
+hat. Bei den bundesrechtlichen Vorgaben handelt es sich allerdings um Mindestvorschriften 
+(Art. 
+38 
+Abs. 
+2 
+BV). 
+Die 
+Kantone 
+sind 
+daher 
+in 
+der 
+Ausgestaltung 
+der 
+Einbürgerungsvoraussetzungen insoweit frei, als sie hinsichtlich der Wohnsitzerfordernisse 
+oder der Eignung Konkretisierungen des bundesrechtlich vorgeschriebenen Rahmens 
+vornehmen können. Immer aber haben die Kantone die verfassungsrechtlichen Schranken, 
+aber auch Ziel und Zweck der eidgenössischen Bürgerrechtsgesetzgebung zu beachten (Art. 
+46 und 49 BV). Im Einbürgerungsverfahren wird über den rechtlichen Status von 
+Einzelpersonen entschieden. Dies ist kein Vorgang in einem rechtsfreien Raum, denn die 
+zuständige Behörde muss die einschlägigen Verfahrensbestimmungen beachten und darf 
+nicht willkürlich, rechtsungleich oder diskriminierend entscheiden; sie muss ihr Ermessen 
+pflichtgemäss ausüben (BGE 129 I 238 E. 3.3; BGE 1D_6/2011 vom 12.06.2012 E. 1.4.3). 
+ 
+ 
+ 
+b) Gemäss Art. 5 Abs. 2 KBüG ist vor Erteilung des Kantons- und 
+Gemeindebürgerrechtes insbesondere zu prüfen, ob die Person in die kommunalen, 
+kantonalen und schweizerischen Verhältnisse eingegliedert ist (lit. a), ob sie mit den 
+Lebensgewohnheiten, Sitten und Gebräuchen vertraut ist (lit. b), ob sie einen guten 
+Leumund besitzt, die schweizerische Rechtsordnung beachtet und die innere und äussere 
+Sicherheit der Schweiz nicht gefährdet (lit. c), ob sie die mit dem Bürgerrecht verbundenen 
+Rechte und Pflichten kennt (lit. d), ob sie ausreichende Kenntnisse der deutschen Sprache 
+zur Verständigung mit Behörden, Mitbürgerinnen und Mitbürger besitzt (lit. e) und ob sie 
+geordnete finanzielle Verhältnisse aufweist (lit. f). 
+ 
+
+
+ 
+ 
+c) Die Integration wird als gegenseitiger Annäherungsprozess zwischen der 
+einheimischen und der ausländischen Bevölkerung betrachtet. Er setzt sowohl den Willen 
+der Ausländerinnen und Ausländer zur Eingliederung als auch die Offenheit der 
+schweizerischen Bevölkerung voraus (vgl. Art. 4 Abs. 3 Bundesgesetz über die 
+Ausländerinnen und Ausländer [AuG; SR 142.20]). Nicht verlangt wird, dass die 
+ausländische Person ihre angestammte kulturelle Eigenart und ihre bisherige Identität 
+preisgibt. Die vom eidgenössischen und kantonalen Gesetzgeber verlangte Integration ist 
+somit keine vollständige. Ob eine gesuchstellende Person genügend integriert ist, ist 
+umfassend und unter Berücksichtigung sämtlicher persönlicher, familiärer und sozialer 
+Aspekte zu beurteilen (BGE 1D_5/2010 vom 30.08.2010 E. 3.3.1). 
+ 
+ 
+6. 
+Mit Verfügung vom 25. Februar 2009 erteilte das Bundesamt für Migration die 
+eidgenössische Einbürgerungsbewilligung. Sie ist auf drei Jahre befristet (Art. 13 Abs. 3 
+BüG). Eine Verlängerung liegt nicht vor, womit eine Einbürgerung überhaupt nicht gültig 
+vorgenommen werden könnte. Darauf wird später zurückzukommen sein, falls sich die 
+Beschwerde als begründet herausstellen sollte. 
+ 
+ 
+7. 
+Die Beschwerdeführer rügen zunächst, die Verletzung des Anspruches auf 
+rechtliches Gehör. Die Begründung der Nichteinbürgerungen sei in einer pauschalisierenden 
+Weise erfolgt, was eine sachgerechte Anfechtung verunmögliche. Des Weiteren sei die 
+Begründung inkonsistent. So würden die Erläuterungen zum Antrag des Gemeinderates 
+Erstfeld vom Mai 2011 zur eigentlichen Begründung der Nichteinbürgerungen gar nicht 
+passen. Dem Gemeinderat Erstfeld wäre es sowieso nur um unfaire Stimmungsmache 
+gegangen. 
+ 
+ 
+ 
+a) Die Ablehnung eines Einbürgerungsgesuches ist zu begründen (Art. 29 Abs. 2 
+BV, Art. 15b Abs. 1 BüG). Der Abgewiesene soll wissen, aus welchen Gründen sein Gesuch 
+abgewiesen worden ist; die Begründung muss so abgefasst sein, dass dieser den Entscheid 
+sachgerecht anfechten kann; in diesem Sinn müssen wenigsten kurz die Überlegungen 
+genannt sein, die dem Entscheid zugrunde liegen. Eine sachgerechte Überprüfung von 
+Ermessensentscheiden ist nur möglich, wenn die zuständige Instanz die Gründe für ihren 
+Entscheid darlegt (BGE 129 I 236 E. 3.2). Es besteht keine feste Praxis, wie der 
+Begründungspflicht im Einzelnen nachzukommen ist, und es ergeben sich hierfür 
+verschiedene Möglichkeiten. Bestätigt eine Gemeindeversammlung einen ablehnenden 
+Antrag des Gemeinderates, kann in der Regel und vorbehältlich abweichender Voten davon 
+ausgegangen werden, dass die Gemeindeversammlung dem Antrag und seiner Begründung 
+zustimmt (vgl. Art. 15b Abs. 2 BüG; BGE 132 I 197 E. 3.1). Die Begründungspflicht im Sinne 
+einer Selbstkontrolle trägt schliesslich zur Rationalisierung der Entscheidfindung bei und soll 
+verhindern, dass sich die Behörde von unsachlichen Erwägungen leiten lässt (BGE 129 I 239 
+E. 3.3). 
+ 
+ 
+ 
+b) Im Gegensatz zum bejahenden Antrag vom Mai 2009 stellte der Gemeinderat 
+Erstfeld anlässlich der Gemeindeversammlung Erstfeld vom 8. Juni 2011 den Antrag, den 
+Beschwerdeführern das Bürgerrecht der Gemeinde Erstfeld nicht zu erteilen. Er begründete 
+den Antrag mit der fehlenden Integration der Beschwerdeführer. Dazu machte er auch 
+zusätzliche Abklärungen (vgl. die Besprechungen mit den Beschwerdeführern vom 
+21.06.2010, verschiedenen Bewohnern des Quartieres A vom 25.10.2010 und Josef Zurfluh, 
+Leiter Abteilung Bürgerrecht und Zivilstand Uri vom 06.12.2010 sowie die schriftliche Anfrage 
+bei Letzterem vom 07.02.2011), aufgrund derer jedoch kaum neue Erkenntnisse gewonnen 
+werden konnten. Ob die Begründung aber in der Sache gerechtfertigt erscheint, ist später zu 
+prüfen. Immerhin nennt der Gemeinderat Erstfeld die konkreten Gründe, weshalb die 
+Einbürgerungen 
+nicht 
+in 
+Frage 
+kommen 
+konnten, 
+wozu 
+sich 
+auch 
+die 
+Gemeindeversammlung Erstfeld anlässlich des Beschlusses vom 8. Juni 2011 bekannte. Vor 
+diesem Hintergrund wird der Vorwurf unzureichender Integration im Sinne der 
+verfassungsrechtlichen 
+Anforderungen 
+hinreichend 
+begründet. 
+So 
+war 
+es 
+den 
+Beschwerdeführern 
+möglich, 
+die 
+negativen 
+Einbürgerungsentscheide 
+sachgerecht 
+
+
+anzufechten. Andererseits war die Vorinstanz in der Lage, über eine dagegen gerichtete 
+Beschwerde materiell zu entscheiden. 
+ 
+ 
+ 
+c) Wenn die Beschwerdeführer die gesamten Ausführungen des Gemeinderates 
+Erstfeld zum Antrag an die Gemeindeversammlung Erstfeld vom Mai 2011 als wenig 
+konsistent bezeichnen, ist dies zutreffend. Jedoch verkennen sie, dass nicht sämtliche 
+Erläuterungen 
+des 
+Gemeinderates 
+Erstfeld 
+als 
+Begründung 
+für 
+die 
+negativen 
+Einbürgerungsentscheide herangezogen worden sind. Entscheidrelevant war nur jener Teil, 
+der explizit als Begründung vorgebracht wurde (vgl. Seite 3 unten und 4). Entsprechend ist 
+auch nur jener Teil Gegenstand der gerichtlichen Prüfung. Vorbringen, die etwa das 
+Zusammenleben 
+im 
+Quartier 
+A 
+oder 
+die 
+Deutsch- 
+oder 
+Staatskenntnisse 
+der 
+Beschwerdeführer betreffen, sind nicht Thema der vorliegenden Streitsache. Diesbezügliche 
+Ausführungen der Beschwerdeführer sind somit unbehelflich. Was das Verhalten des 
+Gemeinderates Erstfeld anbelangt, war dieses nicht so, dass die Beschlussfassung in 
+unzulässiger Weise beeinflusst worden wäre. Jedoch sei daran erinnert, dass die Behörden 
+den Grundsatz von Treu und Glauben zu wahren haben (Art. 5 Abs. 3 und Art. 9 BV). 
+ 
+ 
+8. 
+Die Beschwerdeführer machen weiter eine Verletzung des Willkür- und 
+Diskriminierungsverbotes geltend. 
+ 
+ 
+ 
+a) Art. 14 BüG regelt die materiellen Einbürgerungsvoraussetzungen konkret, 
+indem die (Mindest-)Kriterien der Eignung in einer nicht abschliessenden Aufzählung 
+konkretisiert werden. Dabei geht es letztlich immer um Aspekte der erfolgreichen Integration 
+als Voraussetzung der Einbürgerung. Die gesetzliche Regelung enthält zwar hinsichtlich der 
+einzelnen Voraussetzungen mehr oder weniger grosse Beurteilungsspielräume, doch räumt 
+sie 
+den 
+zuständigen 
+Behörden 
+weder 
+ausdrücklich 
+noch 
+sinngemäss 
+ein 
+Entschliessungsermessen ein in dem Sinne, dass es diesen freigestellt wäre, eine Person, 
+die 
+alle 
+auf 
+eidgenössischer 
+und 
+kantonaler 
+Ebene 
+statuierten 
+gesetzlichen 
+Einbürgerungsvoraussetzungen erfüllt und folglich integriert ist, trotzdem nicht einzubürgern. 
+Eine solche Nichteinbürgerung wäre willkürlich und stünde zudem in Widerspruch zum 
+Rechtsgleichheitsgebot gemäss Art. 8 Abs. 1 BV. Erlaubt ein Gesetz einem Staatsorgan, im 
+Einzelfall nach Ermessen zu entscheiden, so bedeutet dies nicht, dass es in gleichartigen 
+Fällen ohne sachlichen Grund einmal so und einmal anders entscheiden darf. Daran ändert 
+auch nichts, wenn Stimmberechtigte an einer Versammlung entscheiden. Sie handeln als 
+Organ der Gemeinde, nehmen eine staatliche Aufgabe wahr und sind daher gemäss Art. 35 
+Abs. 2 BV (auch Art. 15 KV) an die Grundrechte gebunden und verpflichtet, zu ihrer 
+Verwirklichung beizutragen. Zwar darf die Einbürgerungspraxis unter Respektierung der 
+gesetzlichen Mindestvoraussetzungen gegenüber den Gesuchstellenden streng oder 
+entgegenkommend 
+sein, 
+sich 
+auf 
+die 
+bundesrechtlichen 
+Mindestvoraussetzungen 
+beschränken oder diese konkretisieren. Sie muss aber im Rahmen der Möglichkeiten, 
+welche die Ermessenseinräumung offen lässt, rechtsgleich erfolgen. Insoweit bindet nicht 
+nur das Willkürverbot, sondern auch das Rechtsgleichheitsgebot die Einbürgerungsbehörde 
+(BGE 1D_6/2011 vom 12.06.2012 E. 1.4.5). 
+ 
+ 
+ 
+b) Nach ständiger Rechtsprechung liegt Willkür in der Rechtsanwendung vor, 
+wenn der angefochtene Entscheid offensichtlich unhaltbar ist, mit der tatsächlichen Situation 
+in klarem Widerspruch steht, eine Norm oder einen unumstrittenen Rechtsgrundsatz krass 
+verletzt oder in stossender Weise dem Gerechtigkeitsgedanken zuwiderläuft. Ein Entscheid 
+ist jedoch nur aufzuheben, wenn nicht bloss die Begründung, sondern auch das Ergebnis 
+unhaltbar ist. Dass eine andere Lösung ebenfalls als vertretbar oder gar zutreffender 
+erscheint, genügt nicht (BGE 137 I 5 E. 2.4). 
+ 
+ 
+ 
+c) Gemäss Art. 8 Abs. 2 BV darf niemand diskriminiert werden, namentlich nicht 
+wegen seiner Herkunft und der religiösen, weltanschaulichen oder politischen Überzeugung. 
+Eine Diskriminierung liegt vor, wenn eine Person ungleich behandelt wird allein aufgrund 
+ihrer Zugehörigkeit zu einer bestimmten Gruppe, welche historisch oder in der 
+
+
+gegenwärtigen sozialen Wirklichkeit tendenziell ausgegrenzt oder als minderwertig behandelt 
+wird. Die Diskriminierung stellt eine qualifizierte Ungleichbehandlung von Personen in 
+vergleichbaren Situationen dar, indem sie eine Benachteilung von Menschen bewirkt, die als 
+Herabwürdigung oder Ausgrenzung einzustufen ist, weil sie an Unterscheidungsmerkmalen 
+anknüpft, die einen wesentlichen und nicht oder nur schwer aufgebbaren Bestandteil der 
+Identität 
+der 
+betroffenen 
+Personen 
+ausmachen; 
+insofern 
+beschlägt 
+das 
+Diskriminierungsverbot auch Aspekte der Menschenwürde nach Art. 7 BV. Das 
+Diskriminierungsverbot gemäss Art. 8 Abs. 2 BV schliesst indes die Anknüpfung an ein 
+verpöntes Merkmal – wie beispielsweise Herkunft, Rasse, Geschlecht, soziale Stellung oder 
+religiöse Überzeugung – nicht absolut aus. Eine solche begründet zunächst lediglich den 
+blossen Verdacht einer unzulässigen Differenzierung. Diese kann indes durch eine 
+qualifizierte 
+Rechtfertigung 
+umgestossen 
+werden. 
+Eine 
+indirekte 
+oder 
+mittelbare 
+Diskriminierung liegt demgegenüber vor, wenn eine Regelung, die keine offensichtliche 
+Benachteiligung von spezifisch gegen Diskriminierung geschützten Gruppen enthält, in ihren 
+tatsächlichen Auswirkungen Angehörige einer solchen Gruppe besonders benachteiligt, 
+ohne dass dies sachlich begründet wäre (BGE 135 I 53 f. E. 4.1). 
+ 
+ 
+9. 
+Die Beschwerdeführer führen aus, sie würden wie der Durchschnittsschweizer, die 
+kommunalen 
+und 
+regionalen 
+Veranstaltungen, 
+wie 
+Ausstellungen, 
+Konzerte, 
+Fasnachtsumzüge, etc., besuchen. Es könne ihnen nicht vorgeworfen werden, dass sie an 
+den gesellschaftlichen Aktivitäten in der Gemeinde Erstfeld nicht teilnehmen würden. Des 
+Weiteren sei die Beteiligung an Vereinsaktivitäten keine zwingende Voraussetzung für eine 
+Einbürgerung. Ausserdem sei das Angebot an Vereinen in Erstfeld beschränkt. In Anbetracht 
+der gesundheitlich bedingten Einschränkungen wäre die Möglichkeit, sich in einem Verein zu 
+engagieren, ohnehin kaum gegeben. 
+ 
+ 
+ 
+a) Von der Person, die sich um das Schweizer Bürgerrecht bewirbt, darf eine 
+gewisse lokale Integration eingefordert werden. Sie hat sich an die schweizerische Kultur 
+und die hiesigen Gewohnheiten anzunähern und anzugleichen (BGE 132 I 172 f. E. 4.3). Es 
+ist aber nicht gerechtfertigt, die Mitgliedschaften in Vereinen oder anderen Organisationen 
+letztlich zum ausschlaggebenden Integrationsmerkmal zu erheben und dabei spezielle 
+Lebensumstände auszublenden. Es gibt auch viele Schweizerinnen und Schweizer, die, sei 
+es aufgrund ihres Charakters, sei es aufgrund bestimmter Lebensumstände, zurückgezogen 
+leben und nicht aktiv auf Gemeindeebene mitwirken, deren Selbstverständnis als 
+Bürgerinnen und Bürger dieses Landes aber deswegen nicht in Frage steht (BGE 138 I 245 
+E. 5.3). 
+ 
+ 
+ 
+b) Die Gemeindeversammlung Erstfeld teilte die Ansicht des Gemeinderates 
+Erstfeld, dass die Beschwerdeführer als IV-Rentner genügend Zeit hätten, die 
+gesellschaftliche Integration in die Dorfgemeinschaft zu pflegen und sich etwa in einem 
+lokalen Verein zu engagieren. Mit einer solchen aktiven Teilnahme am Dorfleben könnte ein 
+echter Integrationswille bezeugt werden. Diese Bereitschaft sei nicht spürbar. Die 
+Beschwerdeführer sind beide invalid. Die Invalidität macht es sicherlich schwieriger, sich am 
+Dorfleben und allgemein an öffentlichen Aktivitäten zu beteiligen. Dieser Umstand gilt es zu 
+berücksichtigen. Dennoch rechtfertigt es sich auch unter diesen Umständen, gewisse 
+Integrationsanstrengungen von den Beschwerdeführern abzuverlangen. Solche bestehen 
+aber 
+nach 
+Einschätzung 
+der 
+Gemeindeversammlung 
+Erstfeld 
+nicht. 
+Konkrete 
+Integrationsbemühungen, welche auf einen vertieften Kontakt mit Einheimischen schliessen 
+lassen würden, bringen die Beschwerdeführer nicht vor. Sie behaupten auch nicht, sie seien 
+in das Vereinsleben eingebunden. Eine Vereinsmitgliedschaft kann zwar für die 
+Eingliederung sprechen, muss aber nicht zwingend vorliegen. Unabhängig davon müssen 
+gewisse Bemühungen vorhanden sein, sich in das Dorfleben integrieren zu wollen, was 
+vorliegend aber gerade nicht der Fall ist. Eine lokale Verwurzelung seitens der 
+Beschwerdeführer ist nicht erkennbar. Eine erfolgreiche Integration als Voraussetzung einer 
+Einbürgerung wurde bereits anlässlich der Gemeindeversammlung Erstfeld vom 3. Juni 2009 
+verneint. Der Gemeinderat Erstfeld hat sich dieser Auffassung nun angeschlossen und 
+
+
+ergänzte die Begründung. Dadurch kann dem Gemeinderat Erstfeld kein unlauteres 
+Verhalten vorgeworfen werden. Dieser Einwand der Beschwerdeführer vermag nicht zu 
+überzeugen. 
+ 
+ 
+10. Der Beschwerdeführer bestreitet, die Kontaktaufnahme mit Einheimischen zu 
+meiden. Nennenswerte persönliche Kontakte sind aber nicht ersichtlich. Dagegen besucht 
+der Beschwerdeführer mehrmals jährlich seine Angehörigen. Als IV-Bezüger sei ihm dies 
+zeitlich möglich. Die Integration muss keine vollständige sein, weshalb solche Besuche 
+keinen Grund für eine Nichteinbürgerung darstellen können. Jedoch verlangt der 
+Integrationsbegriff nicht nur eine gewisse Offenheit seitens der schweizerischen 
+Bevölkerung, sondern auch den Willen des Ausländers zur Eingliederung. Dieser Wille ist 
+beim Beschwerdeführer aber nicht erkennbar. 
+ 
+ 
+11. Die Einbürgerungsgesuche der Beschwerdeführer sind getrennt voneinander zu 
+beurteilen, womit auch über die vorliegenden Beschwerden je separat zu entscheiden ist. 
+Die Vorinstanz hat die Einbürgerungsvoraussetzungen sowohl beim Beschwerdeführer als 
+auch 
+bei 
+der 
+Beschwerdeführerin 
+zutreffend 
+beurteilt 
+und 
+daher 
+die 
+Verwaltungsbeschwerden zu Recht abgewiesen. Dabei wurden weder das Diskriminierungs- 
+noch das Willkürverbot verletzt. Bei diesem Ergebnis erübrigen sich weitere Ausführungen 
+zur eidgenössischen Einbürgerungsbewilligung. Die Beschwerdeführer ersuchten, sämtliche 
+Akten betreffend die Einbürgerungsverfahren der Beschwerdeführer, einschliesslich 
+Rechtsmittelverfahren, bei der Vorinstanz, der Gemeinde Erstfeld und der Abteilung 
+Bürgerrecht und Zivilstand Uri beizuziehen. Es wurden die vorinstanzlichen Akten (RRB Nr. 
+2011-743) sowie die im ersten Beschwerdeverfahren ergangenen Akten (RRB Nr. 2010-172) 
+ediert. Diese Aktenlage erwies sich als vollständig, womit auf weitere Akteneditionen 
+verzichtet werden konnte. 
+ 
+ 
+ 
+Gesagtes erhellt, dass die Verwaltungsgerichtsbeschwerde abzuweisen ist, soweit 
+darauf einzutreten ist.
