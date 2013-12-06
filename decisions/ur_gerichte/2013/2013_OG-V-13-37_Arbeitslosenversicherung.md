@@ -1,0 +1,42 @@
+---
+decision_id: "ur_gerichte_2013_OG_V_13_37_Arbeitslosenversicherung"
+court: "UR Gerichte"
+court_id: "ur_gerichte"
+docket: "2013_OG V 13 37_Arbeitslosenversicherung"
+decided: "2013-12-06"
+language: "de"
+source_url: "https://www.ur.ch/_rte/publikation/7295"
+pdf_url: "https://www.ur.ch/_rte/publikation/7295"
+cites_law: ["switzerland/bund/acts/837.0/art-030.md", "switzerland/bund/acts/837.02/art-022.md"]
+---
+
+# UR Gerichte 2013_OG V 13 37_Arbeitslosenversicherung
+
+## Regeste
+
+Art. 17 Abs. 1, Art. 30 Abs. 1 AVIG. Art. 21 Abs. 1, Art. 22 Abs. 4 AVIV.
+
+## Text
+
+Arbeitslosenversicherung. Art. 17 Abs. 1, Art. 30 Abs. 1 AVIG. Art. 21 Abs. 1, 
+Art. 22 Abs. 4 AVIV. Der Versicherte muss sicher stellen, dass er in der Regel 
+innert Tagesfrist von der zuständigen Amtsstelle erreicht werden kann. Die 
+zuständige Amtsstelle legt mit dem Versicherten fest, wie er innert Tagesfrist 
+erreicht werden kann. Anstelle eines telefonischen Rückrufes wurde der 
+Beschwerdeführer angeschrieben. Es liegt am Beschwerdeführer, sich so zu 
+organisieren, dass er auf schriftlichen Weg rechtzeitig erreichbar bleibt. 
+Andernfalls braucht es einen klaren Hinweis darauf, dass der Kontakt per 
+Telefon geschehen soll. Daran fehlt es vorliegend. Die Einstellung an sich ist 
+nicht zu beanstanden. Es ist von einem leichten Verschulden auszugehen. Die 
+Höhe der Einstellungsdauer ist eine typische Ermessensfrage. Das Gericht 
+muss sich auf Gegebenheiten abstützen können, welche eine abweichende 
+Ermessensausübung 
+als 
+naheliegender 
+erscheinen 
+lassen. 
+Eine 
+Einstellungsdauer von zehn Tagen erscheint nicht angemessen, die Dauer ist 
+um vier Tage herabzusetzen. 
+ 
+Obergericht, 6. Dezember 2013, OG V 13 37
