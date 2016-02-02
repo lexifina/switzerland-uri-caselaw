@@ -1,0 +1,53 @@
+---
+decision_id: "ur_gerichte_2016_OG_V_13_10__Zwischenentscheid_"
+court: "UR Gerichte"
+court_id: "ur_gerichte"
+docket: "2016_OG V 13 10 (Zwischenentscheid)"
+decided: "2016-02-02"
+language: "de"
+source_url: "https://www.ur.ch/_rte/publikation/8574"
+pdf_url: "https://www.ur.ch/_rte/publikation/8574"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-030.md"]
+---
+
+# UR Gerichte 2016_OG V 13 10 (Zwischenentscheid)
+
+## Regeste
+
+Ausstand. Art. 6 Ziff. 1 EMRK. Art. 30 Abs. 1 BV. Art. 5, Art. 10 Gesetz über den Ausstand. Zuständigkeit für die Beurteilung eines Ausstandsgesuchs bei Kollegialbehörden. Vorbefassung.
+
+## Text
+
+Ausstand. Art. 6 Ziff. 1 EMRK. Art. 30 Abs. 1 BV. Art. 5, Art. 10 Gesetz über den 
+Ausstand. Zuständigkeit für die Beurteilung eines Ausstandsgesuchs bei 
+Kollegialbehörden. Vorbefassung. Das Gesetz über den Ausstand stellt keine 
+höheren 
+Anforderungen 
+an 
+die 
+richterliche 
+Unabhängigkeit 
+und 
+Unparteilichkeit als die entsprechenden Bestimmungen der BV und der EMRK. 
+Die bundesgerichtliche Rechtsprechung zu diesen Bestimmungen kann mithin 
+herangezogen werden. In casu wurde verlangt, dass das Obergericht des 
+Kantons Uri (Verwaltungsrechtliche Abteilung) in einem Revisionsverfahren in 
+anderer Besetzung als der Besetzung im zu revidierenden Entscheid urteile. 
+Nach 
+der 
+Rechtsprechung 
+hält 
+es 
+vor 
+dem 
+Anspruch 
+auf 
+einen 
+verfassungsmässigen Richter stand, wenn am Revisionsentscheid dieselben 
+Personen mitwirken, welche den zu revidierenden Entscheid gefällt haben. 
+Alleine der Umstand der erneuten Mitwirkung am Revisionsentscheid bildet 
+noch keinen zulässigen Ausstandsgrund. Im Revisionsverfahren stellen sich 
+andere Fragen als im zu revidierenden Entscheid über die Sache selbst. 
+Abweisung des Ausstandsgesuchs. 
+ 
+Obergericht, 2. Februar 2016, OG V 13 10 (Zwischenentscheid)
