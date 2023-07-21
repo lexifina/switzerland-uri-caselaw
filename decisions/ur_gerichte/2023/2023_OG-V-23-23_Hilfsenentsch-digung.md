@@ -1,0 +1,151 @@
+---
+decision_id: "ur_gerichte_2023_OG_V_23_23_Hilfsenentsch_digung"
+court: "UR Gerichte"
+court_id: "ur_gerichte"
+docket: "2023_OG V 23 23_Hilfsenentschädigung"
+decided: "2023-07-21"
+language: "de"
+source_url: "https://www.ur.ch/_rte/publikation/35740"
+pdf_url: "https://www.ur.ch/_rte/publikation/35740"
+cites_law: ["switzerland/bund/acts/830.1/art-061.md"]
+---
+
+# UR Gerichte 2023_OG V 23 23_Hilfsenentschädigung
+
+## Text
+
+OBERGERICHT 
+ Verwaltungsrechtliche Abteilung 
+__________________________ 
+OG V 23 23 
+ 
+ 
+Entscheid vom 21. Juli 2023 
+ 
+__________________________ 
+Besetzung 
+ 
+ 
+Präsidentin Agnes H. Planzer Stüssi, Vorsitz 
+Vizepräsidentin Lenka Ziegler, Oberrichter Tony Z’graggen 
+Gerichtsschreiberin Claudia Schlüssel 
+__________________________ 
+Verfahrensbeteiligte 
+ 
+ 
+A.____, 
+vertreten durch RA lic. iur. Georg Simmen, 
+Gotthardstrasse 44, 6490 Andermatt 
+Beschwerdeführer 
+ 
+gegen 
+ 
+IV-Stelle Uri, Dätwylerstrasse 11, 6460 Altdorf 
+Beschwerdegegnerin 
+ 
+__________________________ 
+Gegenstand 
+ 
+Hilflosenentschädigung und Assistenzbeitrag – 
+Neuverlegung Kosten- und Entschädigung 
+(BGer 8C_31/2023 vom 25.05.2023) 
+ 
+ 
+ 
+
+
+ 
+2 
+ 
+ 
+In Erwägung, dass 
+- das Obergericht des Kantons Uri mit Entscheid vom 2. Dezember 2022 (OG V 22 14) betreffend Hilf-
+losenentschädigung und Assistenzbeitrag die Verwaltungsgerichtsbeschwerde von A.____, (nachfol-
+gend: Beschwerdeführer), abwies, die amtlichen Kosten von insgesamt CHF 950.00 (CHF 900.00 Ge-
+richtsgebühr, CHF 50.00 Barauslagen pauschal) dem Beschwerdeführer auferlegt wurden, dem 
+Rechtsbeistand des Beschwerdeführers – im Rahmen der mit verfahrensleitender Verfügung vom 
+24. Mai 2022 gewährten unentgeltlichen Rechtsverbeiständung – vorläufig aus der Staatskasse eine 
+armenrechtliche Entschädigung von CHF 1'875.00 zugesprochen wurde; 
+- das Bundesgericht mit Urteil vom 25. Mai 2023 (BGer 8C_31/2023) die Beschwerde des Beschwerde-
+führers in öffentlich-rechtlichen Angelegenheiten guthiess, den Entscheid des Obergerichtes des Kan-
+tons Uri vom 2. Dezember 2022 aufhob, die Gerichtskosten von CHF 500.00 der Beschwerdegegnerin 
+auferlegt wurden, diese den Rechtsvertreter des Beschwerdeführers für das bundesgerichtliche Ver-
+fahren mit CHF 2'800.00 zu entschädigen hat, die Sache zur Neuverlegung der Kosten und der Partei-
+entschädigung des vorangegangenen Verfahrens an das Obergericht des Kantons Uri zurückgewiesen 
+wurde; 
+- im Nachgang zum Entscheid des Bundesgerichts das bisher unter der Nummer OG V 22 14 geführte 
+Verfahren mit Verfügung vom 27. Juni 2023 unter der neuen Nummer OG V 23 23 in das Ge-
+schäftsprotokoll des Obergerichtes des Kantons Uri (Verwaltungsrechtliche Abteilung) aufgenom-
+men wurde, gleichzeitig den Parteien mitgeteilt wurde, dass das Gericht über den weiteren Verfah-
+rensgang/die Sache entscheiden werde; 
+- dem Ausgang des letztinstanzlichen Verfahrens entsprechend der Beschwerdeführer als vollständig 
+obsiegende Partei vor Vorinstanz gilt; 
+- die amtlichen Kosten des Verfahrens vor dem Obergericht, ausmachend CHF 950.00, daher der Be-
+schwerdegegnerin aufzuerlegen sind (Art. 61 Ingress Bundesgesetz über den Allgemeinen Teil des 
+Sozialversicherungsrechts [ATSG, SR 830.1] i.V.m. Art. 34 Abs. 1 lit. b Verordnung über die Verwal-
+tungsrechtspflege (VRPV, RB 2.2345); 
+- für das vorliegende Verfahren keine Kosten zu erheben sind, diese als in den amtlichen Kosten des 
+Verfahrens OG V 22 14 mitenthalten zu gelten haben; 
+- dem Beschwerdeführer für das Verfahren vor Obergericht entsprechend dem letztinstanzlichen Ver-
+fahrensausgang eine Parteientschädigung von CHF 2'750.00 (inklusive Mehrwertsteuer und Ausla-
+gen; Art. 61 lit. g ATSG, vergleiche Art. 38 VRPV i.V.m. Art. 18 Abs. 1 und 2 und Art. 19 Abs. 1 Ge-
+richtsgebührenverordnung [GGebV, RB 2.3231] sowie Art. 32 Abs. 1 Gerichtsgebührenreglement 
+
+
+ 
+3 
+ 
+(GGebR, RB 2.3232) zulasten der Beschwerdegegnerin (Art. 37 Abs. 3 VRPV) zuzusprechen ist, dieser 
+Betrag der Praxis des Gerichts für Parteientschädigungen an anwaltlich vertretene Parteien bei Ver-
+waltungsgerichtsbeschwerden mittlerer Komplexität in tatsächlicher und rechtlicher Hinsicht bei 
+vollständigem Obsiegen entspricht. 
+ 
+
+
+ 
+4 
+ 
+Das Obergericht erkennt: 
+1. Die amtlichen Kosten des Verfahrens OG V 22 14, bestehend aus 
+ 
+CHF 
+900.00 
+Gerichtsgebühr 
+ 
+CHF 
+50.00 
+Barauslagen (pauschal) 
+ 
+ 
+CHF 
+950.00 
+Total, 
+ 
+ 
+ 
+werden der Beschwerdegegnerin auferlegt. 
+2. Die Beschwerdegegnerin hat dem Beschwerdeführer eine Parteientschädigung von CHF 2'750.00 
+zu entrichten. 
+3. Mitteilung an: 
+ 
+- Beschwerdeführer 
+ 
+- Beschwerdegegnerin 
+ 
+- Bundesamt für Sozialversicherungen 
+ 
+Altdorf, 21. Juli 2023 
+OBERGERICHT DES KANTONS URI 
+Verwaltungsrechtliche Abteilung 
+Die Präsidentin 
+Die Gerichtsschreiberin 
+ 
+ 
+ 
+Rechtsmittelbelehrung 
+Gegen diesen Entscheid kann Beschwerde in öffentlich-rechtlichen Angelegenheiten erhoben werden. 
+Die Beschwerde ist innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim Bundes-
+gericht, Schweizerhofquai 6, 6004 Luzern, in der in Art. 42 Bundesgerichtsgesetz vorgeschriebenen 
+Weise schriftlich einzureichen. Die Beschwerdelegitimation und die zulässigen Beschwerdegründe 
+richten sich nach den massgeblichen Bestimmungen des Bundesgerichtsgesetzes. 
+Versand:
