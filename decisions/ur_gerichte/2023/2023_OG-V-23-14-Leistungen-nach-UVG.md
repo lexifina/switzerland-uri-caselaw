@@ -1,0 +1,497 @@
+---
+decision_id: "ur_gerichte_2023_OG_V_23_14_Leistungen_nach_UVG"
+court: "UR Gerichte"
+court_id: "ur_gerichte"
+docket: "2023_OG V 23 14 Leistungen nach UVG"
+decided: "2023-10-20"
+language: "de"
+source_url: "https://www.ur.ch/_rte/publikation/35317"
+pdf_url: "https://www.ur.ch/_rte/publikation/35317"
+cites_law: ["switzerland/bund/acts/830.1/art-004.md", "switzerland/bund/acts/830.1/art-039.md", "switzerland/bund/acts/830.1/art-044.md", "switzerland/bund/acts/830.1/art-057.md", "switzerland/bund/acts/830.1/art-058.md", "switzerland/bund/acts/830.1/art-059.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/832.20/art-006.md", "switzerland/bund/acts/832.20/art-010.md", "switzerland/bund/acts/832.20/art-016.md"]
+---
+
+# UR Gerichte 2023_OG V 23 14 Leistungen nach UVG
+
+## Text
+
+OBERGERICHT 
+ Verwaltungsrechtliche Abteilung 
+__________________________ 
+OG V 23 14 
+ 
+ 
+Entscheid vom 20. Oktober 2023 
+ 
+__________________________ 
+Besetzung 
+ 
+ 
+Präsidentin Agnes H. Planzer Stüssi 
+Oberrichterin Renata Graf, Oberrichter Stefan Flury 
+Gerichtsschreiber Matthias Jenal 
+__________________________ 
+Verfahrensbeteiligte 
+ 
+ 
+A.___, 
+Beschwerdeführerin 
+ 
+gegen 
+ 
+Versicherung B.___, 
+vertreten durch RA Dr. Gilles Benedick, 
+Via Ariosto 6, P.O. Box 1139, 6901 Lugano 
+Beschwerdegegnerin 
+ 
+ 
+ 
+ 
+__________________________ 
+Gegenstand 
+ 
+Leistungen nach UVG 
+(Einspracheentscheid vom 14.03.2023) 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+Seite 2 von 12 
+ 
+Prozessgeschichte: 
+A. 
+Die am xx.yy.zz geborene Beschwerdeführerin war über ihren Arbeitgeber bei der Versicherung B.___, 
+gegen die Folgen von Unfällen versichert, als sie am 21. Januar 2023 beim Ski-Skating das linke Knie 
+verdreht hat. Die Erstbehandlung fand am 24. Januar 2023 im Spital X.___ statt. Dabei wurden bei 
+Knieschmerzen links und Status nach Kniedistorsion ein Kniegelenkserguss sowie klinisch Anzeichen 
+für eine mediale Meniskusläsion festgestellt (Sprechstundenbericht vom 24.01.2023, BG-act. M 4/1). 
+In einer MRT vom 26. Januar 2023 konnte im linken Knie ein horizontaler Innenmeniskushinterhornriss 
+festgestellt werden (Radiologiebericht vom 26.01.2023, BG-act. M 6/1). In der Folge wurde ein konser-
+vatives Vorgehen (Analgesie und Physiotherapie) vereinbart; eine Arbeitsunfähigkeit bestand nicht 
+(Bericht vom 08.02.2023, BG-act. M 2/2). Nach Konsultation ihres beratenden Arztes lehnte die Versi-
+cherung B.___ mit Verfügung vom 21. Februar 2023 ihre Leistungspflicht als Unfallversicherer ab. Auf 
+Einsprache der Beschwerdeführerin hin und nach erneuter Konsultation des beratenden Arztes bestä-
+tigte die Versicherung B.___ diese Verfügung (Einspracheentscheid vom 14.03.2023). 
+B. 
+Mit Eingabe vom 13. April 2023 (Poststempel) erhob die Beschwerdeführerin gegen den Einsprache-
+entscheid der Versicherung B.___ vom 14. März 2023 Verwaltungsgerichtsbeschwerde an das Oberge-
+richt des Kantons Uri (Verwaltungsrechtliche Abteilung). Sie beantragt sinngemäss die Aufhebung des 
+Einspracheentscheids und die Ausrichtung der gesetzlichen Leistungen aus der Unfallversicherung. 
+Auf die Begründung dieser Anträge wird – soweit erforderlich – in den nachstehenden Erwägungen 
+eingegangen. 
+C. 
+Nach entsprechender Aufforderung durch das Gericht reichte die Beschwerdeführerin am 26. April 
+2023 innert Frist den angefochtenen Einspracheentscheid nach. 
+D. 
+Die Versicherung B.___ beantragte in ihrer Beschwerdeantwort vom 24. Mai 2023 die vollumfängliche 
+Abweisung der Beschwerde und edierte die Akten. 
+Auf die Begründung dieses Antrags wird – soweit erforderlich – ebenfalls in den nachstehenden Erwä-
+gungen eingegangen. 
+ 
+ 
+
+
+ 
+ 
+Seite 3 von 12 
+ 
+E. 
+Mit Eingabe vom 16. Juni 2023 replizierte die Beschwerdeführerin und hielt an ihren Anträgen fest. Die 
+Versicherung B.___ hielt in ihrer Duplik vom 12. Juli 2023 an den ihrerseits gestellten Anträgen fest. 
+Mit verfahrensleitender Verfügung vom 13. Juli 2023 wurde der Schriftenwechsel als geschlossen er-
+klärt und den Parteien mitgeteilt, dass über den weiteren Verfahrensgang/die Sache entschieden 
+werde. 
+ 
+Erwägungen: 
+1. 
+1.1 Gegen Einspracheentscheide der Beschwerdegegnerin kann Beschwerde an das kantonale Versi-
+cherungsgericht erhoben werden (Art. 56 Abs. 1 Bundesgesetz über den Allgemeinen Teil des Sozial-
+versicherungsrechts [ATSG, SR 830.1]). Dieses entscheidet als einzige kantonale Instanz (Art. 57 ATSG). 
+Zuständig ist das Versicherungsgericht desjenigen Kantons, in dem die versicherte Person zur Zeit der 
+Beschwerdeerhebung Wohnsitz hat (Art. 58 Abs. 1 ATSG). Das Obergericht des Kantons Uri (Verwal-
+tungsrechtliche Abteilung) ist damit sowohl funktionell als auch örtlich sowie sachlich (Art. 5 Verord-
+nung über die Rechtspflege in der Unfallversicherung [RB 20.2221; nachfolgend Rechtspflegeverord-
+nung]) für die Behandlung der Beschwerde zuständig. 
+1.2 Zur Beschwerde berechtigt ist, wer durch die angefochtene Verfügung oder den Einspracheent-
+scheid berührt ist und ein schutzwürdiges Interesse an deren Aufhebung oder Änderung hat (Art. 59 
+ATSG). Die Beschwerdeführerin ist als versicherte Person mit ihren Anträgen bei der Beschwerdegeg-
+nerin unterlegen und hat daher ein schutzwürdiges Interesse an der Aufhebung oder Änderung des 
+entsprechenden Entscheids. 
+1.3 Die 30-tägige Beschwerdefrist (Art. 60 Abs. 1 i.V.m. Art. 38 Abs. 4 lit. a und Art. 39 Abs. 1 ATSG) 
+sowie die Formvorschriften (Art. 61 lit. b ATSG) wurden eingehalten. Auf die Beschwerde ist einzutre-
+ten. 
+2. 
+2.1 Gemäss Art. 6 Abs. 1 Bundesgesetz über die Unfallversicherung (UVG, SR 832.20) werden bei Be-
+rufsunfällen, Nichtberufsunfällen und Berufskrankheiten Versicherungsleistungen gewährt. Der Versi-
+cherte hat Anspruch auf die zweckmässige Behandlung der Unfallfolgen (Art. 10 Abs. 1 UVG). Ist der 
+Versicherte infolge des Unfalles voll oder teilweise arbeitsunfähig, so hat er Anspruch auf ein Taggeld 
+(Art. 16 Abs. 1 UVG). 
+2.2 Die Leistungspflicht des Unfallversicherers setzt zunächst voraus, dass zwischen dem Unfallereig-
+nis und dem eingetretenen Schaden (Krankheit, Invalidität, Tod) ein natürlicher Kausalzusammenhang 
+
+
+ 
+ 
+Seite 4 von 12 
+ 
+besteht. Ursachen im Sinne des natürlichen Kausalzusammenhanges sind alle Umstände, ohne deren 
+Vorhandensein der eingetretene Erfolg nicht als eingetreten oder nicht als in der gleichen Weise be-
+ziehungsweise nicht zur gleichen Zeit eingetreten gedacht werden kann. Entsprechend dieser Um-
+schreibung ist für die Bejahung des natürlichen Kausalzusammenhanges nicht erforderlich, dass ein 
+Unfall die alleinige oder unmittelbare Ursache gesundheitlicher Störungen ist. Es genügt, dass das 
+schädigende Ereignis zusammen mit anderen Bedingungen die körperliche oder geistige Integrität der 
+Versicherten beeinträchtigt hat, der Unfall mit anderen Worten nicht weggedacht werden kann, ohne 
+dass auch die eingetretene gesundheitliche Störung entfiele (BGE 129 V 181 E. 3.1, 119 V 337 E. 1). 
+2.3 Ob zwischen einem schädigenden Ereignis und einer gesundheitlichen Störung ein natürlicher 
+Kausalzusammenhang besteht, ist eine Tatfrage, worüber die Verwaltung beziehungsweise im Be-
+schwerdefall der Richter im Rahmen der ihm obliegenden Beweiswürdigung nach dem im Sozialversi-
+cherungsrecht üblichen Beweisgrad der überwiegenden Wahrscheinlichkeit zu befinden hat (BGE 117 
+V 376 f. E. 3a). Dabei ist die Formel «post hoc, ergo propter hoc», wonach eine gesundheitliche Störung 
+schon dann als durch den Unfall verursacht gilt, weil sie nach diesem aufgetreten ist, beweisrechtlich 
+nicht zulässig (BGE 119 V 340 ff. E. 2b/bb mit Hinweisen; U 290/06 vom 11.06.2007 E. 4.2.3). Die blosse 
+Möglichkeit eines Zusammenhanges genügt für die Begründung eines Leistungsanspruches nicht 
+(BGE 119 V 338 E. 1, 117 V 377 E. 3a). Das Gericht hat jener Sachverhaltsdarstellung zu folgen, die es 
+von allen möglichen Geschehensabläufen als die wahrscheinlichste würdigt (BGE 126 V 360 E. 5b). Gilt 
+es zwischen zwei oder mehreren Möglichkeiten zu entscheiden, ist diejenige überwiegend wahrschein-
+lich, welche sich am ehesten zugetragen hat (Ueli Kieser, ATSG-Kommentar, 4. Aufl., Zürich 2020, Art. 
+43 Rz. 59). 
+2.4 Ein Unfall ist die plötzliche, nicht beabsichtigte, schädigende Einwirkung eines ungewöhnlichen 
+äusseren Faktors auf den menschlichen Körper, die eine Beeinträchtigung der körperlichen, geistigen 
+oder psychischen Gesundheit oder den Tod zur Folge hat (Art. 4 ATSG). Der äussere Faktor ist unge-
+wöhnlich, wenn er – nach einem objektiven Massstab – nicht mehr im Rahmen dessen liegt, was für 
+den jeweiligen Lebensbereich alltäglich und üblich ist (BGE 134 V 76 E. 4.1). Nach der Rechtsprechung 
+bezieht sich das Begriffsmerkmal der Ungewöhnlichkeit nicht auf die Wirkung des äusseren Faktors, 
+sondern nur auf diesen selbst. Ohne Belang für die Prüfung der Ungewöhnlichkeit ist somit, dass der 
+äussere Faktor allenfalls schwerwiegende, unerwartete Folgen nach sich zog (BGer 8C_545/2019 vom 
+14.11.2019 E. 9.1). Nach der bundesgerichtlichen Rechtsprechung ist das Merkmal der Ungewöhnlich-
+keit ohne besonderes Vorkommnis auch bei einer Sportverletzung zu verneinen. Der äussere Faktor ist 
+dann nicht ungewöhnlich, wenn ein Geschehen – nach einem objektiven Massstab – in die gewöhnli-
+che Bandbreite der Bewegungsmuster des betreffenden Sports fällt (BGer 8C_835/2013 vom 
+28.01.2014 E. 5.1 mit Hinweisen). Liegt jedoch eine den normalen, üblichen Bewegungsablauf störende 
+
+
+ 
+ 
+Seite 5 von 12 
+ 
+Programmwidrigkeit vor («unkoordinierte Bewegung»), ist das Merkmal des ungewöhnlichen äusse-
+ren Faktors erfüllt (vgl. BGE 130 V 117 E. 3). Ob ein Unfall im Sinne von Art. 4 ATSG vorliegt, beurteilt 
+sich nach dem im Sozialversicherungsrecht üblichen Beweisgrad der überwiegenden Wahrscheinlich-
+keit (BGE 119 V 9 E. 3c/aa sowie E. 2.3 hievor). 
+2.5 Die Leistungspflicht der Unfallversicherung kann sich auch aus einer unfallähnlichen Körperschä-
+digung gemäss Art. 6 Abs. 2 lit. a - h UVG ergeben, sofern sie nicht vorwiegend auf Abnützung oder 
+Erkrankung zurückzuführen ist. Der Zweck des Instituts der unfallähnlichen Körperschädigung besteht 
+darin, die oft schwierige Abgrenzung zwischen Unfall und Krankheit zugunsten der Versicherten zu 
+vermeiden (BGE 146 V 51 E. 8.4). Nach der Rechtsprechung führt die Tatsache, dass eine in Art. 6 Abs. 
+2 lit. a - h UVG genannte Körperschädigung vorliegt, zur Vermutung, es handle sich hierbei um eine 
+unfallähnliche Körperschädigung, die vom Unfallversicherer übernommen werden muss, wobei dem 
+Versicherer die Möglichkeit des Gegenbeweises offensteht. Der Unfallversicherer steht mit anderen 
+Worten bei Vorliegen einer Listenverletzung grundsätzlich in der Pflicht, Leistungen zu erbringen, so-
+lange er nicht den Nachweis für eine vorwiegende Bedingtheit durch Abnützung oder Erkrankung er-
+bringt (vgl. BGE 146 V 51 E. 8.6). Damit der Entlastungsbeweis gelingt, hat der Unfallversicherer ge-
+stützt auf beweiskräftige ärztliche Einschätzungen – mit dem Beweisgrad der überwiegenden Wahr-
+scheinlichkeit – nachzuweisen, dass die fragliche Listenverletzung vorwiegend, d.h. im gesamten Ursa-
+chenspektrum zu mehr als 50 %, auf Abnützung oder Erkrankung zurückzuführen ist. Nebst dem Vor-
+zustand sind auch die Umstände des erstmaligen Auftretens der Beschwerden näher zu beleuch-
+ten. Lässt sich dabei kein initiales Ereignis erheben oder lediglich ein solches ganz untergeordneter 
+respektive harmloser Art, so vereinfacht dies zwangsläufig in aller Regel den Entlastungsbeweis des 
+Unfallversicherers. Die verschiedenen Indizien, die für oder gegen Abnützung oder Erkrankung spre-
+chen, müssen aus medizinischer Sicht gewichtet werden (zum Ganzen: BGE 146 V 51 E. 8.6). Massge-
+blich ist dabei, dass die medizinische Fachperson ihre Schlussfolgerungen darlegt und begründet, so 
+dass sie nachvollziehbar und unter Berücksichtigung der Gesamtumstände überzeugend sind (BGer 
+8C_25/2023 vom 26.04.2023 E.6.2.1; vgl. auch E. 3.2 nachfolgend). 
+3. 
+3.1 Gemäss dem Untersuchungsgrundsatz haben Versicherungsträger und Sozialversicherungsge-
+richte von sich aus und ohne Bindung an die Parteibegehren für die richtige und vollständige Feststel-
+lung des rechtserheblichen Sachverhaltes zu sorgen (Art. 43 Abs. 1 und 61 lit. c ATSG; BGE 122 V 158 
+E. 1a). Davon zu unterscheiden ist die Frage der Beweislast; das heisst die Frage, wer die Folgen der 
+Beweislosigkeit zu tragen hat, wenn sich nach dem erforderlichen Beweisgrad der überwiegenden 
+Wahrscheinlichkeit kein rechtserheblicher Sachverhalt feststellen lässt. Die Annahme der Beweislosig-
+keit ist allerdings erst zulässig, wenn es sich als unmöglich erweist, im Rahmen der Abklärungspflicht 
+
+
+ 
+ 
+Seite 6 von 12 
+ 
+aufgrund einer Beweiswürdigung einen Sachverhalt zu ermitteln, der zumindest die Wahrscheinlich-
+keit für sich hat, der Wirklichkeit zu entsprechen (BGer 9C_254/2017 vom 21.08.2017 E. 4.4). 
+3.2 Das Bundesrecht schreibt nicht vor, wie die einzelnen Beweismittel zu würdigen sind. Für das ge-
+samte Verwaltungs- und Verwaltungsgerichtsbeschwerdeverfahren gilt der Grundsatz der freien Be-
+weiswürdigung (vergleiche Art. 61 lit. c ATSG). Danach haben Versicherungsträger und Sozialversiche-
+rungsrichter die Beweise frei, das heisst ohne Bindung an förmliche Beweisregeln sowie umfassend 
+und pflichtgemäss zu würdigen. Dies bedeutet, dass das Sozialversicherungsgericht alle Beweismittel, 
+unabhängig, von wem sie stammen, objektiv zu prüfen und danach zu entscheiden hat, ob die verfüg-
+baren Unterlagen eine zuverlässige Beurteilung des streitigen Rechtsanspruches gestatten. Insbeson-
+dere darf es bei einander widersprechenden medizinischen Berichten den Prozess nicht erledigen, 
+ohne das gesamte Beweismaterial zu würdigen und die Gründe anzugeben, warum es auf die eine und 
+nicht auf die andere medizinische These abstellt. Hinsichtlich des Beweiswertes eines Arztberichtes ist 
+also entscheidend, ob der Bericht für die streitigen Belange umfassend ist, auf allseitigen Untersuchun-
+gen beruht, auch die beklagten Beschwerden berücksichtigt, in Kenntnis der Vorakten (Anamnese) ab-
+gegeben worden ist, in der Darlegung der medizinischen Zusammenhänge und in der Beurteilung der 
+medizinischen Situation einleuchtet und ob die Schlussfolgerungen der Expertin oder des Experten be-
+gründet sind. Ausschlaggebend für den Beweiswert ist somit weder die Herkunft eines Beweismittels 
+noch die Bezeichnung der eingereichten oder in Auftrag gegebenen Stellungnahme als Bericht oder 
+Gutachten (BGE 125 V 352 E. 3a; BGer 8C_42/2008 vom 19.01.2009 E. 2.4 mit Hinweisen). 
+3.3 Auch den Berichten und Gutachten versicherungsinterner Ärzte kommt Beweiswert zu, sofern sie 
+schlüssig erscheinen, nachvollziehbar begründet sowie in sich widerspruchsfrei sind und keine Indizien 
+gegen ihre Zuverlässigkeit bestehen. Die Tatsache allein, dass der befragte Arzt in einem Anstellungs-
+verhältnis zum Versicherungsträger steht, lässt nicht schon auf mangelnde Objektivität und Befangen-
+heit schliessen. Es bedarf vielmehr besonderer Umstände, welche das Misstrauen in die Unparteilich-
+keit der Beurteilung objektiv als begründet erscheinen lassen (BGE 125 V 353 f. E. 3b/ee, 122 V 161 f. 
+E. 1c). An die Beweiswürdigung versicherungsinterner Beurteilungen sind indessen strenge Anforde-
+rungen zu stellen. Insbesondere sind die Berichte anderer Ärzte mitzuberücksichtigen. Wird die Schlüs-
+sigkeit der Feststellungen der versicherungsinternen Fachpersonen durch nachvollziehbare Berichte 
+eines anderen Arztes in Zweifel gezogen, so genügt der pauschale Hinweis auf dessen auftragsrechtli-
+che Stellung nicht, um solche Zweifel auszuräumen. Bestehen auch nur geringe Zweifel an der Zuver-
+lässigkeit und Schlüssigkeit der versicherungsinternen ärztlichen Feststellungen, so sind ergänzende 
+Abklärungen vorzunehmen (BGE 122 V 157 E. 1.d S. 162 f. 125 V 351 E. 3.a S. 352 ff.). Dennoch darf 
+und soll in Bezug auf Berichte von Hausärzten und behandelnden Ärzten der Erfahrungstatsache Rech-
+nung getragen werden, dass diese im Hinblick auf ihre auftragsrechtliche Vertrauensstellung in Zwei-
+felsfällen eher zu Gunsten ihrer Patienten aussagen (BGE 135 V 470 E. 4.5, 125 V 353 E. 3b/cc). Auch 
+
+
+ 
+ 
+Seite 7 von 12 
+ 
+kann nicht aus dem Vorliegen einer allfälligen entgegenstehenden (haus-)ärztlichen Einschätzung un-
+besehen ihres Inhalts auf geringe Zweifel an den Beurteilungen der versicherungsinternen Fachperso-
+nen geschlossen werden (vgl. BGer 8C_68/2019 vom 22.07.2019 E. 4.2.1). 
+4. 
+Die medizinische Aktenlage präsentiert sich im Wesentlichen wie folgt (gemäss Aktendossier der Be-
+schwerdegegnerin eingereicht mit der Beschwerdeantwort [nachfolgend: BG-act.]). 
+4.1 Die Erstbehandlung nach dem Ereignis vom 21. Januar 2023 fand am 24. Januar 2023 im Spital 
+X.___, statt. Im Sprechstundenbericht von Dr. med. C.___ vom 24. Januar 2023 (BG-act. M 4/1) wurden 
+Knieschmerzen links bei Status nach Distorsion beim Skifahren am 21. Januar 2023 und Status nach 
+Ersatz des Vorderen Kreuzbandes (VKB) beidseits diagnostiziert; als Differenzialdiagnose ergab sich 
+eine Meniskusläsion medial. Bei der Patientin bestehe nach einer Kniedistorsion – diese habe sich am 
+21. Januar 2023 beim Skifahren das linke Knie verdreht – ein Kniegelenkserguss und klinisch Anzeichen 
+für eine mediale Meniskusläsion, das VKB erscheine klinisch intakt bei Status nach Ersatzplastik vor 
+circa 15 Jahren. Zur genauen Diagnostik wurde ein MRT anberaumt. 
+4.2 Im Radiologiebericht zur MRT Knie links vom 26. Januar 2023 (BG-act. M 6/1) führten die Dres. 
+med. D.___ und l aus, dass bei der Beschwerdeführerin ein horizontaler Innenmeniskushinterhornriss 
+sowie eine geringe Chondropathie medial bei intakter VKB-Plastik festgestellt worden sei. 
+4.3 Im Sprechstundenbericht vom 27. Januar 2023 (BG-act. 3/1) diagnostizierte Dr. med. C.___ eine 
+mediale Meniskusläsion Knie links bei Status nach VKB-Ersatz. Am Knie links zeige sich noch ein mini-
+mer Erguss. Druckdolenz sei nach wie vor über dem medialen Gelenkspalt dorsal vorhanden. Der Me-
+niskustest (McMurray, Apley-Grinding) sei reproduzierbar positiv medial, Lachmann negativ, mediola-
+teral stabil, patellofemoral unauffällig. Es ergebe sich ein hinkfreies, flüssiges Gangbild. Wie klinisch 
+bereits vermutet, habe sich im MRT am medialen Meniskus eine Ruptur im dorsalen Bereich gezeigt. 
+Aufgrund der von der Patientin berichteten Beschwerdebesserung sei vereinbart worden, zunächst 
+konservativ vorzugehen. 
+4.4 Im als «Arztzeugnis» betitelten Bericht vom 8. Februar 2023 zuhanden der Beschwerdegegnerin 
+(BG-act. M 2/1) bestätigte Dr. med. C.___ im Wesentlichen die bis dahin erhaltenen Erkenntnisse. Zur 
+Kausalität führte Dr. med. C.___ aus «Unfall». Es sei mit der Patientin bei diagnostizierter medialer 
+Meniskusruptur ein zunächst konservatives Vorgehen vereinbart worden (Analgesie und Physiothera-
+pie). 
+4.5 In der Erstbeurteilung des beratenden Arztes der Beschwerdegegnerin, Dr. med. F.___ vom 
+20. Februar 2023 (BG-act. M 5), führte dieser aus, es liege eine Listenverletzung im Sinne von Art. 6 
+
+
+ 
+ 
+Seite 8 von 12 
+ 
+Abs. 2 lit. c UVG vor. Die Innenmeniskusläsion sei bei Bandstabilität der VKB-Plastik jedoch vorwiegend 
+und überwiegend wahrscheinlich «anzulassen» (recte wohl: Abnützung oder Erkrankung anzulasten). 
+4.6 Im Rahmen des Einspracheverfahrens beurteilte Dr. med. F.___ den Fall erneut. In seiner Akten-
+beurteilung vom 10. März 2023 (BG-act. M 7/1) bestätigte er das Vorliegen einer Listenverletzung (Me-
+niskusriss). Diese sei jedoch vorwiegend auf Abnützung oder Erkrankung zurückzuführen. Es liege über-
+wiegend wahrscheinlich ausschliesslich eine degenerativ bedingte Innenmeniskusläsion mit ganglinö-
+ser Beteiligung und Komplexruptur am linken Knie vor. Diese Meniskusläsion sei nach dem gemeldeten 
+Vorfall am 21. Januar 2023 lediglich symptomatisch geworden, wobei die Bänder an diesem Knie als 
+suffizient klinisch und bildgebend beschrieben würden. Die progrediente Arthroseentwicklung auch 
+nach erfolgreicher VKB-Plastik sei inzwischen hinreichend bekannt. Gemäss gutachterlicher Literatur 
+(Alfred Schönenberger/Gerhard Mehrtens/Helmut Valentin, Arbeitsunfall und Berufskrankheit, Recht-
+liche und medizinische Grundlagen für Gutachter, Sozialverwaltung, Berater und Gerichte, 9. und ak-
+tuelle Aufl., S. 655) sei die traumatische Meniskusläsion nur möglich, wenn die physiologischen Bewe-
+gungs- und Belastungsgrenzen überschritten würden. Dann werde jedoch gefordert, dass auch schüt-
+zende Strukturen wie der Kapselbandapparat mitgeschädigt sei. Das sei hier eindeutig nicht der Fall 
+gewesen. 
+5. 
+5.1 Die Beschwerdegegnerin hat im angefochtenen Einspracheentscheid erwogen, beim Ereignis vom 
+21. Januar 2023 handle es sich nicht um einen Unfall im Rechtssinne. Der im Fragebogen vom 9. Feb-
+ruar 2023 respektive in der Unfallmeldung vom 2. Februar 2023 beschriebene Hergang («Ski-Skating 
+in […] – Knie verdreht», «Beim Skaten Knie verdreht») könne nicht als ungewöhnlich bezeichnet wer-
+den. Der Ablauf sei in der üblichen Spannweite des betreffenden Sports erfolgt. Zu prüfen sei noch, ob 
+eine unfallähnliche Körperschädigung vorliege. Dies sei gestützt auf die Beurteilungen von Dr. med. 
+F.___ zu verneinen. Sollte hypothetisch eine Listenverletzung vorliegen, sei diese mit über 50 % Wahr-
+scheinlichkeit auf eine Abnützung oder Erkrankung zurückzuführen. 
+5.2 Die Beschwerdeführerin wendet ein, sie treibe sehr viel Sport und ernähre sich gesund. Das ver-
+hindere bekanntlich Degeneration und Osteoporose. Es sei nicht rechtens, dass im Umkehrschluss alle 
+Menschen ab einem gewissen Alter kein Recht auf eine angemessene Unfallkostendeckung hätten, 
+wenn sie eine imaginäre Verschleissgrenze erreicht hätten. Die Kreuzbandoperation 15 Jahre zuvor 
+habe keine Relevanz. Nach der Operation sei ihr damals bescheinigt worden, dass die Menisken völlig 
+unverletzt seien und auch das aktuelle MRI zeige keine Zeichen einer über den Unfall hinausgehenden 
+Schädigung respektive einer Arthrose. In der Replik bringt die Beschwerdeführerin vor, die MRI-Befun-
+dung durch den Radiologen im Spital X.___ habe ein «fragliches kleinstes parameniskales Ganglion am 
+
+
+ 
+ 
+Seite 9 von 12 
+ 
+Übergang Hinterhorn/Pars intermedia Knorpel intakt» ergeben. Bildgebend liege weder eine schwer-
+wiegende noch eine anders geartete Degeneration als auch kein weiterer Knorpelschaden vor. Die 
+gutachterlichen Aussagen seien widersprüchlich. 
+6. 
+6.1 Fraglich erscheint zunächst die Auffassung der Beschwerdegegnerin, es liege beim Vorfall vom 
+21. Januar 2023 kein Unfallereignis im Rechtssinne vor. Die Beschwerdeführerin hat konsistent ange-
+geben, dass sie beim Ski-Skating das linke Knie «verdreht» habe. Auch der erstbehandelnde Arzt ging 
+von einer Kniedistorsion und nicht etwa einer blossen Kniekontusion aus. Es erschliesst sich dem Ge-
+richt nicht, inwiefern eine Knieverdrehung zum programmgemässen Ablauf beim Skifahren gehören 
+sollte. Ob daneben auch noch ein Sturz erfolgt ist, erscheint nicht weiter relevant. Die Frage, ob ein 
+Unfall im Rechtssinne vorlag, kann jedoch mit Blick auf die nachfolgenden Erwägungen ohnehin offen-
+bleiben. 
+6.2 Unbestritten und aktenmässig belegt ist, dass die Beschwerdeführerin im Anschluss an die Ver-
+drehung ihres linken Knies einen Meniskusriss und somit eine Listenverletzung im Sinne von Art. 6 Abs. 
+2 lit. c UVG erlitten hat. Der Meniskusriss konnte zeitnah zum Vorfall bildgebend objektiviert werden. 
+Zudem wies der festgestellte Kniegelenkserguss gerichtsnotorisch auf eine unfallbedingte Verursa-
+chung hin (vgl. dazu Entscheid Obergericht des Kantons Uri vom 29. September 2023, OG V 22 35, 
+E. 4.8 und 5.2.4). Auch die vorliegend unmittelbar einsetzende Schmerzhaftigkeit, das zeitnahe Aufsu-
+chen ärztlicher Hilfe und die Dynamik des klinischen Verlaufes mit Beschwerdemaximum zeitnah zum 
+Vorfall mit im Weiteren Abnahme der Beschwerdesymptomatik sind Indizien für die traumatische Ver-
+ursachung (vgl. Die Menisken des Kniegelenks und ihre versicherungsmedizinische Betrachtung, SUVA 
+Medical vom 30. Juni 2022, abrufbar unter: https://www.suva.ch/de-ch/unfall/fuer-leistungserbrin-
+ger/suva-medical/publikationen/2022/juni/medical-2022-03-menisken-des-kniegelenks-versiche-
+rungsmedizinische-betrachtung zuletzt besucht: 05.09.2023). Liegt demnach eine Listenverletzung im 
+Sinne von Art. 6 Abs. 2 UVG vor, wird die Leistungspflicht der Unfallversicherung vermutet. Vor diesem 
+Hintergrund müsste es der Beschwerdegegnerin gelingen, mit schlüssigen und nachvollziehbar begrün-
+deten ärztlichen Beurteilungen den Gegenbeweis zu erbringen, nämlich dass die Listenverletzung (kon-
+kret: der Meniskusriss) vorwiegend, d.h. im gesamten Ursachenspektrum zu mehr als 50 %, auf Abnüt-
+zung oder Erkrankung zurückzuführen ist (vgl. E. 2.5 hievor). Hierbei ist zu berücksichtigen, dass vor-
+liegend einzig Beurteilungen des beratenden Arztes der Unfallversicherung vorliegen und demnach 
+schon geringe Zweifel an der Schlüssigkeit der Beurteilungen genügen, um ergänzende Abklärungen 
+zu verlangen (vgl. E. 3.3 hievor). 
+ 
+ 
+
+
+ 
+ 
+Seite 10 von 12 
+ 
+6.3 
+6.3.1 
+Dr. med. F.___ hält in seiner Aktenbeurteilung vom 10. März 2023 fest, dass überwiegend 
+wahrscheinlich ausschliesslich eine degenerativ bedingte Innenmeniskusläsion mit ganglinöser Betei-
+ligung und Komplexruptur am linken Knie vorliege. Eine schlüssige Begründung für diese Beurteilung 
+lässt sich der Stellungahme vom 10. März 2023 (BG-act. M 7/4) jedoch nicht entnehmen. Ein relevanter 
+Vorzustand am Meniskus des linken Knies ist nicht dokumentiert (siehe dazu auch Radiologiebericht 
+vom 26.01.2023 «Keine vergleichbare Voruntersuchung vorliegend», BG-act. M 6/1). Nach Angaben 
+der Beschwerdeführerin war der Meniskus nach Einsetzen der VKB-Plastik vor 15 Jahren nach Rück-
+meldung der damaligen Ärzte unauffällig. 
+6.3.2 
+Soweit der beratende Arzt auf ein Ganglion Bezug nimmt und daraus ableiten möchte, dass 
+dieses für den angenommenen degenerativ bedingten Zustand mitverantwortlich ist, so ist dem ent-
+gegenzuhalten, dass schon das Vorliegen eines Ganglions zweifelhaft ist. Im Radiologiebericht vom 
+26.01.2023 ist von einem fraglichen – also keineswegs überwiegend wahrscheinlichen – Ganglion am 
+Übergang Hinterhorn/Pars intermedia die Rede. Im Übrigen wird durch den beratenden Arzt nicht 
+nachvollziehbar erklärt und es ist für das Gericht auch nicht ersichtlich, weshalb ein Ganglion in einem 
+relevanten Zusammenhang mit dem hier vorliegenden Meniskusriss stehen sollte. 
+6.3.3 
+Soweit der beratende Arzt auf eine Arthrose Bezug nimmt und ausführt, eine progrediente 
+Arthroseentwicklung sei auch nach erfolgreicher VKB-Plastik inzwischen hinreichend bekannt, so mag 
+zutreffen und ist dem Gericht aus einem anderen Fall auch bekannt, dass die Arthroseinzidenz bezie-
+hungsweise -progredienz nach einer vorderen Kreuzbandruptur erhöht zu sein scheint, zumindest und 
+insbesondere wenn sie mittels Patellarsehnentransplantats rekonstruiert wurde und – was bei der Be-
+schwerdeführerin übrigens nicht der Fall war – eine Teilmeniskektomie erfolgt ist (vgl. Entscheid Ober-
+gericht des Kantons Uri vom 26.10.2018, OG V 18 4, E. 5c). Was aus dieser allgemeinen Feststellung 
+zur Arthroseinzidenz beziehungsweise -progredienz nach VKB-Ersatz in Bezug auf den konkreten Fall 
+und die Annahme eines ausschliesslich oder doch vorwiegend degenerativen Zustands als Ursache für 
+den Meniskusschaden zu gewinnen wäre, ist jedoch nicht ersichtlich. Tatsache ist, dass bei der Be-
+schwerdeführerin im hier betroffenen linken Knie lediglich eine geringe Chondropathie festgestellt 
+wurde. Inwiefern eine lediglich geringe Chondropathie (ein geringer Knorpelschaden), welche je nach 
+Terminologie noch gar nicht als Arthrose bezeichnet wird (vgl. Dr. Christian Albrecht, Knorpelschaden, 
+Chondropathie 
+im 
+Knie, 
+abrufbar 
+unter: 
+https://www.knieschmerzen-wien.at/knorpelscha-
+den.html#:~:text=Knorpelsch%C3%A4den%2C%20lateinisch%20Chondropathia%20oder%20Chond-
+ropathie,betrifft%2C%20spricht%20man%20von%20Arthrose zuletzt besucht: 06.09.2023), hier einen 
+wesentlichen Anteil an der Verursachung des Meniskusrisses im Sinne einer vorwiegend degenerativen 
+Abnutzung gehabt haben soll, ist in dieser pauschalen und nicht weiter begründeten Form, wie sie in 
+
+
+ 
+ 
+Seite 11 von 12 
+ 
+der Aktenbeurteilung vom 10. März 2023 dargelegt wird, nicht plausibel und schlüssig. Vielmehr wei-
+sen die oben erwähnten Indizien (vgl. 6.2 hievor) eher auf eine durch den Vorfall vom 21. Januar 2023 
+verursachte Schädigung hin. 
+6.3.4 
+Nach dem Ausgeführten ergeben sich für das Gericht objektive Zweifel an der Zuverlässigkeit 
+und Schlüssigkeit der versicherungsinternen ärztlichen Aktenbeurteilung des beratenden Arztes vom 
+10. März 2023, auf welche sich die Beschwerdegegnerin stützt. Mit Referenz auf diese Aktenbeurtei-
+lung gelingt es der Beschwerdegegnerin nicht, die Vermutung umzustossen, es handle sich bei der hier 
+festgestellten Listenverletzung um eine unfallähnliche Körperschädigung, die vom Unfallversicherer 
+übernommen werden muss (vgl. E. 2.5 hievor). 
+7. 
+Nachdem an der Beurteilung des beratenden Arztes Zweifel bestehen und in den Akten keine weiteren 
+verlässlichen ärztlichen Stellungnahmen zur hier interessierenden Frage der vorwiegenden Bedingt-
+heit durch Abnützung oder Erkrankung vorliegen, liegt hinsichtlich dieser Frage kein schlüssiges Be-
+weisergebnis vor. Der erforderliche Gegenbeweis (vgl. E. 2.5 hievor) ist damit (vorerst) gescheitert. Da 
+noch erfolgsversprechende Abklärungsmöglichkeiten bestehen – insbesondere wurde bisher nur ge-
+stützt auf versicherungsinterne ärztliche Beurteilungen entschieden –, können die Folgen der Beweis-
+losigkeit aber (noch) nicht eintreten (vgl. E. 3.1 hievor). Vielmehr wird die Beschwerdegegnerin eine 
+versicherungsexterne fachärztliche Beurteilung im Verfahren nach Art. 44 ATSG, welche den Beweis-
+anforderungen genügt (vgl. E. 3.2 hievor), einzuholen und anschliessend über ihre Leistungspflicht neu 
+zu entscheiden haben. In diesem Sinne ist die Verwaltungsgerichtsbeschwerde teilweise gutzuheissen. 
+ 
+8. 
+Das Verfahren ist für die Parteien kostenlos, nachdem das UVG für die vorliegende Leistungsstreitigkeit 
+keine Kostenpflicht vorsieht (Art. 61 lit. fbis ATSG). Verfahrenskosten sind demnach keine zu erheben. 
+Ein entschädigungspflichtiger Aufwand der anwaltlich nicht vertretenen Beschwerdeführerin ist weder 
+geltend gemacht noch ersichtlich. Die Beschwerdegegnerin hat keinen Anspruch auf Parteientschädi-
+gung (Art. 61 lit. g ATSG; Susanne Bollinger, in Basler Kommentar Allgemeiner Teil des Sozialversiche-
+rungsrechts, 2020, N 77 f. zu Art. 61) Eine Parteientschädigung ist somit nicht zuzusprechen. 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+Seite 12 von 12 
+ 
+Das Obergericht erkennt: 
+1. Die Verwaltungsgerichtsbeschwerde wird teilweise gutgeheissen. Der Einspracheentscheid der Be-
+schwerdegegnerin vom 14. März 2023 wird aufgehoben und die Sache wird zur ergänzenden Ab-
+klärung und Neubeurteilung im Sinne der Erwägungen an die Beschwerdegegnerin zurückgewie-
+sen. 
+2. Es werden keine Verfahrenskosten erhoben. 
+3. Eine Parteientschädigung wird nicht zugesprochen. 
+4. Eröffnung: 
+ 
+- Beschwerdeführerin 
+ 
+- Beschwerdegegnerin 
+ 
+- Bundesamt für Gesundheit 
+Altdorf, 20. Oktober 2023 
+OBERGERICHT DES KANTONS URI 
+Verwaltungsrechtliche Abteilung 
+Die Präsidentin 
+Der Gerichtsschreiber 
+Agnes H. Planzer Stüssi 
+Matthias Jenal 
+ 
+ 
+Rechtsmittelbelehrung 
+Gegen diesen Entscheid kann unter der Voraussetzung, dass er einen nicht wieder gutzumachenden 
+Nachteil bewirken kann, Beschwerde in öffentlich-rechtlichen Angelegenheiten erhoben werden. Die 
+Beschwerde ist innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim Bundesge-
+richt, Schweizerhofquai 6, 6004 Luzern, in der in Art. 42 Bundesgesetz über das Bundesgericht (Bun-
+desgerichtsgesetz [BGG, SR 173.110]) vorgeschriebenen Weise schriftlich einzureichen. Die Beschwer-
+delegitimation und die zulässigen Beschwerdegründe richten sich nach den massgeblichen Bestim-
+mungen des BGG. 
+Versand:
