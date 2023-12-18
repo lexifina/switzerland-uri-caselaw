@@ -1,0 +1,257 @@
+---
+decision_id: "ur_gerichte_2024_OG_S_23_11_Mehrfache_eubfache_K_rperverletzung__eventualiter__einfache_und_schwere_K_rperverletzung_sowie_mehrfache_Drohung"
+court: "UR Gerichte"
+court_id: "ur_gerichte"
+docket: "2024_OG S 23 11 Mehrfache eubfache Körperverletzung, eventualiter: einfache und schwere Körperverletzung sowie mehrfache Drohung"
+decided: "2023-12-18"
+language: "de"
+source_url: "https://www.ur.ch/_rte/publikation/34822"
+pdf_url: "https://www.ur.ch/_rte/publikation/34822"
+cites_law: ["switzerland/bund/acts/312.0/art-014.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-399.md", "switzerland/bund/acts/312.0/art-403.md", "switzerland/bund/acts/312.0/art-421.md"]
+---
+
+# UR Gerichte 2024_OG S 23 11 Mehrfache eubfache Körperverletzung, eventualiter: einfache und schwere Körperverletzung sowie mehrfache Drohung
+
+## Text
+
+OBERGERICHT 
+ Strafrechtliche Abteilung 
+__________________________ 
+OG S 23 11 
+ 
+ 
+Beschluss vom 18. Dezember 2023 
+ 
+__________________________ 
+Besetzung 
+ 
+ 
+Vizepräsidentin Lenka Ziegler, Vorsitz 
+Mitglieder Christoph Wipfli, Angelica Züst, Heinz Keller und 
+Rolf Zgraggen 
+Gerichtsschreiberin Michelle Zemp 
+__________________________ 
+Verfahrensbeteiligte 
+ 
+ 
+A.__, 
+unentgeltlich vertreten durch RA Dr. Karen Schobloch, 
+Riversidelaw Rechtsanwälte, Schifflände 5, Postfach, 8024 
+Zürich 
+Privatklägerin/Berufungsklägerin 
+ 
+ 
+B.__, 
+vertreten durch MLaw Fabian Frey, Walder Häusermann 
+Rechtsanwälte AG, Freiestrasse 204, Postfach, 8032 Zürich 
+Privatkläger 
+ 
+ 
+Staatsanwaltschaft des Kantons Uri, Bahnhofstrasse 1, 
+Postfach, 6460 Altdorf 
+Berufungsbeklagte 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+C.__, 
+verteidigt durch RA Dr. iur. LL.M. Matthias Inderkum, 
+Baumann & Inderkum, Rechtsanwälte und Notare, 
+Marktgasse 6, Postfach, 6460 Altdorf 
+Beschuldigter/Anschlussberufungskläger 
+ 
+__________________________ 
+Gegenstand 
+ 
+ 
+Mehrfache einfache Körperverletzung, eventualiter: ein-
+fache und schwere Körperverletzung sowie mehrfache 
+Drohung 
+(Berufung gegen Urteil Landgerichtspräsidium II (neu I) Uri 
+[PSA 22 15] vom 28.03.2023) 
+ 
+ 
+
+
+ 
+ 
+ 
+Seite 3 von 7 
+ 
+Prozessgeschichte: 
+A. 
+Am 30. März 2023 meldeten A.__ (nachfolgend: Privatklägerin), am 3. April 2023 C.__ (nachfolgend: 
+Beschuldigter), am 11. April 2023 die Staatsanwaltschaft des Kantons Uri (nachfolgend: Staatsanwalt-
+schaft) und am 18. April 2023 B.__ (nachfolgend: Privatkläger), gegen das Urteil des Landgerichtsprä-
+sidiums II (neu I) Uri (PSA 22 15) vom 28. März 2023 fristgerecht Berufung an (act. 4.1). 
+B. 
+Am 29. Juni 2023 erfolgte der Versand des begründeten Urteils (PSA 22 15). Der Rechtsvertreter des 
+Beschuldigten nahm das begründete Urteil am 4. Juli 2023 in Empfang (act. 00.07 LG). 
+C. 
+Mit verfahrensleitender Verfügung vom 4. Juli 2023 wurden die Parteien vom Obergericht des Kantons 
+Uri (strafrechtliche Abteilung) darauf hingewiesen, dass bei Nichteinreichung einer Berufungserklä-
+rung ohne Rückzug der Anmeldung innerhalb der 20-tägigen Frist gemäss Art. 399 Abs. 3 Schweizeri-
+sche Strafprozessordnung (StPO, SR 312.0) ein kostenpflichtiger Nichteintretensentscheid gefällt 
+werde (act. 1.1). 
+D. 
+Am 14. Juli 2023 zog der Privatkläger beim Obergericht die Berufungsanmeldung innert Frist zurück 
+(act. 6.2). 
+E. 
+Am 14. Juli 2023 reichten die Staatsanwaltschaft (act. 2.1) und die Privatklägerin (act. 6.1) sowie am 
+25. Juli 2023 der Beschuldigte (act. 3.1) ihre Berufungsklärungen ein. 
+F. 
+Mit verfahrensleitender Verfügung vom 28. Juli 2023 wurden die Berufungserklärungen den Parteien 
+gegenseitig zugestellt. Weiter hielt die Verfahrensleitung fest, dass aus ihrer Sicht, die Berufungserklä-
+rung des Beschuldigten verspätet sei. Zudem hatten die Parteien Gelegenheit, innert 20 Tagen An-
+schlussberufung zu erklären oder begründet ein Nichteintreten auf die Berufung zu beantragen 
+(act. 1.2). 
+G. 
+Mit Eingabe vom 17. August 2023 reichte der Beschuldigte eine Anschlussberufung ein (act. 3.2), die 
+den Parteien zur Kenntnisnahme zugestellt wurde (act. 1.3). 
+ 
+ 
+
+
+ 
+ 
+ 
+Seite 4 von 7 
+ 
+H. 
+Am 21. August 2023 beantragte die Privatklägerin, es sei auf die verspätete Berufungserklärung des 
+Beschuldigten nicht einzutreten (act. 6.3). 
+I. 
+Mit verfahrensleitender Verfügung vom 24. August 2023 erhielten die Parteien Gelegenheit, zu einem 
+allfälligen Nichteintreten auf die Berufungserklärung des Beschuldigten vom 25. Juli 2023 Stellung zu 
+nehmen (act. 1.5). Die Parteien liessen sich nicht vernehmen. 
+J. 
+Mit Eingabe vom 26. September 2023 zog die Staatsanwaltschaft ihre Berufung vollumfänglich zurück 
+(act. 2.2). 
+ 
+ 
+Erwägungen: 
+1. 
+Die Berufung ist zulässig gegen Urteile erstinstanzlicher Gerichte, mit denen das Verfahren ganz oder 
+teilweise abgeschlossen worden ist (Art. 398 Abs. 1 StPO). Der angefochtene Entscheid stellt ein das 
+Verfahren ganz abschliessendes Urteil dar. Das Obergericht ist sachlich zuständig (Art. 14 StPO i.V.m. 
+Art. 37e Gerichtsorganisationsgesetz [GOG, RB 2.3221]) und spruchfähig (Art. 33 Abs. 3 i.V.m. Art. 34 
+Abs. 1 und Art. 35 Abs. 2 GOG). Vorliegend ist über die Zulässigkeit der Berufungserklärung des Be-
+schuldigten zu entscheiden. Dafür ist gemäss Art. 403 Abs. 1 StPO das Berufungsgericht zuständig. Ent-
+scheide, in denen über Straf- und Zivilfragen materiell befunden wird, ergehen in Form eines Urteils. 
+Die anderen Entscheide – wie der vorliegende – ergehen, wenn sie von einer Kollektivbehörde gefällt 
+werden, in Form eines Beschlusses (Art. 80 Abs. 1 Satz 1 und Satz 2 1. Satzteil StPO). 
+2. 
+Es ist nachfolgend zu prüfen, ob die Berufungserklärung des Beschuldigten vom 25. Juli 2023 rechtzei-
+tig eingegangen ist. 
+2.1 
+Die Einhaltung prozessualer Fristen ist von den Behörden in jeder Phase des Verfahrens von Amtes 
+wegen und mit voller Kognition zu überprüfen (Christof Riedo, in Basler Kommentar Schweizerische 
+Strafprozessordnung, 3. Aufl., 2023, N. 68 zu Art. 91). Das Berufungsgericht (nicht die Verfahrenslei-
+tung) entscheidet in einem schriftlichen Verfahren, ob auf die Berufung einzutreten sei, wenn die Ver-
+fahrensleitung oder eine Partei namentlich geltend macht, die Anmeldung oder Erklärung der 
+
+
+ 
+ 
+ 
+Seite 5 von 7 
+ 
+Berufung sei verspätet oder unzulässig (Art. 403 Abs. 1 lit. a StPO). Hält das Berufungsgericht die Be-
+rufungserklärung für verspätet oder aus anderen Gründen für unzulässig, tritt es auf die Berufung nicht 
+ein (Schmid/Jositsch, StPO Praxiskommentar, 4. Aufl., Zürich 2023, Art. 403 N. 9). Es gibt den Parteien 
+Gelegenheit zur Stellungnahme (Art. 403 Abs. 2 StPO). Vorliegend haben sowohl die Verfahrensleitung 
+als auch die Privatklägerin auf ein Nichteintreten auf die Berufung des Berufungsklägers geschlossen. 
+2.2 
+Gemäss Art. 399 Abs. 3 StPO hat die Partei, die Berufung angemeldet hat, dem Berufungsgericht innert 
+20 Tagen seit der Zustellung des begründeten Urteils eine schriftliche Berufungserklärung einzu-
+reichen. Fristen, die durch eine Mitteilung oder den Eintritt eines Ereignisses ausgelöst werden, begin-
+nen am folgenden Tag zu laufen (Art. 90 Abs. 1 StPO). Gemäss Art. 91 Abs. 2 StPO müssen Eingaben 
+spätestens am letzten Tag der Frist bei der Strafbehörde abgegeben oder zu deren Handen der Schwei-
+zerischen Post, einer schweizerischen diplomatischen oder konsularischen Vertretung oder, im Falle 
+von inhaftierten Personen, der Anstaltsleitung übergeben werden. 
+Der Rechtsvertreter des Beschuldigten nahm das begründete Urteil am 4. Juli 2023 in Empfang 
+(act. 00.07 LG). Die 20-tägige Berufungserklärungsfrist endete folglich am 24. Juli 2023 (vergleiche 
+Art. 90 Abs. 1 und Art. 91 Abs. 2 StPO). Die am 25. Juli 2023 der Post übergebene Berufungserklärung 
+des Beschuldigten ist nach Ablauf der 20-tägigen Frist und somit verspätet erfolgt. Auf die Berufung 
+des Beschuldigten vom 25. Juli 2023 wird gestützt auf Art. 403 Abs. 1 StPO nicht eingetreten. 
+2.3 
+Eine Partei kann nach einer verspäteten Berufung dennoch rechtsgültig Anschlussberufung erheben 
+(BGer 6B_895/2019 vom 15.09.2020 E. 2.5.2). Mit Verfügung vom 28. Juli 2023 wurde den Parteien 
+unter anderem die Gelegenheit gegeben, innert 20 Tagen die Anschlussberufung zu erklären, da zu 
+jenem Zeitpunkt gültige Berufungen sowohl seitens der Privatklägerin als auch der Staatsanwaltschaft 
+vorlagen. Gemäss Sendungsverfolgung der Post ging dem Beschuldigten diese Verfügung am 2. August 
+2023 zu (act. 1.2). Die 20-tägige Frist endete somit am 22. August 2023 (vergleiche Art. 90 Abs. 1 und 
+Art. 91 Abs. 2 StPO). Mit Eingabe vom 17. August 2023 erklärte der Beschuldigte fristgerecht Anschluss-
+berufung (act. 3.2), was sich unter den vorliegenden Umständen als zulässig erweist. 
+3. 
+Wer ein Rechtsmittel ergriffen hat, kann dieses bei mündlichen Verfahren bis zum Abschluss der Par-
+teiverhandlungen und bei schriftlichen Verfahren bis zum Abschluss des Schriftenwechsels und allfäl-
+liger Beweis- oder Aktenergänzungen zurückziehen (Art. 386 Abs. 2 lit. a und b StPO). Am 26. Septem-
+ber 2023 – und damit noch vor Abschluss der Parteiverhandlungen beziehungsweise des Schriften-
+wechsels – zog die Staatsanwaltschaft die fristgerecht eingereichte Berufung zurück. Das Verfahren 
+wird somit ohne die Berufung der Staatsanwaltschaft weitergeführt. 
+
+
+ 
+ 
+ 
+Seite 6 von 7 
+ 
+4. 
+Gestützt auf die vorstehenden Ausführungen wird das Berufungsverfahren mit der Berufung der Pri-
+vatklägerin vom 14. Juli 2023 sowie mit der Anschlussberufung vom 17. August 2023 des Beschuldigten 
+fortgeführt. 
+5. 
+Über die Kosten- und Entschädigungsfolgen im Zusammenhang mit dem vorliegenden Zwischenent-
+scheid ist im Rahmen des Endentscheides zu befinden (Art. 421 Abs. 1 StPO). 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+Seite 7 von 7 
+ 
+Das Obergericht beschliesst: 
+1. 
+Auf die Berufung von C.__ vom 25. Juli 2023 wird nicht eingetreten. 
+2. 
+Es wird festgestellt, dass das Berufungsverfahren mit der Berufung von A.__ vom 14. Juli 2023 
+sowie der Anschlussberufung vom 17. August 2023 von C.__ fortgeführt wird. 
+3. 
+Die Verfahrenskosten und die Parteientschädigungen werden im Endentscheid festgelegt. 
+4. 
+Zustellung 
+ 
+ 
+Altdorf, 18. Dezember 2023 
+ 
+OBERGERICHT DES KANTONS URI 
+Strafrechtliche Abteilung 
+Die Vorsitzende 
+Die Gerichtsschreiberin 
+ 
+ 
+ 
+ 
+Rechtsmittelbelehrung 
+Gegen diesen Entscheid kann Beschwerde in Strafsachen gemäss Art. 78 ff. Bundesgerichtsgesetz er-
+hoben werden. Die Beschwerde ist innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung 
+beim Bundesgericht, 1000 Lausanne 14, in der in Art. 42 Bundesgerichtsgesetz vorgeschriebenen 
+Weise schriftlich einzureichen. Die Beschwerdelegitimation und die zulässigen Beschwerdegründe 
+richten sich nach den massgeblichen Bestimmungen des Bundesgerichtsgesetzes. 
+ 
+Versand:
