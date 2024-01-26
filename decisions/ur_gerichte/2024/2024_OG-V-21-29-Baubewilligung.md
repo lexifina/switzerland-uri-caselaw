@@ -1,0 +1,535 @@
+---
+decision_id: "ur_gerichte_2024_OG_V_21_29_Baubewilligung"
+court: "UR Gerichte"
+court_id: "ur_gerichte"
+docket: "2024_OG V 21 29 Baubewilligung"
+decided: "2024-01-26"
+language: "de"
+source_url: "https://www.ur.ch/_docn/376318/2024_V_21_29.pdf"
+pdf_url: "https://www.ur.ch/_docn/376318/2024_V_21_29.pdf"
+cites_law: ["switzerland/bund/acts/451/art-006.md", "switzerland/bund/acts/451/art-017a.md", "switzerland/bund/acts/700/art-013.md", "switzerland/bund/acts/700/art-014.md", "switzerland/bund/acts/700/art-021.md", "switzerland/bund/acts/700/art-022.md"]
+---
+
+# UR Gerichte 2024_OG V 21 29 Baubewilligung
+
+## Regeste
+
+Neubau "Seminarhotel Löwen"
+
+## Text
+
+OBERGERICHT 
+ Verwaltungsrechtliche Abteilung 
+__________________________ 
+OG V 21 29 
+ 
+ 
+Entscheid vom 26. Januar 2024 
+ 
+__________________________ 
+Besetzung 
+ 
+ 
+Präsidentin Agnes H. Planzer Stüssi 
+Vizepräsidentin Lenka Ziegler, Oberrichter Stefan Flury 
+Gerichtsschreiber Matthias Jenal 
+__________________________ 
+Verfahrensbeteiligte 
+ 
+ 
+ 
+ 
+A., 
+B., 
+beide vertreten durch RA Dr. iur. Oliver Bucher, 
+Baur Hürlimann Rechtsanwälte und Notare, 
+Oberstadtstrasse 7, 5402 Baden 
+Beschwerdeführerinnen 
+ 
+gegen 
+ 
+Regierungsrat des Kantons Uri, Rathaus, 6460 Altdorf 
+Vorinstanz 
+ 
+Einwohnergemeinde Altdorf, Tellsgasse 25, 6460 Altdorf 
+ 
+__________________________ 
+Gegenstand 
+ 
+Baubewilligung; Neubau "Seminarhotel Löwen" 
+(RRB Nr. 2021-213 vom 13.04.2021) 
+ 
+ 
+ 
+ 
+ 
+
+
+Seite 2 von 13 
+ 
+Prozessgeschichte: 
+A. 
+Die Beschwerdeführerinnen beabsichtigen auf den Liegenschaften Nr. 598 und Nr. 603 im Zentrum 
+von Altdorf ein Seminarhotel mit 80 Zimmern, fünf neuen Seminarräumen, einem Gastronomiebe-
+reich, zwei Geschäftslokalen sowie eine zweigeschossige Einstellhalle mit 46 Parkplätzen zu errichten. 
+Das Bauvorhaben umfasst insbesondere die Errichtung zweier Neubauten auf der Liegenschaft Nr. 598. 
+Das bestehende Hotel «Zum Schwarzen Löwen» auf der Liegenschaft Nr. 603 soll integrierender Be-
+standteil des neuen Seminarhotels werden und neben den Hotelzimmern und den Sälen vor allem den 
+Gastronomiebereich beinhalten. Nachdem die Eidgenössische Natur- und Heimatschutzkommission 
+(ENHK) in ihrem Gutachten vom 20. März 2020 das Projekt als schwere Beeinträchtigung des Ortsbildes 
+beurteilt hatte, wies die Baukommission (BK) Altdorf das Baugesuch in einem ersten Entscheid am 1. 
+April 2020 ab. In der dagegen erhobenen Verwaltungsbeschwerde an den Regierungsrat des Kantons 
+Uri wurde unter anderem eine Verletzung der Begründungspflicht durch die BK Altdorf geltend ge-
+macht. Am 13. Mai 2020 widerrief die BK Altdorf ihren ersten Entscheid, um erneut über das Bauge-
+such zu befinden und den entsprechenden Bauentscheid ausführlicher zu begründen. Mit Verfügung 
+vom 5. August 2020 wies die BK Altdorf das Baugesuch erneut ab. Die dagegen erhobene Verwaltungs-
+beschwerde der Beschwerdeführerinnen wies der Regierungsrat des Kantons Uri mit Beschluss Nr. 
+2021-213 vom 13. April 2021 ab. 
+B. 
+Gegen den Beschluss des Regierungsrats erhoben die Beschwerdeführerinnen mit Eingabe vom 10. 
+Mai 2021 Verwaltungsgerichtsbeschwerde beim Obergericht des Kantons Uri (Verwaltungsrechtliche 
+Abteilung). Sie beantragen die Aufhebung des regierungsrätlichen Beschlusses und die Erteilung der 
+Baubewilligung. Eventualiter sei der regierungsrätliche Beschluss aufzuheben und die Sache zur neuen 
+Beurteilung an den Regierungsrat zurückzuweisen. 
+Auf die Begründung dieser Anträge wird – soweit erforderlich – in den nachstehenden Erwägungen 
+eingegangen. 
+C. 
+Auf Antrag der Beschwerdeführerinnen war das gerichtliche Beschwerdeverfahren in der Folge längere 
+Zeit sistiert. Nach parteilich beantragter Wiederaufnahme des Verfahrens verwies der Regierungsrat 
+des Kantons Uri in seiner Vernehmlassung vom 8. Februar 2023 auf die Begründung im angefochtenen 
+Beschluss und edierte die Akten. Die Einwohnergemeinde Altdorf verzichtete mit Eingabe vom 22. Feb-
+ruar 2023 auf eine Stellungnahme. 
+ 
+
+
+ 
+ 
+Seite 3 von 13 
+ 
+D. 
+Auf entsprechende Anfrage des Gerichts teilten die Beschwerdeführerinnen mit Eingabe vom 20. De-
+zember 2023 mit, dass an der Beschwerde festgehalten und die Fortsetzung des Verfahrens beantragt 
+werde. 
+ 
+Erwägungen: 
+1. 
+1.1 Gemäss Art. 122 Planungs- und Baugesetz (PBG, RB 40.1111) sind Entscheidungen, Verfügungen 
+und Pläne, die auf diesem Gesetz oder auf die darauf gestützten Rechtserlasse gründen, nach den 
+Bestimmungen der Verordnung über die Verwaltungsrechtspflege (VRPV, RB 2.2345) anfechtbar. Der 
+Regierungsrat als Vorinstanz wies die Verwaltungsbeschwerde gegen den Beschluss der Baukommis-
+sion (BK) Altdorf vom 5. August 2020, in welchem das Baugesuch der Beschwerdeführerinnen abge-
+wiesen wurde, ab. Gemäss Art. 54 Abs. 1 und 2 lit. a VRPV ist gegen Verfügungen des Regierungsrates, 
+soweit die Gesetzgebung den Weiterzug nicht ausschliesst oder anders regelt, die Verwaltungsge-
+richtsbeschwerde an das Obergericht zulässig. Ein Ausschluss oder eine andere Regelung liegt nicht 
+vor; das Obergericht des Kantons Uri (Verwaltungsrechtliche Abteilung) ist für die Behandlung der vor-
+liegenden Verwaltungsgerichtsbeschwerde somit örtlich, sachlich und funktionell zuständig. 
+1.2 Zur Verwaltungsgerichtsbeschwerde ist berechtigt, wer durch die angefochtene Verfügung be-
+rührt ist und ein schutzwürdiges Interesse an deren Aufhebung oder Änderung hat (Art. 64 i.V.m. 
+Art. 46 Abs. 1 lit. a VRPV; siehe auch Art. 33 Abs. 3 lit. a Bundesgesetz über die Raumplanung [RPG, 
+SR 700] i.V.m. Art. 89 Abs. 1 Bundesgesetz über das Bundesgericht [BGG, SR 173.110] sowie Art. 111 
+Abs. 1 und 3 BGG; BGE 137 II 30 E. 2.2.1, 136 II 281 E. 2.1). Die Beschwerdeführerinnen sind als unter-
+legene Baugesuchstellerinnen durch die angefochtene Verfügung berührt und haben ein schutzwürdi-
+ges Interesse an deren Aufhebung oder Änderung, weshalb sie zur Beschwerdeführung berechtigt sind. 
+1.3 Die Beschwerdefrist (Art. 59 Abs. 1 VRPV) sowie die Formvorschriften (Art. 64 i.V.m. Art. 49 Abs. 
+1 und 2 VPRV) wurden eingehalten. Der Gerichtskostenvorschuss wurde fristgerecht geleistet. Auf die 
+Verwaltungsgerichtsbeschwerde ist einzutreten. 
+1.4 Das Gericht prüft die Beschwerde mit voller Sachverhalts- und Rechtskognition (Art. 57 Abs. 1 - 3 
+VRPV). Allerdings gilt im verwaltungsgerichtlichen Beschwerdeverfahren das aus der Begründungs-
+pflicht abgeleitete Rügeprinzip (Art. 64 i.V.m. Art. 49 Abs. 1 VRPV). Dieses befugt das Gericht, sich in 
+der Rechtsanwendung auf die gerügten Punkte zu beschränken und den angefochtenen Entscheid 
+nicht auf alle denkbaren Rechtsverstösse hin zu überprüfen. Nur Mängel im angefochtenen Entscheid, 
+welche geradezu offensichtlich sind, sind vom Gericht gegebenenfalls auch ohne erhobene Rügen zu 
+
+
+ 
+ 
+Seite 4 von 13 
+ 
+korrigieren (vergleiche Entscheid Obergericht des Kantons Uri vom 20.10.2017, OG V 16 35, publ. in 
+Rechenschaftsbericht über die Rechtspflege des Kantons Uri in den Jahren 2016 und 2017, Nr. 16 S. 95 
+E. 4a). 
+2. 
+2.1 Von den Beschwerdeführerinnen ist die Realisierung eines Seminarhotels mit 80 Zimmern, fünf 
+neuen Seminarräumen, einem Gastronomiebereich, zwei Geschäftslokalen sowie eine zweigeschos-
+sige Einstellhalle mit 46 Parkplätzen geplant. Das Bauvorhaben sieht insbesondere die Errichtung 
+zweier Neubauten auf der Liegenschaft Nr. 598 vor. Das bestehende Hotel «Zum Schwarzen Löwen» 
+auf der Liegenschaft Nr. 603 soll integrierender Bestandteil des neuen Seminarhotels werden und in 
+seiner Substanz und dem äusseren Erscheinungsbild erhalten bleiben. Die Liegenschaften Nr. 598 und 
+Nr. 603 liegen in der Kernzone 1 im Zentrum von Altdorf. Altdorf ist im Bundesinventar der schützens-
+werten Ortsbilder der Schweiz (ISOS) als Ortsbild von nationaler Bedeutung aufgeführt (siehe Geopor-
+tal des Bundes https://www.gisos.bak.admin.ch/sites). 
+2.2 Die Vorinstanz kam im angefochtenen Entscheid unter Berücksichtigung der verschiedenen Aus-
+legungselemente zum Schluss (E. 6.6 in fine), die durch die Gemeinde vorgenommene Auslegung von 
+Art. 21 der kommunalen Bauordnung, wonach die Errichtung von zusätzlichen Neubauten in der Kern-
+zone 1 ausgeschlossen sei, sei nachvollziehbar und vertretbar. Zu überzeugen vermöge auch die Aus-
+legung der Gemeinde, wonach aus dem Fehlen von Vorschriften über zusätzliche Neubauten in der 
+Kernzone 1 deren Verbot abzuleiten sei (a.a.O. E. 6.5). Selbst wenn aber die Gemeinde die Errichtung 
+zusätzlicher Neubauten in der Kernzone 1 zulassen würde, sei das Bauvorhaben zurecht nicht bewilligt 
+worden, da die geplante Überbauung nicht mit den geltenden Gestaltungsvorschriften des kantonalen 
+und kommunalen Rechts zu vereinbaren wäre (a.a.O. E. 7). 
+2.3 Die Beschwerdeführerinnen machen in ihrer Beschwerde geltend, die von der Vorinstanz vorge-
+nommene Auslegung der einschlägigen Zonenvorschriften führe zu einem weitgehenden Neubauver-
+bot in der Kernzone 1, was einen massiven Eingriff in die verfassungsrechtlich geschützte Eigentums-
+garantie darstelle. Die kantonale Gesetzgebung schliesse nicht aus, dass der Zonenzweck auch mittels 
+zeitgenössischer Neubauten erreicht werden könne, moderne Bauten im Einzelfall sogar eine Berei-
+cherung für bestimmte Ortsteile bedeuten können. Auch den kommunalen Zonenvorschriften lasse 
+sich kein konkretes Neubauverbot innerhalb der Kernzone 1 entnehmen. Sei eine, wie von der 
+Vorinstanz vorgenommene, Auslegung notwendig, fehle es bereits an der für den massiven Eigentums-
+eingriff genügenden Bestimmtheit des Rechtssatzes. Die Pflicht zur Beachtung der durch das Bundes-
+inventar der schützenswerten Ortsbilder der Schweiz von nationaler Bedeutung (ISOS) geschützten 
+Ortsbilder gelte zwar im Rahmen der die Schutzanliegen umsetzenden Richt- und Nutzungsplanung 
+und im Einzelfall erforderlichen Interessenabwägungen, nicht jedoch wenn es um die Auslegung einer 
+
+
+ 
+ 
+Seite 5 von 13 
+ 
+kommunalen Baureglementsbestimmung gehe. Es sei zu berücksichtigen, dass von der ungeschmäler-
+ten Erhaltung eines durch das ISOS geschützten Ortsbildes bei Vorliegen von regionalen oder lokalen 
+Eingriffsinteressen abgewichen werden könne. Die Vorinstanz führe selber solche anderen öffentli-
+chen Interessen an. Im Weiteren sei ein generelles Neubauverbot unverhältnismässig. Dem Ziel des 
+Ortsbildschutzes könnte damit Rechnung getragen werden, dass das Bauvorhaben die Blickachsen und 
+Ansichten wahre. Für das von der Vorinstanz faktisch angeordnete Bauverbot fehle es an einer ausrei-
+chend konkreten gesetzlichen Grundlage und der Eigentumseingriff sei nicht verhältnismässig. 
+3. 
+3.1 Nutzungspläne ordnen die zulässige Nutzung des Bodens (Art. 14 Abs. 1 RPG). Sie unterscheiden 
+vorab Bau-, Landwirtschafts- und Schutzzonen (Art. 14 Abs. 2 RPG). Nutzungspläne sind für jedermann 
+verbindlich (Art. 21 Abs. 1 RPG). Voraussetzung einer Baubewilligung ist unter anderem, dass die Bau-
+ten und Anlagen dem Zweck der Nutzungszone entsprechen (Art. 22 Abs. 2 lit. a RPG). Die übrigen 
+Voraussetzungen des Bundesrechts und des kantonalen Rechts bleiben vorbehalten (Art. 22 Abs. 3 
+RPG). 
+3.2 Das kantonale Recht sieht in Art. 21 Abs. 1 PBG verschiedene Zonenarten vor, die alle zur überge-
+ordneten Zonenart der Bauzone gehören, so insbesondere die Kernzone (lit. a). Die Kernzone dient 
+dem Zweck, die Zentrumsfunktion eines Ortsteils zu erhalten, auszubauen oder neu zu schaffen. Dabei 
+sind die ortstypischen Besonderheiten möglichst zu erhalten (Art. 22 Abs. 1 PBG). Neben Wohnbauten 
+sind öffentliche Bauten und mässig störende Betriebe mit zentrumsbildender Funktion zulässig (Art. 
+22 Abs. 2 PBG). Die Einwohnergemeinde Altdorf unterteilt in ihrer Bauordnung (BO, Altdorfer Rechts-
+buch 40.11) die Kernzone in vier Kernzonen(unter)arten, nämlich in die Kernzone 1, 2, 3 und 4. Diese 
+sind im Nutzungsplan Kernzonen dargestellt, wobei bedeutende Bauten im Kernzonenplan als solche 
+bezeichnet werden (Bautypen A, B und C, Art. 11 BO). Die BO sieht in den Art. 10 - 20 allgemeine Best-
+immungen für die Kernzonen vor. An Bauten in den Kernzonen werden erhöhte städtebauliche und 
+gestalterische Anforderungen gestellt (Art. 12 Abs. 1 BO). Bauten und Anlagen haben sich in Massstab, 
+Stellung, kubischer Gestaltung und Materialwahl sowie in der Fassaden-, Farb- und Dachgestaltung in 
+das vorhandene Gesamtbild einzufügen. Dabei ist eine passende Verbindung zwischen ortstypischer 
+und zeitgemässer Architektur zu wählen (Art. 12 Abs. 2 BO). Zusammenhängende Höfe und Freiflächen 
+sind grundsätzlich zu erhalten (Art. 19 Abs. 1 BO). Für die Kernzone 1 sieht Art. 21 BO vor, dass das 
+Ortsbild möglichst weitgehend und unverändert zu erhalten ist. Es gilt die geschlossene Bauweise; es 
+ist kein Grenzabstand einzuhalten (Art. 22 Abs. 1 BO). Der Charakter des öffentlichen Strassen-, Gas-
+sen- und Platzraumes muss erhalten bleiben (Art. 22 Abs. 3 BO). Dachneigung, Dachform und Material 
+müssen sich in das vorhandene Gesamtbild einfügen (Art. 24 Abs. 1 BO). 
+ 
+
+
+ 
+ 
+Seite 6 von 13 
+ 
+3.3 
+3.3.1 
+Die im vorliegenden Fall betroffenen Bauparzellen liegen gemäss ISOS Altdorf innerhalb des 
+Gebiets G 1 «altes Dorfzentrum mit städtischen Häuserzeilen, einheitlicher Wiederaufbau nach Brand 
+von 1799» mit dem Erhaltungsziel A (Erhalten der Substanz) sowie der Umgebungszone (U-Zo) I «Ro-
+senberg, mehrheitlich unverbauter Wieshang zwischen Kloster und Dorfkern» mit dem Erhaltungsziel 
+a (Erhalten der Beschaffenheit). Durch die Aufnahme eines Objektes von nationaler Bedeutung in ein 
+Inventar des Bundes wird dargetan, dass es in besonderem Masse die ungeschmälerte Erhaltung, je-
+denfalls unter Einbezug von Wiederherstellungs- oder angemessenen Ersatzmassnahmen die grösst-
+mögliche Schonung verdient (Art. 6 Abs. 1 Bundesgesetz über den Natur- und Heimatschutz [NHG, 
+SR 451]). Ein Abweichen von der ungeschmälerten Erhaltung im Sinne der Inventare darf bei Erfüllung 
+einer Bundesaufgabe nur in Erwägung gezogen werden, wenn ihr bestimmte gleich- oder höherwertige 
+Interessen von ebenfalls nationaler Bedeutung entgegenstehen (Art. 6 Abs. 2 NHG). Der von den In-
+ventaren ausgehende Schutz ist damit im Grundsatz an eine Interessenabwägung geknüpft; diese fällt 
+umso strenger aus, als Eingriffe in Schutzobjekte von nationaler Bedeutung einer qualifizierten Recht-
+fertigung im Sinne von gleich- oder höherwertigen Interessen von nationaler Bedeutung bedürfen. 
+Diese Schutzbestimmung gilt indes lediglich bei der Erfüllung von Bundesaufgaben in unmittelbarer 
+Weise. Bei der Erfüllung von kantonalen (und kommunalen) Aufgaben wird der Schutz von Ortsbildern 
+durch kantonales (und kommunales) Recht gewährleistet (zum Ganzen: BGE 135 II 209 E. 2.1). 
+3.3.2 
+Bundesinventare wie das ISOS sind aber auch bei der Erfüllung von kantonalen und kommuna-
+len Aufgaben von Bedeutung. Ihrer Natur nach kommen sie Sachplänen und Konzepten im Sinne von 
+Art. 13 RPG gleich (BGer 1C_398/2015 vom 09.08.2016 E. 5.3). Für die Kantone (und Gemeinden) folgt 
+daraus eine Pflicht zur Berücksichtigung von Bundesinventaren, wobei sich keine förmlichen Anforde-
+rungen ergeben, wie den Anliegen des Bundesinventars Rechnung zu tragen ist (BGE 135 II 209 E. 2.1 
+und 3). Die Bundesinventare sind bei der Nutzungsplanung, bei der Auslegung unbestimmter Begriffe 
+des Baurechts sowie bei im Einzelfall erforderlichen Interessenabwägungen zu berücksichtigen (BGer 
+1C_643/2020 vom 07.01.2022 E. 3.2). Den ISOS-Schutzanliegen im Ortszentrum von Altdorf wird vor-
+liegend namentlich durch strengere kommunale Zonen- und Gestaltungsvorschriften Rechnung getra-
+gen (vergleiche E. 3.2 hievor; siehe auch Gutachten der ENHK vom 29.03.2018, S. 11 zweitletzter Ab-
+schnitt). 
+3.4 Bei der Anwendung von Ästhetikklauseln und ähnlichen Vorschriften über die gestalterische Ein-
+ordnung von Bauprojekten ins Ortsbild steht den kommunalen Behörden ein durch die Gemeindeau-
+tonomie (Art. 50 Abs. 1 Bundesverfassung [BV, SR 101], Art. 106 Abs. 1 Verfassung des Kantons Uri 
+[KV, RB, 1.1101]) gewährleisteter Beurteilungs- beziehungsweise Ermessensspielraum zu. Ein entspre-
+chender Einordnungsentscheid einer kommunalen Baubehörde darf nur aufgehoben werden, wenn 
+
+
+ 
+ 
+Seite 7 von 13 
+ 
+diese ihren durch die Gemeindeautonomie gewährleisteten Beurteilungs- und Ermessensspielraum 
+überschritten hat. Das trifft insbesondere zu, wenn sie sich von unsachlichen, dem Zweck der anzu-
+wendenden Regelung fremden Erwägungen leiten lässt oder die Grundsätze der Rechtsgleichheit und 
+Verhältnismässigkeit verletzt. Bei der Prüfung der Verhältnismässigkeit sind die lokalen ästhetischen 
+Interessen gegenüber den privaten und den überkommunalen öffentlichen Interessen an der Errich-
+tung der geplanten Baute abzuwägen (zum Ganzen: BGer 1C_643/2020 vom 07.01.2022 E. 4.3 mit Hin-
+weisen). 
+4. 
+Im Rahmen des vorliegenden Bauprojekts soll die Parzelle 598 mit einem in die Westecke gesetzten, 
+hohen Baukörper mit einem südöstlich anschliessenden, zur Strasse traufständigen Anbau (Haus 1) 
+sowie einem C-förmigen rückwärtigen Bau (Haus 2) überbaut werden. Der Neubau Haus 1 erstreckt 
+sich nordwestlich des Hauses Tellsgasse 10/12 (in den Projektunterlagen als «Haus 4» bezeichnet) und 
+von diesem durch einen schmalen, trapezförmigen Zwischenraum getrennt entlang der Tellsgasse bis 
+zum Rosenbergweg hin. Er ist in zwei unterschiedliche Gebäudeteile gegliedert, deren Fassaden leicht 
+geknickt zueinander angeordnet sind. Das Eckgebäude (= der in die Westecke gesetzte hohe Baukör-
+per) soll neu den nordwestlichen Abschluss der Häuserzeile entlang der Tellsgasse bilden und mit ei-
+nem asymmetrischen Kreuzgiebeldach versehen werden. Die Schnitte zeigen insgesamt vier Geschosse 
+sowie ein Dachgeschoss. Der südöstlich anschliessende dreigeschossige Anbau soll mit einem trauf-
+ständigen gleichseitigen Satteldach gedeckt werden. Die Fassaden sollen mit einem mineralischen Ver-
+putz versehen und die Dächer mit Biberschwanzziegeln gedeckt werden. Der Neubau Haus 2 gliedert 
+sich in drei zusammengebaute, unterschiedliche Gebäudeteile: den Ost-Trakt, den Mittel-Trakt und 
+den West-Trakt. Der Ost-Trakt und der Mittel-Trakt stehen rechtwinklig zueinander und übernehmen 
+nordseitig die Flucht der bestehenden Bruchsteinmauer, welche zugleich die Nordfassade dieser bei-
+den Gebäude bildet. Der West-Trakt wird zum Mittel-Trakt hin leicht abgewinkelt und verschoben an-
+geordnet. Er übernimmt die Flucht des Rosenbergwegs. Zusammen mit den bestehenden Gebäuden 
+Tellsgasse 10/12 und dem Neubau Haus 1 umschliessen die drei Trakte den neu vorgesehenen soge-
+nannten Löwenplatz. Neben den drei Vollgeschossen weist der Westtrakt zusätzlich ein Dachgeschoss 
+auf. Der dreigeschossige Mittel-Trakt verbindet den Ost- und West-Trakt (vergleiche zum Projektbe-
+schrieb: Gutachten ENHK vom 29.03.2018, S. 2 f.). 
+5. 
+Die Vorinstanz ist in Bestätigung des kommunalen Bauentscheids zum Schluss gelangt, die Errichtung 
+von zusätzlichen Neubauten in der Kernzone 1 sei ausgeschlossen. Aus dem Fehlen von Vorschriften 
+über zusätzliche Neubauten in der Kernzone 1 sei deren Verbot abzuleiten. Diese Schlussfolgerung 
+
+
+ 
+ 
+Seite 8 von 13 
+ 
+erscheint fraglich. In der Kernzone 1 gelten zwar erhöhte Anforderungen an Bauprojekte, wobei ins-
+besondere das Ortsbild möglichst weitgehend und unverändert erhalten werden soll (vergleiche E. 3.2 
+hievor). Dennoch gehört die Kernzone 1 zur übergeordneten Zonenart der Bauzone. Die vorinstanzli-
+che Betrachtungsweise suggeriert, dass es in einer Bauzone einer besonderen Bestimmung bedürfe, 
+die (Neu-)Bauten erlaube. Warum dies notwendig sein sollte, erschliesst sich nicht, nachdem es im 
+Begriff der Bauzone angelegt ist, dass in dieser grundsätzlich gebaut werden darf. Eine besondere ge-
+setzliche Grundlage zur Erlaubnis von Neubauten in der Bauzone scheint demnach entbehrlich. Weiter 
+erscheint fraglich, ob es tatsächlich mit Sinn und Zweck der kantonalen und kommunalen Bestimmun-
+gen zur Kernzone vereinbar ist, ein im Ergebnis absolutes Neubauverbot anzunehmen. Die Vorinstanz 
+versteht unter «Neubauten» die «Erstüberbauung von Freiflächen» (siehe angefochtener Beschluss 
+E. 6.6). Klar ist, dass zusammenhängende Höfe und Freiflächen in der Kernzone grundsätzlich zu erhal-
+ten sind. Auch ist in der Kernzone 1 das Ortsbild möglichst weitgehend und unverändert zu erhalten 
+(vergleiche E. 3.2 hievor). Schon der Wortlaut («grundsätzlich», «möglichst weitgehend») spricht in-
+dessen gegen die Betrachtungsweise der Vorinstanz. Zu berücksichtigen ist ausserdem, dass selbst bei 
+der Erfüllung einer Bundesaufgabe und damit unter dem grundsätzlich strengeren Regime des NHG 
+sogar ein Eingriff in das Ortsbild bei höherwertigen (nationalen) Interessen möglich ist. Warum das auf 
+kantonaler Ebene grundsätzlich anders sein und gleichsam ohne Interessenabwägung praktisch ein 
+absolutes Neubauverbot gelten soll, ist nicht ohne Weiteres einsichtig. Wie es sich damit im Einzelnen 
+verhält, kann jedoch offenbleiben. Die Vorinstanz hat ihren Beschluss mit einer Eventualbegründung 
+versehen, wonach das geplante Bauprojekt eine schwere Beeinträchtigung des Ortsbilds bewirken 
+würde. Diese Beurteilung ist, wie nachfolgend noch aufzuzeigen ist, nicht zu beanstanden, weshalb die 
+von der Vorinstanz geschützte Abweisung des Baugesuchs im Ergebnis zu bestätigen ist. 
+6. 
+6.1 Die kommunale Baubewilligungsbehörde hat zur Frage der Vereinbarkeit des streitigen Bauvor-
+habens mit dem Ortsbild des ISOS-Objekts Altdorf ein Gutachten der ENHK vom 29. März 2018 bezie-
+hungsweise vom 20. März 2020 eingeholt. Im Gutachten vom 20. März 2020 wird Folgendes ausgeführt 
+(S. 3): 
+«Das neue Konzept der Bebauung der Parzelle 598 folgt im Wesentlichen der von der Kommission im 
+Gutachten vom 29. März 2018 als schwere Beeinträchtigung beurteilten Projektstudie, indem es die 
+Zeilenbebauung entlang der Tellsgasse bis zum Rosenbergweg in den platzartigen Aussenraum verlän-
+gert. Damit bleiben die folgenden Ausführungen sinngemäss auch für das aktuelle Projekt (gemäss 
+vorliegend streitigem Baugesuch, Anm. des Gerichts) gültig: «Konkret würden die Volumina des Neu-
+baus G [aktuell Neubau Haus 1] die wichtige Blickachse von der Kreuzung Tellsgasse-Bahnhofstrasse 
+
+
+ 
+ 
+Seite 9 von 13 
+ 
+aus auf den Kirchplatz und auf die Kirche erheblich beeinträchtigen, und die Wahrnehmung des impo-
+santen Kirchturms wäre von dieser Position aus nicht mehr gegeben. Auch in umgekehrter Richtung 
+würden die Neubauten die Blickbezüge deutlich negativ verändern. Namentlich der Blick auf die pro-
+minente, als Hausfassade ausgebildete Nordwestfassade des Gebäudes Tellsgasse 12 würde sowohl 
+vom Kirchenbezirk als auch von der Tellsgasse her verunmöglicht, was dessen Bedeutung als Auftakt 
+zur engeren Ortszentrumsbebauung aufheben würde. Der Blick auf die Umgebung Rosenberg – mit 
+einzelnen Durchblicken auf das ehemalige Kapuzinerkloster –, der bereits heute durch das Alters- und 
+Pflegeheim stark beeinträchtigt ist, würde durch die Neukonfiguration vollständig unterbunden. Auch 
+die spannungsvolle Abwicklung der bergseitigen Tellsgassen-Bebauung mit ihrem Wechsel von annä-
+hernd geschlossenen und offenen, zur bergseitig anschliessenden Umgebung durchlässigen Abschnit-
+ten würde sich zugunsten einer zunehmend geschlossenen Strassenbebauung negativ verändern und 
+einen bedeutenden Aspekt ihres heutigen wertvollen Charakters einbüssen.» An dieser Beurteilung 
+vermögen auch die gegenüber der Tellsgasse leicht zurückversetzte Lage und der Abstand zum Haus 
+Tellsgasse 12 nichts zu ändern. 
+Weiter hat die Kommission bereits im Gutachten 2018 dargelegt, dass die Bebauung des heutigen öf-
+fentlichen Platzes und eines Grossteils des heutigen, als Parkplatz genutzten Freiraums einen sensiblen 
+Bereich am Übergang in die Umgebungszone besetzt. Obwohl das grosse Volumen des Alters- und 
+Pflegeheims bereits heute eine bedeutende Fläche innerhalb der Umgebungszone beanspruche, kenn-
+zeichneten die beiden erwähnten Freiräume auch heute noch einen eigentlichen Siedlungsrand und 
+den Übergang in die Umgebungszone. 
+Zusammenfassend hält die Kommission fest, dass die geplante Bebauung der Parzelle 598 weiterhin 
+mit sämtlichen Schutzzielen des ISOS in Konflikt steht und zu einer schweren Beeinträchtigung des 
+ISOS-Objekts Altdorf führt.» 
+6.2 Die Vorinstanz hat im angefochtenen Beschluss erwogen (E. 9.1 f.), die ENHK habe gestützt auf 
+Art. 17a NHG i.V.m. Art. 25 Abs. 1 lit. e Verordnung über den Natur- und Heimatschutz (NHV, SR 451.1) 
+zum Bauprojekt Stellung genommen. Dem Gutachten komme vergleichbar grosses Gewicht zu wie den 
+Gutachten im Rahmen der Erfüllung von Bundesaufgaben. Das Gutachten erweise sich als stimmig, 
+widerspruchsfrei und die Folgerungen seien schlüssig. Die ENHK habe sich eingehend mit dem geplan-
+ten Bauvorhaben beschäftigt und beurteile dieses anhand ihrer Erkenntnisse aus dem Gutachten vom 
+29. März 2018, in dem sie sich umfassend mit den betroffenen Schutzobjekten auseinandergesetzt 
+habe. Dabei stütze sie sich auf eine umfangreiche Dokumentation sowie einen am 12. Dezember 2017 
+vorgenommenen Augenschein. Nachdem das geplante Bauvorhaben auf der Liegenschaft Nr. 598 ge-
+mäss Gutachten der ENHK als schwere Beeinträchtigung des Ortsbilds zu qualifizieren sei, sei erstellt, 
+dass das Bauvorhaben keine für das Orts-, Quartier- oder Strassenbild befriedigende Gesamtwirkung 
+
+
+ 
+ 
+Seite 10 von 13 
+ 
+zu erzielen, geschweige denn, den erhöhten gestalterischen Anforderungen nach Art. 12 BO (siehe E. 
+3.2 hievor) zu genügen vermöge. Die öffentlichen Interessen am Ortsbildschutz würden die privaten 
+Interessen an der Verwirklichung des Bauvorhabens überwiegen. 
+6.3 Diese Erwägungen der Vorinstanz überzeugen. Es wird vorab darauf verwiesen. Ergänzend kann 
+festgehalten werden, dass schon im ISOS-Inventar die Bedeutung der in den Gutachten der ENHK auf-
+gegriffenen Blickachse von der Kreuzung Tellsgasse-Bahnhofstrasse auf den Kirchplatz und die Pfarr-
+kirche St. Martin hervorgehoben wird. Im ISOS wird dazu festgehalten (S. 6), dass die eindrücklichste 
+Sicht auf den Kirchenbezirk von der Tellsgasse aus bestehe, dort, wo die Bahnhofstrasse einmünde. 
+Das mächtige Kirchenschiff mit Walmdach, der Turm mit Kuppelhaube und Spitzhelm würden den Hin-
+tergrund bilden, davor, in die Tiefe gestaffelt, das Pfarrhaus, die St. Annakapelle und (…) die Pfarrhel-
+ferei. Zwischen den Bauten ziehe sich, gesäumt von Pollersteinen, breit und gepflästert die schwache 
+Rampe zur Kirche hinauf. Wie die ENHK mit Referenz auf die im ISOS beschriebene und dem Gericht 
+aus alltäglicher Anschauung bestens bekannte örtliche Situation schlüssig darlegt, würde diese für das 
+Ortsbild wichtige Blickachse durch den markanten Neubau Haus 1 (siehe E. 4 hievor) empfindlich ge-
+stört. Wie sich aus den Akten ergibt, basiert denn auch das geplante Bauvorhaben auf einem mit dem 
+ISOS grundsätzlich unvereinbaren architektonischen Grundgedanken. Dieser besteht offenbar darin, 
+mit der geplanten Bebauung nordwestlich des Hauses Tellsgasse 12 das Siedlungsmuster von Altdorf, 
+wie es vor dem Brand von 1799 bestanden hatte, wieder aufzufüllen (siehe Gutachten der ENHK vom 
+29.03.2018 S. 10). Wie die Vorinstanz zutreffend ausführt, bildet der Referenzzustand für die Erhaltung 
+des Ortsbilds jedoch die Situation zur Zeit der ISOS-Aufnahme und nicht die Situation vor über 220 
+Jahren (siehe dazu auch die ISOS-Umschreibung des Gebiets G 1 «Altes Ortszentrum (…) nach Brand 
+von 1799»). Die ENHK weist in diesem Zusammenhang zurecht darauf hin, dass sich nach dem Brand 
+eine neue strukturelle sowie räumliche Situation herausgebildet habe, die sich durch die prominente 
+Sichtachse zum Kirchenbezirk und die Freispielung des Objekts Tellsgasse 12 als Auftakt zum Dorfzent-
+rum auszeichne. Der nach dem Brand entstandene Freiraum zwischen dem Gebäude Tellsgasse 12 und 
+dem Kirchenbezirk nehme eine wichtige Rolle im Ortsbild ein und sichere insbesondere den Wirkungs-
+raum der Kirche sowie die Lesbarkeit des früheren Dorfrands im Übergang zur Umgebungszone. Die 
+«Rekonstruktion» der Tellsgassenbebauung würde sich auf einen Referenzzustand beziehen, der kei-
+nen Bezug mehr zur heutigen Situation beziehungsweise zur Situation der ISOS-Aufnahme habe (Gut-
+achten der ENHK vom 29.03.2018 S. 10). Wenn die Vorinstanz vor diesem Hintergrund zum Schluss 
+gelangte, das Bauprojekt bewirke durch den geplanten Neubau Haus 1 eine Verstellung der Blickachse 
+und sei wegen der dadurch bewirkten schweren Beeinträchtigung des Ortsbilds nicht bewilligungsfä-
+hig, ist dies nicht zu beanstanden. 
+
+
+ 
+ 
+Seite 11 von 13 
+ 
+6.4 Da ein wesentlicher Teil des Bauprojekts aus den zuvor genannten Gründen nicht bewilligungsfä-
+hig ist und die übrigen Teile des Bauprojekts nicht einer klaren separaten Beurteilung unterzogen wer-
+den können, ist das Baugesuch aufgrund des Grundsatzes der Einheit des Bauentscheids (hierzu: BGer 
+1C_350/2014 vom 13.10.2015 E. 2.5 mit Hinweisen) insgesamt abzuweisen. Das Gericht muss sich da-
+her zu den übrigen Aspekten des Bauprojekts, insbesondere zum Neubau Haus 2 und dessen Gestal-
+tung respektive Einordnung ins Ortsbild nicht eingehend äussern. Ergänzend kann immerhin festgehal-
+ten werden, dass die Beurteilung der ENHK in ihrem Gutachten vom 29. März 2018 zu den damals noch 
+geplanten Ergänzungsbauten H1 und H2 sinngemäss auch für den C-förmigen, ebenfalls voluminösen 
+und von der räumlichen Anordnung her vergleichbaren Neubau Haus 2 Geltung beanspruchen kann. 
+Die ENHK hat damals ausgeführt (a.a.O. S. 11), die geplanten Ergänzungsbauten H1 und H2 (bezie-
+hungsweise mutatis mutandis der Neubau Haus 2) seien vergleichsweise voluminös und würden des-
+halb die Differenz zwischen der das Ortszentrum definierenden Strassenbebauung und bergseitig an-
+schliessender Umgebung weiter verwischen und gar das als Störfaktor identifizierte Alters- und Pfle-
+geheim in eine Bebauung einbinden, so dass im ursprünglichen Umgebungsbereich eine zweite Bebau-
+ungsschicht entstehen würde. Die Anhäufung mehrerer beachtlicher Volumina in einem Bereich, der 
+seit mehr als 200 Jahren freigespielt sei, untermauere den durch den Altersheimneubau initiierten 
+Strukturwandel. Die Neubauten insgesamt würden zu einer Einbettung des Altersheims und zu einer 
+Etablierung einer vergleichsweisen dichten Bebauung mit gegenüber dem Bestand grösseren Volu-
+mina und somit zur Bildung eines Schwerpunkts hinter dem historischen Ortszentrum und folglich zur 
+Schwächung des letzteren führen. In der Schlussfolgerung führt die ENHK aus, angesichts der grossen 
+Bedeutung für das Ortsbild von Altdorf, insbesondere für die Wirkung des Kirchenbezirks, erscheine 
+das betroffene Gebiet nicht für eine Verdichtung im vorgesehenen Ausmass geeignet. Diese Ausfüh-
+rungen sind nachvollziehbar und schlüssig. Im ISOS-Inventar (S. 11) wird der Rosenberg (U-Zo I) zu den 
+bedeutendsten Freiräumen Altdorfs gezählt. Dieser bilde den nahezu unverbauten Hintergrund des 
+Kirchenbezirks. Das Altersheim am Fusse des Rosenbergs wird unter anderem aufgrund des grossen, 
+hohen Volumens als Störfaktor identifiziert. Dies bei gemäss ENHK Gutachten vom 29. März 2018 an-
+sonsten recht authentisch erhaltenen Ortsbildteils. Mit der geplanten Bebauung des C-förmigen Neu-
+baus Haus 2 würde der Freiraum zwischen der Tellsgasse und dem als Störfaktor bezeichneten Alters-
+heim aufgefüllt. Wie das Gutachten der ENHK zutreffend festhält, würde das Altersheim dadurch in 
+eine Bebauung eingebunden, so dass im ursprünglichen Umgebungsbereich eine zweite Bebauungs-
+schicht entstehen und so die Differenz zwischen Ortszentrum und Umgebungszone verwischt würde. 
+Dass dies als einer Baubewilligung entgegenstehende Beeinträchtigung des Ortsbilds gewertet wurde, 
+ist nicht zu beanstanden. Zwar ist auch zu erwähnen, dass die am betreffenden Standort heute beste-
+hende Parkplatzfläche als für das Ortsbild unvorteilhaft bezeichnet wurde (Gutachten ENHK vom 
+29.03.2018 S. 5). Dem Gericht scheint nicht ausgeschlossen zu sein, dass an diesem Standort durch 
+
+
+ 
+ 
+Seite 12 von 13 
+ 
+einen moderaten Neubau eine für das Ortsbild günstigere Lösung gefunden werden könnte (vergleiche 
+dazu BGE 127 II 273 E. 4c). Am aufgezeigten Ergebnis für das hier zu beurteilende Bauprojekt ändert 
+dies jedoch nichts. 
+7. 
+Nach dem Ausgeführten hat die Vorinstanz das streitbetroffene Bauprojekt zutreffend als schwere Be-
+einträchtigung des Ortsbilds qualifiziert und mit den geltenden kantonalen und kommunalen Gestal-
+tungsvorschriften unvereinbar erklärt. Die vorinstanzlich bestätigte Abweisung des Baugesuchs ist im 
+Ergebnis korrekt. Die Verwaltungsgerichtsbeschwerde ist abzuweisen. 
+8. 
+Die unterliegenden Beschwerdeführerinnen werden kostenpflichtig (Art. 34 Abs. 1 lit. b VRPV). Im ver-
+waltungsgerichtlichen Beschwerdeverfahren beträgt die Gerichtsgebühr (inklusive Schreibgebühren) 
+CHF 500.00 bis CHF 10'000.00 (Art. 20 Abs. 1 i.V.m. Art. 25 Abs. 1 Gerichtsgebührenreglement [GGebR, 
+RB 2.3232]). Praxisgemäss beträgt die Gerichtsgebühr für eine Verwaltungsgerichtsbeschwerde in ei-
+ner Angelegenheit mittlerer Komplexität – wie vorliegend – CHF 2'750.00. Dazu kommt eine Barausla-
+genpauschale von CHF 30.00 (Art. 25 Abs. 2 GGebR). Mehrere Beteiligte tragen die ihnen gemeinsam 
+auferlegten amtlichen Kosten zu gleichen Teilen solidarisch (Art. 34 Abs. 2 VRPV). Ein Anspruch auf 
+Parteientschädigung besteht vorliegend nicht (Art. 37 Abs. 2 VRPV e contrario). 
+ 
+ 
+ 
+
+
+ 
+ 
+Seite 13 von 13 
+ 
+Das Obergericht erkennt: 
+1. Die Verwaltungsgerichtsbeschwerde wird abgewiesen. 
+2. Die Verfahrenskosten, bestehend aus 
+ 
+CHF 
+2’750.00 
+Gerichtsgebühr 
+ 
+CHF 30.00 
+Barauslagen (pauschal) 
+ 
+ 
+CHF 
+2’780.00 
+Total, 
+ 
+ 
+ 
+werden den Beschwerdeführerinnen zu gleichen Teilen unter solidarischer Haftbarkeit auferlegt. 
+3. Eine Parteientschädigung wird nicht zugesprochen. 
+4. Mitteilung an: 
+ 
+- Beschwerdeführerinnen 
+ 
+- Vorinstanz 
+ 
+- Einwohnergemeinde Altdorf 
+Altdorf, 26. Januar 2024 
+OBERGERICHT DES KANTONS URI 
+Verwaltungsrechtliche Abteilung 
+Die Präsidentin 
+Der Gerichtsschreiber 
+ 
+ 
+ 
+Rechtsmittelbelehrung 
+Gegen diesen Entscheid kann Beschwerde in öffentlich-rechtlichen Angelegenheiten erhoben werden. 
+Die Beschwerde ist innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim Bundes-
+gericht, 1000 Lausanne 14, in der in Art. 42 Bundesgesetz über das Bundesgericht (Bundesgerichtsge-
+setz [BGG, SR 173.110]) vorgeschriebenen Weise schriftlich einzureichen. Die Beschwerdelegitimation 
+und die zulässigen Beschwerdegründe richten sich nach den massgeblichen Bestimmungen des BGG. 
+Versand:
