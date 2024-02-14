@@ -1,0 +1,186 @@
+---
+decision_id: "ur_gerichte_2024_OG_Z_23_5_Gerichtskostenvorschuss"
+court: "UR Gerichte"
+court_id: "ur_gerichte"
+docket: "2024_OG Z 23 5 Gerichtskostenvorschuss"
+decided: "2024-02-14"
+language: "de"
+source_url: "https://www.ur.ch/_rte/publikation/35017"
+pdf_url: "https://www.ur.ch/_rte/publikation/35017"
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-051.md", "switzerland/bund/acts/272/art-004.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-096.md", "switzerland/bund/acts/272/art-098.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-118.md", "switzerland/bund/acts/272/art-119.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/272/art-327.md"]
+---
+
+# UR Gerichte 2024_OG Z 23 5 Gerichtskostenvorschuss
+
+## Text
+
+OBERGERICHT 
+Zivilrechtliche Abteilung 
+OG 223 5 
+Besetzung 
+Verfahrensbeteiligte 
+Gegenstand 
+Entscheid vom 14. Februar 2024 
+Vizepräsidentin Lenka Ziegler, Vorsitz 
+Oberrichter/in Max Gisler-Zgraggen, Yvonne Baumann, 
+Sven lnfanger und Peter Sommer 
+Gerichtsschreiberin Michelle Zemp 
+A., 
+Beschwerdeführerin 
+gegen 
+B., 
+Beschwerdegegner 1 
+c., 
+Beschwerdegegnerin 2 
+D., 
+Beschwerdegegnerin 3 
+Gerichtskostenvorschuss 
+
+
+(Beschwerde gegen verfahrensleitende Verfügung des 
+Landgerichts Uri vom 29.03.2023 ergangen im Verfahren 
+LGZ 23 6} 
+
+
+Prozessgeschichte: 
+A. 
+A. wurde im Verfahren LGZ 23 6 mit verfahrensleitender Verfügung vom 29. März 2023 durch das 
+Landgericht Uri aufgefordert, einen Gerichtskostenvorschuss von CHF 7'200.00 zu leisten. 
+B. 
+Dagegen erhob A. (nachfolgend: Beschwerdeführerin) am 11. April 2023 Beschwerde und stellte fol-
+gende Anträge (act. 2.1): 
+«1. Die Verfügung des Landgerichts Uri vom 29. März 2023 sie aufzuheben. 
+2. 
+Es sei auf den Kostenvorschuss vollkommen zu verzichten. 
+3. 
+Dies unter Kosten- und Entschädigungsfolgen zu Lasten des Beklagten, eventualiter des Staa-
+tes.» 
+C. 
+Das eingereichte Rechtsmittel wurde mit verfahrensleitender Verfügung vom 12. April 2023 in das Ge-
+schäftsprotokoll des Obergerichts des Kantons Uri (Zivilrechtliche Abteilung) aufgenommen. 
+D. 
+Am 17. April 2023 edierte die Vorinstanz die Akten (act. 4.1). 
+E. 
+Auf die Einholung einer Beschwerdeantwort wurde verzichtet (Art. 322 Abs. 2 ZPO). 
+Erwägungen: 
+1. 
+1.1 
+Entscheide über die Leistung von Vorschüssen und Sicherheiten sind mit Beschwerde anfechtbar (Art. 
+319 lit. b Ziff. 1 i.V.m. Art. 103 Zivilprozessordnung [ZPO, SR 272]). Die Beschwerde wurde innert Frist 
+(Art. 321 Abs. 2 ZPO; zehn Tage) und formgerecht (Art. 321 Abs. 1 und 3 ZPO) eingereicht. Das Ober-
+gericht ist sachlich zuständig (Art. 4 Abs. 1 ZPO i.V.m. Art. 37a Abs. 2 Gerichtsorganisationsgesetz [GOG, 
+RB 2.3221]) und spruchfähig (Art. 33 Abs. 3 i.V.m. Art. 34 Abs. 1 und Art. 35 Abs. 1 GOG). 
+1.2 
+Mit der Beschwerde können unrichtige Rechtsanwendung oder offensichtlich unrichtige Feststellung 
+des Sachverhaltes geltend gemacht werden (Art. 320 ZPO). Bezüglich ersterem entscheidet das Ober-
+gericht mit voller Kognition. Handelt es sich aber um einen Ermessensentscheid, sollte sich die 
+Seite 3 von 6 
+
+
+Rechtsmittelinstanz bei der Überprüfung eine gewisse Zurückhaltung auferlegen (BGer SA_265/2012 
+vom 30.05.2012 E. 4.3.2). Hinsichtlich der Sachverhaltsprüfung ist hingegen lediglich eine Willkürprü-
+fung vorgesehen. Die Beschwerdeführerin rügt (sinngemäss) unrichtige Rechtsanwendung. Neue An-
+träge, neue Tatsachenbehauptungen und neue Beweismittel sind ausgeschlossen (Art. 326 Abs. 1 ZPO). 
+Das Obergericht kann aufgrund der Akten entscheiden (Art. 327 Abs. 2 ZPO). Auf das Rechtsmittel ist 
+einzutreten. 
+2. 
+2.1 
+Das Gericht kann von der klagenden Partei einen Vorschuss bis zur Höhe der mutmasslichen Gerichts-
+kosten verlangen (Art. 98 ZPO). Zwar ist die Bestimmung zur Erhebung des Kostenvorschusses (Art. 98 
+ZPO) als Kann-Vorschrift konzipiert und schreibt die Vorschusspflicht nicht zwingend vor, jedoch ist die 
+Erhebung eines Vorschusses in Höhe der mutmasslichen Gerichtskosten die Regel und die Verfügung 
+eines geringeren oder gar keines Kostenvorschusses die Ausnahme (BGE 140 III 159 E. 4.2). Demnach 
+liegt es im Ermessen des Gerichts, auf die finanzielle Leistungsfähigkeit und/oder die finanzielle Liqui-
+dität einervorschusspflichtigen Partei bei der Festlegung des Vorschusses gebührend Rücksicht zu neh-
+men, um zu verhindern, dass ihr der Zugang zum Gericht faktisch verwehrt wird (Rüegg/Rüegg, in Bas-
+ler Kommentar, Schweizerische Zivilprozessordnung, 3. Aufl., 2017, N. 2 zu Art. 98 ZPO). 
+2.2 
+Die Beschwerdeführerin rügt die Angemessenheit der Höhe des mit verfahrensleitender Verfügung 
+vom 29. März 2023 im Verfahren LGZ 23 6 einverlangten Gerichtskostenvorschusses von CHF 7'200.00. 
+Sie sei IV-Bezügerin mit einer Rente von ungefähr CHF 2'000.00 pro Monat. Ein Kostenvorschuss in der 
+geforderten Höhe sei unverhältnismässig. Bei der Bestimmung über die Einverlangung eines Gerichts-
+kostenvorschusses handle es sich zudem um eine Kann-Vorschrift. Sie beantragt sinngemäss, aus Bil-
+ligkeitsgründen auf die Erhebung eines Gerichtskostenvorschusses zu verzichten. 
+2.3 
+Die genannten Vorbringen hat die Beschwerdeführerin nicht bereits vor Vorinstanz, sondern erstmals 
+im Beschwerdeverfahren erhoben. Es handelt sich somit um neue Tatsachenbehauptungen, die nach 
+Art. 326 Abs. 1 ZPO nicht zulässig sind. Mangels entsprechender Hinweise in der Klage und den einge-
+reichten Unterlagen hatte die Vorinstanz auch keinen Anlass, sich bei der Beschwerdeführerin über 
+deren finanzielle Situation zu erkundigen. 
+2.4 
+Auch, wenn die sich um keine neuen Tatsachenbehauptungen gehandelt hätte, wäre die Beschwerde 
+aus den folgenden Gründen abzuweisen. Bei einer Klage mit Streitwert von CHF 90'000.00 beträgt die 
+Entscheidgebühr 
+des 
+Landgerichts 
+bis 
+CHF 
+12'000.00 
+(Art. 
+96 
+ZPO; 
+Art. 
+2 
+ff. 
+Seite 4 von 6 
+
+
+Gerichtsgebührenverordnung [GGebV, RB 2.3231), Art. 5 Abs. 2 lit. a Gerichtsgebührenreglement 
+[GGebR, RB 2.3232)). Damit liegt der von der Vorinstanz verlangte Kostenvorschuss von CHF 7'200.00 
+im Rahmen des Gerichtsgebührenreglements. 
+In der Erhebung eines vollen Kostenvorschusses ist keine unrichtige Rechtsanwendung durch die 
+Vorinstanz zu erkennen. Diese hat ihr richterliches Ermessen innerhalb des gesetzlich vorgesehenen 
+Rahmens ausgeübt. 
+2.4 
+Es besteht die Möglichkeit, ein Gesuch um Bewilligung der unentgeltlichen Rechtspflege einzureichen, 
+wenn aus finanziellen Gründen nicht (rechtzeitig) bezahlt werden kann. Diese würde (vorerst) von der 
+Vorschussleistung befreien (Art. 118 Abs. 1 lit. a ZPO; Art. 123 Abs. 1 ZPO). Gemäss Art. 117 ZPO hat 
+eine Person Anspruch auf unentgeltliche Rechtspflege, wenn sie nicht über die erforderlichen Mittel 
+verfügt und ihr Rechtsbegehren nicht aussichtslos erscheint. 
+Für die Behandlung eines Gesuchs um Gewährung der unentgeltlichen Rechtspflege für das vorinstanz-
+liche Verfahren ist das Obergericht nicht zuständig. Die Beschwerdeführerin müsste mit einem ent-
+sprechenden Gesuch an die Vorinstanz gelangen. Darin hätte sie das Vorliegen der genannten Voraus-
+setzungen darzulegen und ihr Gesuch mit hinreichenden Belegen zu versehen (Art. 119 Abs. 2 ZPO). 
+Der Beschwerde wurde aufschiebende Wirkung zuerkannt. Die vorinstanzlich angesetzte Frist zur Leis-
+tung des Kostenvorschusses während des hängigen Beschwerdeverfahrens konnte somit nicht säum-
+niswirksam ablaufen. Die Vorinstanz wird der Beschwerdeführerin eine neue Frist anzusetzen haben. 
+Im Rahmen dieser neu angesetzten Frist kann die Beschwerdeführerin ein Gesuch um Bewilligung der 
+unentgeltlichen Rechtspflege einreichen, wenn sie aus finanziellen Gründen den Kostenvorschuss 
+nicht bezahlen kann. 
+2.5 
+Gesagtes erhellt, dass sich damit die Beschwerde als unbegründet erweist und sie unter Bestätigung 
+der angefochtenen Verfügung des Landgerichts Uri vom 29. März 2023, ergangen im Verfahren LGZ 23 
+6, abzuweisen ist. 
+3. 
+Umständehalber sind für dieses Verfahren keine Kosten zu erheben. Es wird keine Parteientschädigun-
+gen zugesprochen (Art. 95 Abs. 3 ZPO und Art. 106 Abs. 1 ZPO). 
+Seite 5 von 6 
+
+
+Das Obergericht erkennt: 
+1. 
+Die Beschwerde wird abgewiesen, soweit darauf einzutreten ist. 
+2. 
+Für das Beschwerdeverfahren werden keine Gerichtskosten erhoben. 
+3. 
+Eine Parteientschädigung wird nicht zugesprochen. 
+4. 
+Eröffnung 
+Beschwerdeführerin 
+Beschwerdegegner/innen 
+Vorinstanz 
+Altdorf, 14. Februar 2024 
+OBERGERICHT DES KANTONS URI 
+Zivilrechtliche Abteilung 
+Die Vizepräsidentin 
+Rechtsmittelbelehrung 
+Die Gerichtsschreiberin 
+Gegen diesen Entscheid kann Beschwerde in Zivilsachen gemäss Art. 72 ff. Bundesgerichtsgesetz (BGG, 
+SR 173.110) erhoben werden. Die Beschwerde ist innert 30 Tagen nach der Eröffnung beim Bundesge-
+richt, 1000 Lausanne 14, in der in Art. 42 BGG vorgeschriebenen Weise schriftlich einzureichen. Die 
+Beschwerdelegitimation und die zulässigen Beschwerdegründe richten sich nach den massgeblichen 
+Bestimmungen des Bundesgerichtsgesetzes. 
+Es handelt sich um eine vermögensrechtliche Angelegenheit. Der Streitwert nach Art. 51 ff. BGG be-
+trägt mehr als CHF 30'000. 
+Versand: 
+Seite 6 von 6
