@@ -1,0 +1,463 @@
+---
+decision_id: "ur_gerichte_2024_OG_V_23_19_Hilflosenentsch_digung__IVG_"
+court: "UR Gerichte"
+court_id: "ur_gerichte"
+docket: "2024_OG V 23 19 Hilflosenentschädigung (IVG)"
+decided: "2024-02-16"
+language: "de"
+source_url: "https://www.ur.ch/_rte/publikation/35011"
+pdf_url: "https://www.ur.ch/_rte/publikation/35011"
+cites_law: ["switzerland/bund/acts/830.1/art-009.md", "switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-059.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-042.md", "switzerland/bund/acts/831.20/art-069.md", "switzerland/bund/acts/831.201/art-037.md", "switzerland/bund/acts/831.201/art-038.md", "switzerland/bund/acts/831.201/art-069.md"]
+---
+
+# UR Gerichte 2024_OG V 23 19 Hilflosenentschädigung (IVG)
+
+## Text
+
+OBERGERICHT 
+Verwaltungsrechtliche Abteilung 
+OG V 2319 
+Besetzung 
+Verfahrensbeteiligte 
+Gegenstand 
+Entscheid vom 16. Februar 2024 
+Präsidentin Agnes H. Planzer Stüssi 
+Vizepräsidentin Lenka Ziegler, Oberrichter Tony Z'graggen 
+Gerichtsschreiberin Claudia Schlüssel 
+A., 
+vertreten durch RA lic. iur. Marco Unternährer, 
+Sempacherstrasse 6, Postfach 2070, 6002 Luzern 
+Beschwerdeführer 
+gegen 
+IV-Stelle Uri, Dätwylerstrasse 11, 6460 Altdorf 
+Beschwerdegegnerin 
+Hilflosenentschädigung {IVG) 
+(Verfügung vom 10.05.2023) 
+
+
+Prozessgeschichte: 
+A. 
+A. bezieht seit 2003 eine ganze Rente der Invalidenversicherung. Mit Anmeldung vom 1. September 
+2022 beantragte er die Ausrichtung einer Hilflosenentschädigung. Dieses Gesuch wies die IV-Stelle Uri 
+- nach Durchführung des Vorbescheidverfahrens - mit Verfügung vom 10. Mai 2023 ab. 
+B. 
+Dagegen erhob A. am 24. Mai 2023 Verwaltungsgerichtsbeschwerde an das Obergericht des Kantons 
+Uri (Verwaltungsrechtliche Abteilung). 
+Er stellt folgende Anträge: 
+" 1. Die Verfügung der Sozialversicherungsstelle Uri, IV-Stelle, vom 10.05.2023 sei aufzuheben und 
+dem Beschwerdeführer sei mindestens eine Hilflosenentschädigung leichten Grades auszurich-
+ten. 
+2. Dem Beschwerdeführer sei für das vorliegende Verfahren die unentgeltliche Rechtspflege zu be-
+willigen und der Unterzeichnete sei ihm als unentgeltlicher Rechtsbeistand beizugeben. Darüber 
+sei mittels selbstständigem Vorbescheid zu befinden. 
+3. Unter Kosten- und Entschädigungsfolgen zulasten der Beschwerdegegnerin." 
+Die Begründung dieser Anträge ergibt sich, soweit erforderlich, aus den nachstehenden Erwägungen. 
+C. 
+Mit Entscheid vom 16. Juni 2023 {OG VP 23 5) wies das Obergericht (Präsidium Verwaltungsrechtliche 
+Abteilung) das Gesuch um Gewährung der unentgeltlichen Rechtspflege und Rechtsverbeiständung 
+ab. 
+D. 
+Mit Stellungnahme vom 26. Juni 2023 beantragt die IV-Stelle Uri, die Beschwerde vom 24. Mai 2023 
+sei abzuweisen. 
+Die Begründung dieses Antrages ergibt sich, soweit erforderlich, ebenfalls aus den nachstehenden Er-
+wägungen. 
+Seite 2 von 14 
+
+
+Erwägungen: 
+1. 
+Gegen Verfügungen, gegen welche eine Einsprache ausgeschlossen ist, kann Beschwerde an das kan-
+tonale Versicherungsgericht erhoben werden (Art. 56 Abs. 1 i.V.m. Art. 57 Bundesgesetz über den 
+Allgemeinen Teil des Sozialversicherungsrechts [ATSG, SR 830.1]). Das Obergericht des Kantons Uri 
+(Verwaltungsrechtliche Abteilung) ist sowohl sachlich (Art. 37 Abs. 1 Gesetz über die Organisation der 
+richterlichen Behörden [Gerichtsorganisationsgesetz; GOG, RB 2.3221]) als auch örtlich (Art. 69 Abs. 1 
+lit. a Bundesgesetz über die Invalidenversicherung [IVG, SR 831.20]} zuständig. Die 30-tägige Beschwer-
+defrist (Art. 60 Abs. 1 ATSG) sowie die übrigen Formvorschriften (Art. 61 lit. b ATSG) wurden eingehal-
+ten. Der Beschwerdeführer ist als Adressat durch die angefochtene Verfügung berührt und hat ein 
+schutzwürdiges Interesse an deren Aufhebung oder Änderung (Art. 59 ATSG). Auf die Verwaltungsge-
+richtsbeschwerde ist einzutreten. 
+2. 
+Vorliegend ist insbesondere strittig, ob eine lebenspraktische Begleitung für ausserhäusliche Verrich-
+tungen und zur Vermeidung dauernder Isolation notwendig ist. 
+2.1 Die Beschwerdegegnerin hat in der angefochtenen Verfügung einen Anspruch des Beschwerde-
+führers auf Hilflosenentschädigung verneint, weil dieser "in einer Lebensverrichtung (und nicht min-
+destens zwei) regelmässig in erheblicher Weise auf die Hilfe Dritter und gemäss unseren Erhebungen 
+nicht mindestens zwei Stunden pro Woche auf lebenspraktische Begleitung angewiesen" sei. 
+2.2 Demgegenüber kommt der Beschwerdeführer zum Schluss, dass die Voraussetzungen der Not-
+wendigkeit einer lebenspraktischen Begleitung i.S.v. Art. 38 Abs. 1 lit. b und c der Verordnung über die 
+Invalidenversicherung [IVV, SR 831.201) erfüllt seien. Er begründet dies (unter Verweis auf seine Vor-
+bringen im Vorbescheidverfahren) damit, dass eine Begleitung für ausserhäusliche Verrichtungen we-
+gen der Sturzgefahr zwingend nötig beziehungsweise eine mangelnde Begleitung für ihn stark gesund-
+heitsgefährdend sei. Zudem bestehe eine ernsthafte Gefährdung, dass er sich dauernd von der Aus-
+senwelt isoliere. Er habe auch vorgetragen, dass er dringend Aussenkontakte möchte. Zudem sei im 
+Abklärungsbericht Hilflosigkeit (vom 18.01.2023) der Zeitbedarf falsch veranschlagt worden. Zu diesen 
+beiden Aspekten sei er von Seiten des angerufenen Gerichts im Rahmen des rechtlichen Gehörs (Art. 
+43 ATSG) zu befragen. 
+3. 
+Das kantonale Versicherungsgericht hat von Amtes wegen die für den Entscheid erheblichen Tatsachen 
+festzustellen; es erhebt die notwendigen Beweise und ist in der Beweiswürdigung frei (Art. 61 lit. c 
+Seite 3 von 14 
+
+
+ATSG}. Sind zur Abklärung des Sachverhaltes zusätzliche Beweise erforderlich, werden sie von Amtes 
+wegen erhoben {Art. 60 Abs. 1 Verordnung über die Verwaltungsrechtspflege [VRPV, RB 2.23451). 
+4. 
+Versicherte mit Wohnsitz oder gewöhnlichem Aufenthalt in der Schweiz, die hilflos sind, haben An-
+spruch auf eine Hilflosenentschädigung (Art. 42 Abs. 1 IVG}. Als hilflos gilt eine Person, die wegen der 
+Beeinträchtigung der Gesundheit für alltägliche Lebensverrichtungen dauernd der Hilfe Dritter oder 
+der persönlichen Überwachung bedarf {Art. 9 ATSG}. Es ist zu unterscheiden zwischen schwerer, mit-
+telschwerer und leichter Hilflosigkeit {Art. 42 Abs. 2 IVG}. Als hilflos gilt ebenfalls eine Person, welche 
+zu Hause lebt und wegen der Beeinträchtigung der Gesundheit dauernd auf lebenspraktische Beglei-
+tung angewiesen ist {Art. 42 Abs. 1 Satz 1 IVG}. 
+4.1 Da der Beschwerdeführer unbestrittenermassen nur in einem Lebensbereich {Fortbewegung) 
+hilflos ist, fällt eine Hilflosenentschädigung basierend auf einer mittelschweren oder schweren Hilflo-
+sigkeit von vornherein ausser Betracht {Art. 37 Abs. 1 und 2 IVV e contrario). 
+4.2 Die Hilflosigkeit gilt gemäss Art. 37 Abs. 3 IVV als leicht, wenn die versicherte Person trotz der 
+Abgabe von Hilfsmitteln {alternativ) in mindestens zwei alltäglichen Lebensverrichtungen regelmässig 
+in erheblicher Weise auf die Hilfe Dritter angewiesen ist {lit. a), einer dauernden persönlichen Über-
+wachung bedarf {lit. b), einer durch das Gebrechen bedingten ständigen und besonders aufwendigen 
+Pflege bedarf {lit. c), wegen einer schweren Sinnesschädigung oder eines schweren körperlichen Ge-
+brechens nur dank regelmässiger und erheblicher Dienstleistungen Dritter gesellschaftliche Kontakt 
+pflegen kann {lit. d), oder dauernd auf lebenspraktische Begleitung im Sinne von Art. 38 IVV angewie-
+sen ist (lit. e). 
+4.3 Ein Bedarf an lebenspraktischer Begleitung liegt gemäss Art. 38 Abs. 1 IVV vor, wenn eine volljäh-
+rige versicherte Person ausserhalb eines Heimes lebt und infolge Beeinträchtigung der Gesundheit 
+ohne Begleitung einer Drittperson nicht selbstständig wohnen kann (lit. a), für Verrichtungen und Kon-
+takte ausserhalb der Wohnung auf Begleitung einer Drittperson angewiesen ist {lit. b), oder ernsthaft 
+gefährdet ist, sich dauernd von der Aussenwelt zu isolieren {lit. c). Zu berücksichtigen ist nur die le-
+benspraktische Begleitung, die regelmässig und im Zusammenhang mit einer der Situationen nach Ab-
+satz 1 erforderlich ist. Nicht darunter fallen insbesondere Vertretungs- und Verwaltungstätigkeiten im 
+Rahmen von Massnahmen des Erwachsenenschutzes nach den Artikeln 390 - 398 des Zivilgesetzbu-
+ches {Schweizerisches Zivilgesetzbuch [ZGB, SR 210], Art. 38 Abs. 3 IVV}. Die Notwendigkeit einer Dritt-
+hilfe ist objektiv nach dem Gesundheitszustand der versicherten Person zu beurteilen. Grundsätzlich 
+unerheblich ist die Umgebung, in welcher sich der Versicherte aufhält. Es darf mithin keine Rolle spie-
+len, ob die versicherte Person allein lebt, zusammen mit dem Lebenspartner, mit Familienmitgliedern 
+Seite 4 von 14 
+
+
+oder in einer der heutzutage verbreiteten neuen Wohnformen. Massgebend ist einzig, ob die versi-
+cherte Person, wäre sie auf sich allein gestellt, erhebliche Dritthilfe in Form von Begleitung und Bera-
+tung benötigen würde. Von welcher Seite diese letztlich erbracht wird, ist ebenso bedeutungslos wie 
+die Frage, ob sie kostenlos erfolgt oder nicht {BGE 146 V 322 E. 2.3, 133 V 450 E. 5, 133 V 472 E. 5.3.2, 
+98 V 23 E. 2; BGer 9(_381/2020 vom 15.02.2021 E. 5.2.1). 
+4.4 Im Kreisschreiben des Bundesamtes für Sozialversicherungen {BSV) über Hilflosigkeit (KSH) wer-
+den die Bestimmungen zur lebenspraktischen Begleitung wie folgt konkretisiert (zur Bedeutung sol-
+cher Verwaltungsweisungen: BGE 142 V 442 E. 5.2). Die lebenspraktische Begleitung umfasst weder 
+die Dritthilfe bei alltäglichen Lebensverrichtungen noch die dauernde Pflege oder persönliche Über-
+wachung im Sinne von Art. 37 IVV. Vielmehr stellt sie ein zusätzliches und eigenständiges Institut dar 
+(BGE 133 V 450 E. 9). Ihr Ziel ist es zu verhindern, dass Personen schwer verwahrlosen und/oder in ein 
+Heim oder eine Klinik eingewiesen werden müssen. Die Hilfeleistungen müssen absolut erforderlich 
+sein, um selbstständig wohnen und den Heimeintritt vermeiden zu können. Lebenspraktische Beglei-
+tung ist nur dann erforderlich, wenn eine Person unter Berücksichtigung der Schadenminderungs-
+pflicht nicht fähig ist, ihre Grundversorgung sicherzustellen. Darunter ist zu verstehen: Nahrung, Kör-
+perpflege, angemessene Kleidung, minimale Anforderungen an die Wohnungspflege usw. Die Hilfe gilt 
+als regelmässig, wenn sie über eine Periode von drei Monaten gerechnet im Durchschnitt mindestens 
+zwei Stunden pro Woche benötigt wird (BGE 133 V 450 E. 6.2; Rz. 2084 - 2086, 2093 KSH). 
+4.4.1 Als lebenspraktische Begleitung zur Ermöglichung des selbstständigen Wohnens (Art. 38 Abs. 1 
+lit a IVV) gilt, wenn die betroffene Person bei mindestens einer der folgenden Tätigkeiten auf Hilfe 
+angewiesen ist: 
+• 
+Hilfe bei der Tagesstrukturierung: Dies umfasst beispielsweise die Aufforderung aufzustehen, 
+Hilfe beim Festlegen und Einhalten von fixen Mahlzeiten, einen Tages- und Nachtrhythmus zu 
+beachten, einer Aktivität nachzugehen usw. 
+• 
+Unterstützung bei der Bewältigung von Alltagssituationen: Dies beinhaltet Anleitungen, Aufforde-
+rungen usw., beispielsweise Fragen zur Gesundheit, Ernährung und Hygiene, einfache administra-
+tive Tätigkeiten etc. 
+• 
+Haushaltsführung: Dazu gehören Leistungen wie Wohnung putzen und aufräumen, Wäscheerle-
+digen, Mahlzeiten vorbereiten usw. Die entsprechenden Hilfeleistungen sind aber unter dem Ge-
+sichtspunkt einer Verwahrlosung zu evaluieren, womit immer geprüft werden muss, ob die versi-
+cherte Person ohne die entsprechende Hilfe in ein Heim müsste. 
+Im Rahmen der lebenspraktischen Begleitung nach Art. 38 Abs. 1 lit. a IVV kann auch die direkte Dritt-
+hilfe berücksichtigt werden. Demnach kann die Begleitperson die notwendigerweise anfallenden Tä-
+tigkeiten auch selber ausführen, wenn die versicherte Person aus gesundheitlichen Gründen dazu nicht 
+in der Lage ist (vergleiche zum Ganzen Rz. 2095 - 2102 KSH). 
+Seite 5 von 14 
+
+
+4.4.2 Eine lebenspraktische Begleitung bei ausserhäuslichen Verrichtungen (Art. 38 Abs. 1 lit. b IVV) 
+ist notwendig, damit die versicherte Person in der Lage ist, das Haus für bestimmte notwendige Ver-
+richtungen und Kontakte zu verlassen (Einkaufen, Freizeitaktivitäten, Kontakte mit Amtsstellen oder 
+Medizinalpersonen, Coiffeurbesuche usw.; Rz. 2103 KSH). 
+4.4.3 Eine lebenspraktische Begleitung zur Vermeidung dauernder Isolation (Art. 38 Abs. 1 lit. c IVV) 
+ist schliesslich notwendig, um zu verhindern, dass sich die versicherte Person dauernd von sozialen 
+Kontakte isoliert und sich dadurch ihr Gesundheitszustand erheblich verschlechtert. Die rein hypothe-
+tische Gefahr einer Isolation genügt nicht; vielmehr müssen sich die Isolation und die damit verbun-
+dene Verschlechterung des Gesundheitszustandes bereits manifestiert haben. Die notwendige lebens-
+praktische Begleitung besteht in beratenden Gesprächen und Motivation zur Kontaktaufnahme (zum 
+Beispiel Mitnehmen zu Anlässen). Isolation ist nicht gegeben, wenn die versicherte Person in einer 
+partnerschaftlichen Beziehung oder mit einem Familienmitglied zusammenlebt, ein Arbeitsverhältnis 
+(auch in einer Werkstätte) besteht oder sie eine Tagesstruktur besucht (Rz. 2105 - 2109 KSH). 
+4.5 Ein Abklärungsbericht unter dem Aspekt der Hilflosigkeit (vergleiche Art. 69 Abs. 2 IVV) hat fol-
+genden Anforderungen zu genügen: Als Berichterstatterin wirkt eine qualifizierte Person, welche 
+Kenntnis der örtlichen und räumlichen Verhältnisse sowie der aus den seitens der Mediziner gestellten 
+Diagnosen sich ergebenden Beeinträchtigungen und Hilfsbedürftigkeiten hat. Bei Unklarheiten über 
+physische oder psychische Störungen und/oder deren Auswirkungen auf alltägliche Lebensverrichtun-
+gen sind Rückfragen an die medizinischen Fachpersonen nicht nur zulässig, sondern notwendig. Weiter 
+sind die Angaben der Hilfe leistenden Personen zu berücksichtigen, wobei divergierende Meinungen 
+der Beteiligten im Bericht aufzuzeigen sind. Der Berichtstext schliesslich muss plausibel, begründet und 
+detailliert bezüglich der einzelnen alltäglichen Lebensverrichtungen sowie der weiteren tatbestands-
+mässigen Erfordernisse der dauernden Pflege und der persönlichen Überwachung (Art. 37 IVV) und 
+der lebenspraktischen Begleitung (Art. 38 IW) sein. Schliesslich hat er in Übereinstimmung mit den an 
+Ort und Stelle erhobenen Angaben zu stehen. Das Gericht greift, sofern der Bericht eine zuverlässige 
+Entscheidungsgrundlage im eben umschriebenen Sinne darstellt, in das Ermessen der die Abklärung 
+tätigenden Person nur ein, wenn klar feststellbare Fehleinschätzungen vorliegen. Das gebietet insbe-
+sondere der Umstand, dass die fachlich kompetente Abklärungsperson näher am konkreten Sachver-
+halt ist als das im Beschwerdefall zuständige Gericht (BGE 140 V 543 E. 3.2.1; BGer 9C_98/2020 vom 
+08.04.2020 E. 2.3). 
+5. 
+Die Beschwerdegegnerin holte zur Abklärung der Hilflosigkeit beim Abklärungsdienst einen Bericht 
+vom 1. Februar 2023 ein (BG-act. 71). Aus diesem geht hervor, dass die Abklärungsperson am 18. Ja-
+Seite 6 von 14 
+
+
+nuar 2023 eine Erhebung vor Ort mit dem Beschwerdeführer und dem behandelnden Psychiater vor-
+genommen hat. Die Abklärungsperson kam zum Schluss, dass der Beschwerdeführer in einer Lebens-
+verrichtung (Fortbewegung/Kontaktaufnahme im oder ausser Haus) auf regelmässige und erhebliche 
+Dritthilfe angewiesen sei. Er müsse seit Oktober 2022 wegen seinen Schwindelanfällen und der daraus 
+resultierenden Sturzgefahr bei längeren Strecken, bei Terminen und bei der Pflege der gesellschaftli-
+chen Kontakte begleitet werden. Er getraue sich auch nicht mehr, alleine den öffentlichen Verkehr zu 
+benutzen. Diese Hilfe dürfe nicht doppelt angerechnet werden, auch nicht bei der lebenspraktischen 
+Begleitung (BG-act. 71 Ziff. 7.6). Die Frage, ob der Beschwerdeführer einer lebenspraktischen Beglei-
+tung bedürfe, verneinte die Abklärungsperson mit der Begründung, dass kein Bedarf von mehr als zwei 
+Stunden pro Woche ausgewiesen sei (BG-act. 71 Ziff. 9). 
+• 
+Bei der Begleitung zur Ermöglichung des selbstständigen Wohnens rechnete sie 30 Minuten wö-
+chentlich für die Wohnungspflege durch die Spitex an. Der Versicherte erledige den Haushalt (Ko-
+chen, Waschen, Putzen) alleine. Für die gründliche Reinigung von Küche, Bad und Böden komme 
+alle zwei Wochen die Spitex und übernehme diese Arbeiten. 
+• 
+Unter dem Titel der Begleitung bei ausserhäuslichen Verrichtungen hielt sie fest, er organisiere 
+Kontakte mit Amtsstellen und Medizinalpersonen selber. Wegen seinen Schwindel- und Schwä-
+cheanfällen müsste er begleitet werden. Kontakte kämen selten bis nie vor. Es wurde kein Zeit-
+aufwand angerechnet. 
+• Schliesslich rechnete die Abklärungsperson 30 Minuten wöchentlich für beratende Gespräche bei 
+der Begleitung zur Verhinderung einer Isolation an, da der Psychiater alle drei bis fünf Wochen 
+anlässlich eines Hausbesuchs beim Versicherten ein Gespräch führe (Weg und Gespräch circa zwei 
+bis drei Stunden). Sie hielt weiter fest, der Versicherte würde gerne mehr soziale Kontakte haben, 
+er lebe sehr zurückgezogen und habe nur ein kleines Umfeld (gelegentlich Mutter, Bruder, Kol-
+lege/Kollegin, Psychiater). 
+Auf Einwand des Beschwerdeführers vom 4. März 2023 wurde die Abklärungsperson am 13. März 2023 
+um eine Stellungnahme gebeten. In dieser hielt sie fest, dass sich der Versicherte auf kurzen Strecken 
+alleine fortbewegen könne. Wegen der Schwindelanfälle und der daraus resultierenden Sturzgefahr 
+müsste er bei längeren Strecken begleitet werden. Auch bei der Kontaktaufnahme sei er oft auf eine 
+Begleitung angewiesen. Da diese Hilfeleistungen bereits bei der Lebensverrichtung Fortbewe-
+gung/Kontaktaufnahme angerechnet worden seien, dürften sie nicht nochmals bei der lebensprakti-
+schen Begleitung angerechnet werden. Deshalb könne bei den ausserhäuslichen Verrichtungen auch 
+kein Zeitaufwand angerechnet werden. Auch eine lebenspraktische Begleitung verhindere nicht, dass 
+der Versicherte stürzen könnte. Hier wäre eher ein Notrufknopf als Hilfsmittel nützlich. Sie kommt zum 
+Schluss, dass der Beschwerdeführer nicht isoliert von der Aussenwelt sei, er pflege von sich aus einige 
+wenige Kontakte. Er brauche keine Hilfe bei der Tagesstruktur und bei der Bewältigung von Alltagssi-
+tuationen und er könne den Haushalt mit wenig Dritthilfe selber erledigen (BG-act. 79). 
+Seite 7 von 14 
+
+
+6. 
+Die Beschwerdegegnerin hält in ihrer Stellungnahme vom 26. Juni 2023 (unter Hinweis auf Rz. 2075 
+und 3008 KSH) fest, die von ihr beim Beschwerdeführer wegen bestehender Sturzgefahr in der Lebens-
+verrichtung "Fortbewegung" angerechnete Hilflosigkeit könne nicht zusätzlich bei der Beurteilung der 
+Überwachungsbedürftigkeit und/oder der lebenspraktischen Begleitung im Rahmen von Art. 38 Abs. 1 
+lit. b IVV berücksichtigt werden. 
+6.1 Der Beschwerdeführer bringt in seiner Eingabe vom 24. Mai 2023 demgegenüber vor, das Argu-
+ment der Beschwerdegegnerin, dass die regelmässige Hilfe bei einer Lebensverrichtung (deren Not-
+wendigkeit gemäss Abklärungsbericht bei der Fortbewegung ausgewiesen sei) nicht zusätzlich bei der 
+lebenspraktischen Begleitung berücksichtigt werden dürfe, gehe vorliegend völlig fehl und verletze die 
+gesetzlichen Bestimmungen (Art. 42 IVG). Das eine schliesse das andere überhaupt nicht aus. Die le-
+benspraktische Begleitung stelle ein zusätzliches und eigenständiges Institut der Hilfe für ausserhalb 
+eines Heimes lebende Versicherte dar (BGE 133 V 450). In Übereinstimmung mit dem bundesgericht-
+lichen Entscheid 9(_549/2007 (=SVR 2008 IV Nr. 52) habe sich die soziale Isolation bei ihm bereits 
+manifestiert. Hier gehe es also nicht um die Kriterien der Lebensverrichtungen, sondern um das Krite-
+rium der lebenspraktischen Begleitung. Hierzu hält der Beschwerdeführer fest, es sei nicht auszu-
+schliessen, dass die Beeinträchtigung bei der Fortbewegung - im und ausser Haus - und der Bedarf an 
+lebenspraktischer Begleitung kumulativ berücksichtigt würden (BGer 9(_135/2014 vom 14.05.2014 
+E. 4.3.1). 
+6.2 Es ist zwar zutreffend, dass die gleiche Hilfeleistung nur einmal - das heisst entweder als Hilfe bei 
+der Teilfunktion der alltäglichen Lebensverrichtung oder als lebenspraktische Begleitung - berücksich-
+tigt werden darf (Rz. 2092 KSH, vergleiche BGer 9(_381/2020 vom 15.02.2021 E. 5.1.2, 9(_691/2014 
+vom 11.12.2014 E. 4.2, 9(_839/2009 vom 04.06.2010 E. 3.3). Dies bedeutet jedoch nicht, dass - wie 
+die Beschwerdegegnerin anzunehmen scheint - die Berücksichtigung der Dritthilfe zwingend bei den 
+alltäglichen Lebensverrichtungen zu erfolgen hat. In gewissen Konstellationen ist eine Hilflosigkeit - je 
+nachdem, ob eine benötigte Hilfeleistung bei der alltäglichen Lebensverrichtung oder der lebensprak-
+tischen Begleitung berücksichtigt wird - zu verneinen (Art. 37 Abs. 3 lit. a IVV e contrario, wenn nur in 
+einer alltäglichen Lebensverrichtung hilflos) oder zu bejahen (Art. 37 Abs. 3 lit. e IW). Es kann in diesen 
+Fällen nicht angehen, sämtliche von der versicherten Person benötigte Dritthilfe unter einen Bereich 
+der alltäglichen Lebensverrichtungen zu subsumieren, um so die Notwendigkeit der lebenspraktischen 
+Begleitung zu verneinen. Vielmehr kann und soll eine Berücksichtigung der Hilfe bei der lebensprakti-
+schen Begleitung erfolgen, sofern dadurch ein Anspruch auf Hilflosenentschädigung entsteht. Denn 
+bei der Zuordnung einer Hilfeleistung hat eine funktional gesamtheitliche Betrachtungsweise Platz zu 
+greifen (BGer 9(_381/2020 vom 15.02.2021 E. 5.1.2). Aus diesem Grund sollte der zeitliche Umfang 
+Seite 8 von 14 
+
+
+des benötigten Hilfebedarfs grundsätzlich immer ermittelt werden (auch für eine bessere Nachvoll-
+ziehbarkeit der Abklärungsberichte). 
+7. 
+Vorliegend erachtete die Abklärungsperson eine Begleitung bei ausserhäuslichen Verrichtungen zwar 
+grundsätzlich als notwendig, sie hat aber den Zeitaufwand gar nicht erst eruiert, weil sie davon ausging, 
+dass dieser ohnehin nicht angerechnet werden könne (siehe E. 5 hievor). Diese Argumentation greift 
+jedoch nach dem oben (in E. 6.2} Gesagten zu kurz. So ist in Konstellationen wie der vorliegenden - in 
+der die Zuordnung einer benötigten Dritthilfe zu den alltäglichen Lebensverrichtungen oder zur lebens-
+praktischen Begleitung über den Anspruch auf eine Hilflosenentschädigung entscheiden könnte - der 
+Hilfebedarf in allen Bereichen unabhängig voneinander zu ermitteln und erst in einem zweiten Schritt 
+eine allfällige doppelte Berücksichtigung zu prüfen. 
+7.1 Ein Abklärungsbericht muss nach bundesgerichtlicher Rechtsprechung auch hinsichtlich der le-
+benspraktischen Begleitung plausibel, begründet und detailliert sein. Er muss für das Gericht eine zu-
+verlässige Entscheidungsgrundlage bilden (BGE 140 V 543 E. 3.2.1). Diese Voraussetzungen erfüllt der 
+vorliegende Bericht (BG-act. 71} nach dem Gesagten nicht. Diesem kann insbesondere nicht entnom-
+men werden, ab wann welche Begleitungen in welchem zeitlichen Umfang anfallen und in welchem 
+Umfang diese gegebenenfalls schon bei den indirekten alltäglichen Lebensverrichtungen berücksich-
+tigt wurde, sodass auch nicht geprüft werden kann, ob diese Hilfeleistungen - sofern sie bei der le-
+benspraktischen Begleitung (statt bei der alltäglichen Lebensverrichtung) angerechnet würden - zu 
+einem Bedarf an lebenspraktischer Begleitung von mehr als zwei Stunden pro Woche und damit zu 
+einem Anspruch auf eine Hilflosenentschädigung leichten Grades führen würden. 
+7.2 Die mangelhafte Ermittlung der Grundlagen für eine lebenspraktische Begleitung könnte im vor-
+liegenden Fall konkrete Auswirkungen auf den Anspruch auf eine Hilflosenentschädigung haben (siehe 
+E. 6.2 hievor). Den vorhandenen medizinischen Akten lässt sich in Bezug auf die Notwendigkeit einer 
+lebenspraktischen Begleitung Folgendes entnehmen: 
+7.2.1 Im Austrittsbericht des Kantonsspitals Uri (KSU} vom 25. Februar 2022 wurde festgehalten, nach 
+Besprechung der sozialen Situation mit dem Patienten hätten sie den Sozialdienst involviert zur Auf-
+gleisung einer heimischen Haushaltshilfe (Spitex). Weiter wurde im Bericht unter anderem festgehal-
+ten: «Eine Spitex zur Haushaltshilfe ist ebenfalls organisiert. Sollte dies nicht klappen und die Selbst-
+vernachlässigung weiter bestehen, bitten wir um Evaluation einer KESB-Gefährdungsmeldung.» 
+«soziales: wohnt alleine, gemäss Rettungsdienst desolater Zustand zuhause. Hat zwei Brüder aber kei-
+nen Kontakt, Mutter geistig immer schlechter. Kein gutes Verhältnis zu Familienmitgliedern» (BG-act. 
+66 S. 4 und 6). 
+Seite 9 von 14 
+
+
+7.2.2 Dr. med. G. Waser, Facharzt FMH für Allgemeine Innere Medizin, Altdorf, bestätigte eine Ein-
+schränkung in der Haushaltsführung ab 18. Februar 2022 und ordnete ab 4. März 2022 Spitex-Leistun-
+gen an (Bedarfsmeldung vom 15.03. und 18.05. 2022, Bestätigung vom 29.06.2022; BG-act. 68). 
+7.2.3 Dr. med. M. Stöckli, Facharzt FMH für Psychiatrie und Psychotherapie, Luzern, hielt im Bericht 
+vom 22. Oktober 2022 fest, es handle sich um eine verspätete Anmeldung eines allein in eigener Woh-
+nung lebenden, wegen seiner psychischen Erkrankung eine ganze IV-Rente beziehenden, polymorbid 
+schwerkranken Patienten, der seit mehr als 20 Jahren bei ihm in Behandlung sei. Seit Sommer 2018 
+habe sich die Situation insgesamt dramatisch verschlechtert durch Vereinsamung, Verschlechterung 
+der somatischen Situation mit unklaren Stürzen, Schwindelattacken, Schwächeanfällen und seit 2022 
+auch unklaren hohen Fieberschüben, welche zur Notfallhospitalisation im Kantonsspital Uri geführt 
+hätten. Die Hilfeleistungen für lebenspraktische Begleitung würden darin bestehen, dass jemand den 
+Patienten ein- bis zweimal pro Woche direkt mit nach draussen begleiten oder im Auto mitnehmen 
+würde, um den Patienten aus seiner Isolation herauszuholen. Dies geschehe jetzt nicht, der Bedarf 
+wäre jedoch sicher seit 2018 gegeben, werde dauernd (Jahre) bleiben und betrage im Durchschnitt pro 
+drei Monate sicher deutlich über drei bis vier Stunden wöchentlich. Der Psychiater wies darauf hin, 
+dass die Alternative, in ein Wohnheim zu ziehen (was der Patient nicht möchte), krankheitsbedingt 
+schwer zu realisieren wäre. Der Patient beziehe eine ganze Invalidenrente, ein Rückzug im Sinne der 
+(Selbst-)lsolation mit gesundheitsverschlechternden Folgen sei bereits eingetreten. Der Patient führe 
+seinen Haushalt selber und erledige den Zahlungsverkehr etc. Praktische Arbeiten wie sich waschen, 
+kochen, Wäsche besorgen schaffe er auch; mit sehr grosser Anstrengung, langsam und nur in entspre-
+chend guter Verfassung (BG-act. 65). 
+7.2.4 In der Beschwerde wird ein nicht aktenkundiger Kommentar von Dr. med. M. Stöckli vom 
+24. Mai 2023 zitiert, worin sich dieser zu den Einträgen des Beschwerdeführers im Diabetes-Tagebuch 
+im Zeitraum vom 06.09.2022 - 03.03.2023 äussert (vergleiche BG-act. 70) zitiert. Der genannte Kom-
+mentar bezieht sich auf den Sachverhalt vor Erlass der angefochtenen Verfügung und kann demnach 
+berücksichtigt werden (BGE 144 V 210 E. 4.3.1; BGer 8C_506/2022 vom 21.06.2023 E. 4). Gemäss Psy-
+chiater soll es sich bei der «Sturzgefahr» um ein ätiologisch komplexes, anfallsartiges Geschehen mit 
+somatischen und psychischen Komponenten handeln, die allesamt zusammenspielen würden. Dieses 
+soll zu Funktionseinschränkungen führen, welche Rückzug/(Selbst-)lsolation mit Gesundheitsein-
+schränkungen körperlicher und psychischer Art zur Folge (gehabt) hätten. Diese Funktionseinschrän-
+kungen würden vor allem auch zur zwingend notwendigen Begleitung bei ausserhäuslichen Verrich-
+tungen im Rahmen der entsprechenden lebenspraktischen Begleitung führen. Insgesamt sei der Pati-
+ent im Zeitraum von ca. 6 Monaten durchschnittlich ca. zweimal im Monat ausser Haus gegangen 
+Seite 10 von 14 
+
+
+(Grossteil nur bis zum Bahnhof). Er sei fünf Mal schwerer gestürzt, habe häufig Schwindel-Schwäche-
+attacken, praktisch täglich kleinere «Schwindel»-Attacken, welche er selber auffangen könne, ohne 
+dass es zum Sturz komme. 
+7.3 Die Beschwerdegegnerin hat einen Hilfebedarf von je 30 Minuten für die Wohnungspflege und 
+die Hausbesuche durch den Psychiater anerkannt. Bei dieser Ausgangslage vermag schon ein (zusätz-
+licher) Aufwand von einer Stunde für ausserhäusliche Verrichtungen einen Anspruch auf Hilflosenent-
+schädigung zu begründen. Ein solcher ist unter den gegebenen Umständen ohne Weiteres zu bejahen, 
+zumal in Rz. 2103 KSH bei der Aufzählung von notwendigen Verrichtungen und Kontakten die Freizeit-
+aktivitäten explizit als Beispiel aufgeführt werden und der Beschwerdeführer gemäss Abklärungsbe-
+richt gerne auch einmal Ausflüge oder Besuche machen würde. Es bleibt anzumerken, dass die wö-
+chentlich anzurechnende Zeit für Hausbesuche bei zwei bis drei Stunden (0 2.5 Std.) alle drei bis fünf 
+Wochen (0 4 W.) bei korrekter Berechnung 38 Minuten (= 150min / 4) betragen würde. 
+8. 
+Der Anspruch auf Hilflosenentschädigung entsteht, wenn während eines Jahres ohne wesentlichen 
+Unterbruch mindestens eine Hilflosigkeit leichten Grades bestanden hat (Art. 42 Abs. 4 IVG). Gemäss 
+Abklärungsbericht besteht eine Hilfsbedürftigkeit in der Lebensverrichtung Fortbewegung seit Oktober 
+2022. Dies deckt sich auch mit der Angabe des Beschwerdeführers anlässlich der Abklärung, dass er 
+sich seit Herbst 2022 seine Einkäufe mehrheitlich nach Hause liefern lasse und davor kleinere Einkäufe 
+und Erledigungen noch selber habe besorgen können. Eine Begleitung bei ausserhäuslichen Verrich-
+tungen/Kontakte ist demnach seit Oktober 2022 notwendig. Eine Angabe zum Beginn der unter Ziffer 
+5 festgestellten Einschränkungen fehlt im Abklärungsbericht. Gestützt auf die Berichte des KSU und 
+von Dr. med. G. Waser (siehe E. 7.2.1 und 7.2.2 hievor) ist die Einschränkung im Haushalt (30 Minuten) 
+spätestens ab Februar 2022 mit überwiegender Wahrscheinlichkeit anzunehmen. Die Hausbesuche 
+durch den Psychiater (30 Minuten) finden seit 2018 statt. Ob diese schon seit 2018 notwendig sind, 
+hat keinen Einfluss auf das Ergebnis, da die notwendige Zeitdauer von mindestens zwei Stunden erst 
+ab Oktober 2022 erreicht wird und ein Anspruch auf Hilflosenentschädigung somit ohnehin nicht vor 
+Oktober 2023 entstehen kann (Art. 42 Abs. 4 IVG). 
+9. 
+zusammenfassend ist festzuhalten, dass die Beschwerdegegnerin die Grundlagen für einen Anspruch 
+auf eine lebenspraktische Begleitung ungenügend abgeklärt hat. Von einer Rückweisung zur ergänzen-
+den Abklärung kann jedoch abgesehen werden, da aufgrund der Akten ein Hilfebedarf von mindestens 
+zwei Stunden pro Woche ab Oktober 2022 ausgewiesen ist und somit die Voraussetzungen für einen 
+Anspruch auf eine Hilflosenentschädigung leichten Grades erfüllt sind. Weil ein Anspruch auf eine Hilf-
+Seite 11 von 14 
+
+
+losenentschädigung mittleren Grades nicht zur Diskussion steht (E. 4.1 hievor), sind von weiteren Be-
+weisvorkehren keine neuen entscheidwesentlichen Aufschlüsse zu erwarten und es kann auf solche 
+verzichtet werden (antizipierte Beweiswürdigung; BGE 144 V 361 E. 6.5}. 
+10. 
+In Gutheissung der Beschwerde ist festzustellen, dass der Beschwerdeführer ab 1. Oktober 2023 An-
+spruch hat auf eine Hilflosenentschädigung basierend auf einer Hilflosigkeit leichten Grades (Art. 42 
+Abs. 3 und 4 IVG und Art. 37 Abs. 3 lit. e i.V.m. Art. 38 IVV}. 
+11. 
+11.1 Die Gerichtsgebühr (inklusive Schreibgebühren; Art. 32 Abs. 2 VRPV, Art. 25 Abs. 1 Reglement 
+über die Gebühren und Entschädigungen vor Gerichtsbehörden [Gerichtsgebührenreglement; GGebR, 
+RB 2.3232]} ist auf CHF 900.00 festzusetzen (Art. 69 Abs. 1 bis IVG). Sie ist zuzüglich Barauslagen (pau-
+schal; Art. 25 Abs. 2 GGebR) der Beschwerdegegnerin aufzuerlegen (Art. 61 ATSG i.V.m. Art. 34 Abs. 1 
+lit. b VRPV}. 
+11.2 Dem Beschwerdeführer ist für das Verfahren vor Obergericht entsprechend dem Verfahrens-
+ausgang eine Parteientschädigung von CHF 2'750.00 (Art. 61 lit. g ATSG, vergleiche Art. 38 VRPV i.V.m. 
+Art. 18 Abs. 1 und 2 und Art. 19 Abs. 1 Verordnung über die Gebühren und Entschädigungen vor 
+Gerichtsbehörden [Gerichtsgebührenverordnung; GebV, RB 2.3231] und Art. 32 Abs. 1 GGebR zulasten 
+der Beschwerdegegnerin (Art. 37 Abs. 3 VRPV) zuzusprechen. 
+Seite 12 von 14 
+
+
+Das Obergericht erkennt: 
+1. 
+Die Verwaltungsgerichtsbeschwerde wird gutgeheissen. Die Verfügung der Beschwerdegegnerin 
+vom 10. Mai 2023 wird aufgehoben. Der Beschwerdeführer hat ab 1. Oktober 2023 Anspruch auf 
+eine Hilflosenentschädigung basierend auf einer leichten Hilflosigkeit. 
+2. 
+Die Verfahrenskosten, bestehend aus 
+CHF 
+900.00 
+CHF 
+30.00 
+CHF 
+930.00 
+Gerichtsgebühr 
+Barauslagen (pauschal) 
+Total, 
+werden der Beschwerdegegnerin auferlegt. 
+3. 
+Die Beschwerdegegnerin hat dem Beschwerdeführer eine Parteientschädigung von CHF 2'750.00 
+zu entrichten. 
+4. 
+Eröffnung: 
+- Beschwerdeführer 
+- Beschwerdegegnerin 
+- Bundesamt für Sozialversicherungen 
+Altdorf, 16. Februar 2024 
+OBERGERICHT DES KANTONS URI 
+Verwaltungsrechtliche Abteilung 
+Die Präsidentin 
+Die Gerichtsschreiberin 
+Seite 13 von 14 
+
+
+Rechtsmittelbelehrung 
+Gegen diesen Entscheid kann Beschwerde in öffentlich-rechtlichen Angelegenheiten erhoben werden. 
+Die Beschwerde ist innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim Bundes-
+gericht, Schweizerhofquai 6, 6004 Luzern, in der in Art. 42 Bundesgesetz über das Bundesgericht (Bun-
+desgerichtsgesetz [BGG, SR 173.110]) vorgeschriebenen Weise schriftlich einzureichen. Die Beschwer-
+delegitimation und die zulässigen Beschwerdegründe richten sich nach den massgeblichen Bestim-
+mungen des BGG. 
+Versand: 
+Seite 14 von 14
