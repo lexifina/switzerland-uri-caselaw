@@ -1,0 +1,695 @@
+---
+decision_id: "ur_gerichte_2024_OG_V_23_31_Erg_nzungsleistungen"
+court: "UR Gerichte"
+court_id: "ur_gerichte"
+docket: "2024_OG V 23 31 Ergänzungsleistungen"
+decided: "2024-05-01"
+language: "de"
+source_url: "https://www.ur.ch/_rte/publikation/35626"
+pdf_url: "https://www.ur.ch/_rte/publikation/35626"
+cites_law: ["switzerland/bund/acts/830.1/art-043.md", "switzerland/bund/acts/830.1/art-044.md", "switzerland/bund/acts/830.1/art-059.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-054a.md", "switzerland/bund/acts/831.201/art-049.md", "switzerland/bund/acts/831.30/art-009.md", "switzerland/bund/acts/831.30/art-010.md", "switzerland/bund/acts/831.30/art-011.md", "switzerland/bund/acts/831.30/art-011a.md", "switzerland/bund/acts/831.301/art-014a.md"]
+---
+
+# UR Gerichte 2024_OG V 23 31 Ergänzungsleistungen
+
+## Text
+
+OBERGERICHT 
+ Verwaltungsrechtliche Abteilung 
+__________________________ 
+OG V 23 31 
+ 
+ 
+Entscheid vom 1. Mai 2024 
+ 
+__________________________ 
+Besetzung 
+ 
+ 
+Präsidentin Agnes H. Planzer Stüssi 
+Vizepräsidentin Lenka Ziegler, Oberrichter Tony Z'graggen 
+Gerichtsschreiberin Claudia Schlüssel 
+__________________________ 
+Verfahrensbeteiligte 
+ 
+ 
+A.___ 
+vertreten durch RA MLaw Mirjam Schneider, 
+Zentralstrasse 47, Postfach 93, 2502 Biel/Bienne 
+Beschwerdeführer 
+ 
+gegen 
+ 
+Ausgleichskasse des Kantons Uri, 
+Dätwylerstrasse 11, 6460 Altdorf 
+Beschwerdegegnerin 
+ 
+__________________________ 
+Gegenstand 
+ 
+Ergänzungsleistungen 
+(Einspracheentscheid vom 21.06.2023) 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+Seite 2 von 17 
+ 
+Prozessgeschichte: 
+A. 
+Der Beschwerdeführer leidet seit einem Autounfall in X.___ im Jahr 1991 an einer sensomotorisch 
+kompletten Paraplegie. Die versicherungsmässigen Voraussetzungen für eine Rente sind nicht erfüllt, 
+weil der Versicherte mit dem Gesundheitsschaden in die Schweiz eingereist ist (RAD-Anfrage vom 
+21.06.2023). Mit dem Erlangen des Schweizer Bürgerrechts am 5. Februar 2021 erfüllte er jedoch die 
+versicherungsmässigen Voraussetzungen für eine Hilflosenentschädigung; eine solche wird ihm seit 
+1. Februar 2021 basierend auf einer mittelschweren Hilflosigkeit ausgerichtet (Verfügung vom 
+06.10.2022). 
+Eine erste Verfügung (vom 17.02.2023), mit welcher die Beschwerdegegnerin einen Anspruch auf Er-
+gänzungsleistungen verneint hatte, hob sie mit Verfügung vom 1. März 2023 auf und stellte fest, dass 
+die Voraussetzungen für die Ausrichtung von Ergänzungsleistungen erfüllt seien. Der Anspruch betrage 
+für die Monate März bis Dezember 2022 monatlich CHF 659.00 und ab Januar 2023 CHF 683.00 (Prä-
+mienvergütung Krankenversicherung). 
+B. 
+Die dagegen am 16. März 2023 erhobene Einsprache hiess die Beschwerdegegnerin mit Entscheid vom 
+21. Juni 2023 teilweise gut. Ihre Neuberechnungen hatten unter anderem EL-Nachzahlungen von total 
+CHF 8'035.00 für die Zeit von März 2022 bis Juni 2023 zur Folge. Ab März 2023 wurde der Anspruch 
+des Beschwerdeführers und seiner Familie auf monatlich CHF 948.00 Ergänzungsleistungen festgelegt, 
+zuzüglich den Pauschalbetrag an die Krankenkasse. 
+C. 
+Dagegen erhob der Beschwerdeführer am 23. August 2023 Verwaltungsgerichtsbeschwerde an das 
+Obergericht des Kantons Uri (Verwaltungsrechtliche Abteilung). 
+Er stellte folgende Anträge: 
+" 1. Der Einspracheentscheid der Beschwerdegegnerin vom 21. Juni 2023 sei insoweit aufzuheben, als 
+darin bei der Berechnung der Ergänzungsleistungen gestützt auf eine Arbeitsfähigkeit von 80% ein 
+CHF 6'053.30 pro Jahr übersteigendes hypothetisches Nettoerwerbseinkommen angerechnet 
+wurde, und es sei die Beschwerdegegnerin zu verurteilen, dem Beschwerdeführer für die Berech-
+nung der Ergänzungsleistungen ein hypothetisches Nettoerwerbseinkommen von max. 
+CHF 6'053.30 pro Jahr, ausmachend CHF 504.00 pro Monat, anzurechnen. 
+
+
+ 
+ 
+ 
+Seite 3 von 17 
+ 
+ 2. Der Einspracheentscheid der Beschwerdegegnerin vom 21. Juni 2023 sei aufzuheben und die Sa-
+che sei zur Vornahme weiterer Abklärungen an die Beschwerdegegnerin zurückzuweisen mit der 
+Anordnung, eine neue Verfügung im Sinne der Beschwerde zu erlassen. 
+ 
+ 
+- unter Kosten- und Entschädigungsfolgen - " 
+Die Begründung dieser Anträge ergibt sich, soweit erforderlich, aus den nachstehenden Erwägungen. 
+D. 
+Mit Stellungnahme vom 29. September 2023 beantragt die Beschwerdegegnerin, die Beschwerde vom 
+23. August 2023 abzuweisen. 
+Die Begründung dieses Antrages ergibt sich, soweit erforderlich, ebenfalls aus den nachstehenden Er-
+wägungen. 
+E. 
+Mit Replik vom 2. November 2023 bestätigte der Beschwerdeführer seine Anträge. Die Rechtsvertre-
+terin des Beschwerdeführers reichte eine Kostennote (Total Honorar und Auslagen: CHF 3'048.90) ein. 
+ 
+Erwägungen: 
+1. 
+ 
+Gegen Einspracheentscheide der Beschwerdegegnerin kann Beschwerde an das kantonale Versiche-
+rungsgericht erhoben werden (Art. 56 Abs. 1 i.V.m. Art. 57 Bundesgesetz über den Allgemeinen Teil 
+des Sozialversicherungsrechts [ATSG, SR 830.1]). Das Obergericht des Kantons Uri (Verwaltungsrecht-
+liche Abteilung) ist sowohl örtlich (Art. 84 Bundesgesetz über die Alters- und Hinterlassenenversiche-
+rung [AHVG, SR 831.10]) als auch sachlich (Art. 37 Abs. 2 Gesetz über die Organisation der richterlichen 
+Behörden [Gerichtsorganisationsgesetz; GOG, RB 2.3221]) zuständig. Der Beschwerdeführer ist als Ad-
+ressat durch den angefochtenen Einspracheentscheid berührt und hat ein schutzwürdiges Interesse an 
+dessen Aufhebung oder Änderung (Art. 59 ATSG). Auf die Verwaltungsgerichtsbeschwerde ist einzu-
+treten. 
+2. 
+ 
+Erst mit der Verwaltungsgerichtsbeschwerde reichte der Beschwerdeführer einen Bericht von Dr. med. 
+B.___, Schweizer Paraplegiker-Zentrum (nachfolgend: SPZ Nottwil) vom 8. August 2023 (Beschwerde-
+Beilage 9) ein. 
+2.1 Das Sozialversicherungsrecht kennt keine Beweismittelbeschränkungen. Der in Art. 29 Abs. 2 Bun-
+desverfassung (BV, SR 101) garantierte Anspruch auf rechtliches Gehör räumt den Betroffenen das 
+
+
+ 
+ 
+ 
+Seite 4 von 17 
+ 
+persönlichkeitsbezogene Mitwirkungsrecht ein, erhebliche Beweise einzubringen, mit entsprechenden 
+Beweisanträgen gehört zu werden und an der Erhebung wesentlicher Beweise mitzuwirken. Das Ge-
+richt hat rechtzeitig und formrichtig angebotene Beweismittel abzunehmen (BGE 138 V 125 E. 2.1, 
+127 I 54 E. 2b). Es besteht kein Anspruch der Verfahrensbeteiligten, jederzeit mit neuen Eingaben an 
+die Rechtsmittelbehörde gelangen zu können. Aufgrund des Untersuchungsgrundsatzes (Art. 61 lit. c 
+ATSG) und des Grundsatzes der richterlichen Rechtsanwendung kann sie aber auch unaufgefordert 
+eingereichte Belege und unaufgeforderte Parteivorbringen berücksichtigen, soweit sie für die Ent-
+scheidung von Bedeutung sind. 
+2.2 Zu unterscheiden von der prozessualen Frage nach der Berücksichtigung neuer Tatsachenbehaup-
+tungen und neuer Beweismittel im Rechtsmittelverfahren ist die materiellrechtliche Frage nach dem 
+für den kantonalen und den letztinstanzlichen Richter massgeblichen Sachverhalt. Nach ständiger 
+Rechtsprechung stellt das Sozialversicherungsgericht bei der Beurteilung eines Falles grundsätzlich auf 
+den bis zum Zeitpunkt des Verfügungserlasses eingetretenen Sachverhalt ab (BGE 144 V 210 
+E. 4.3.1, 129 V 167 E. 1). Es sind also nicht die Verhältnisse im Zeitpunkt des Rechtsmittelentscheides 
+massgebend (BGE 116 V 246 E. 1a). Deshalb sollen Tatsachen, die den Sachverhalt nach dem Verfü-
+gungszeitpunkt verändert haben, in der Regel Gegenstand einer neuen Verwaltungsverfügung bilden 
+(BGE 130 V 138 E. 2.1). Demgegenüber sind Tatsachen, die sich zwar erst nach Erlass der Verwaltungs-
+verfügung verwirklicht, aber den massgeblichen Sachverhalt nicht verändert haben, insoweit zu be-
+rücksichtigen, als sie mit dem Streitgegenstand in engem Zusammenhang stehen und geeignet sind, 
+die Beurteilung im Zeitpunkt des Verfügungserlasses zu beeinflussen (BGer 8C_506/2022 vom 
+21.06.2023 E. 4). 
+2.3 Der Bericht von Dr. med. B.___ bezieht sich nach seinem Wortlaut nicht nur auf den Gesundheits-
+zustand, wie er nach Erlass der angefochtenen Verfügung eingetreten war. Er kann im Rahmen des 
+oben Gesagten berücksichtigt werden. 
+3. 
+ 
+Personen mit Wohnsitz und gewöhnlichem Aufenthalt in der Schweiz haben Anspruch auf Ergänzungs-
+leistungen, wenn sie Anspruch haben auf eine Hilflosenentschädigung der Invalidenversicherung (Art. 
+4 Abs. 1 lit. c Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen und Invalidenversi-
+cherung [ELG, SR 831.30]). Die jährliche Ergänzungsleistung entspricht dem Betrag, um den die aner-
+kannten Ausgaben die anrechenbaren Einnahmen übersteigen (Art. 9 Abs. 1 ELG). Die anerkannten 
+Ausgaben sind in Art. 10 ELG und die anrechenbaren Einnahmen in Art. 11 ELG aufgeführt. Es stellt 
+einen allgemeinen Grundsatz des Sozialversicherungsrechts dar, dass einem Leistungsansprecher im 
+Rahmen der Schadenminderungspflicht Massnahmen zuzumuten sind, die ein vernünftiger Mensch in 
+der gleichen Lage ergreifen würde, wenn er keinerlei Entschädigung zu erwarten hätte. Für den Bereich 
+
+
+ 
+ 
+ 
+Seite 5 von 17 
+ 
+der Ergänzungsleistungen bedeutet dies, dass die versicherte Person alles Zumutbare vorzukehren hat, 
+um den Existenzbedarf soweit als möglich, also auch durch ein möglichst hohes Erwerbseinkommen, 
+selbst finanzieren zu können (BGE 140 V 267 E. 5.2.1; BGer 9C_251/2019 vom 09.01.2020 E. 7.3.1). 
+Folglich sind bei der Anspruchsberechnung nebst den tatsächlich vereinnahmten Einkünften und vor-
+handenen Vermögenswerten auch Einkünfte und Vermögenswerte, auf die verzichtet worden ist, zu 
+berücksichtigen (Art. 11a Abs. 1 ELG). 
+4. 
+ 
+Das kantonale Versicherungsgericht hat von Amtes wegen die für den Entscheid erheblichen Tatsachen 
+festzustellen; es erhebt die notwendigen Beweise und ist in der Beweiswürdigung frei (Art. 61 lit. c 
+ATSG). Sind zur Abklärung des Sachverhaltes zusätzliche Beweise erforderlich, werden sie von Amtes 
+wegen erhoben (Art. 60 Abs. 1 Verordnung über die Verwaltungsrechtspflege [VRPV, RB 2.2345]). 
+4.1 Der Grundsatz der freien Beweiswürdigung bedeutet für das Beschwerdeverfahren, dass der So-
+zialversicherungsrichter alle Beweismittel, unabhängig davon, von wem sie stammen, objektiv zu prü-
+fen und danach zu entscheiden hat, ob die verfügbaren Unterlagen eine zuverlässige Beurteilung des 
+streitigen Rechtsanspruches gestatten. Insbesondere darf es bei einander widersprechenden medizi-
+nischen Berichten den Prozess nicht erledigen, ohne das gesamte Beweismaterial zu würdigen und die 
+Gründe anzugeben, warum es auf die eine und nicht auf die andere medizinische These abstellt. 
+4.2 Im Sozialversicherungsrecht hat das Gericht seinen Entscheid, sofern das Gesetz nicht etwas Ab-
+weichendes vorsieht, nach dem Beweisgrad der überwiegenden Wahrscheinlichkeit zu fällen. Die 
+blosse Möglichkeit eines bestimmten Sachverhalts genügt den Beweisanforderungen nicht. Das Ge-
+richt hat vielmehr jener Sachverhaltsdarstellung zu folgen, die es von allen möglichen Geschehensab-
+läufen als die wahrscheinlichste würdigt (BGE 126 V 353 E. 5b, 125 V 193 E. 2). 
+4.3 Trotz des Grundsatzes der freien Beweiswürdigung hat die Rechtsprechung für die Würdigung 
+medizinischer Berichte und Gutachten Richtlinien aufgestellt: 
+4.3.1 So soll der Richter bei Gerichtsgutachten nicht ohne zwingende Gründe von der Einschätzung 
+des medizinischen Experten abweichen, dessen Aufgabe es ist, seine Fachkenntnisse der Gerichtsbar-
+keit zur Verfügung zu stellen, um einen bestimmten Sachverhalt medizinisch zu erfassen. Eine abwei-
+chende Beurteilung kann gerechtfertigt sein, wenn gegensätzliche Meinungsäusserungen anderer 
+Fachexperten dem Richter als triftig genug erscheinen, die Schlüssigkeit des Gerichtsgutachtens in 
+Frage zu stellen (BGE 125 V 351 E. 3b/aa). 
+4.3.2 Den im Rahmen des Verwaltungsverfahrens durch die Beschwerdegegnerin eingeholten Gut-
+achten von externen Spezialärzten, welche auf Grund eingehender Beobachtungen und Untersuchun-
+gen sowie nach Einsicht in die Akten Bericht erstatten und bei der Erörterung der Befunde zu 
+
+
+ 
+ 
+ 
+Seite 6 von 17 
+ 
+schlüssigen Ergebnissen gelangen, ist bei der Beweiswürdigung volle Beweiskraft zuzuerkennen, so-
+lange nicht konkrete Indizien gegen die Zuverlässigkeit der Expertise sprechen (BGE 137 V 210 E. 1.3.4, 
+125 V 351 E. 3b/bb). Insbesondere lässt es die unterschiedliche Natur von Behandlungsauftrag der 
+therapeutisch tätigen (Fach-) Person einerseits und Begutachtungsauftrag des amtlich bestellten fach-
+medizinischen Experten anderseits (BGE 124 I 170 E. 4) nicht zu, ein Administrativ- oder Gerichtsgut-
+achten stets in Frage zu stellen und zum Anlass weiterer Abklärungen zu nehmen, wenn die behan-
+delnden Arztpersonen beziehungsweise Therapiekräfte zu anderslautenden Einschätzungen gelangen. 
+Vorbehalten bleiben Fälle, in denen sich eine abweichende Beurteilung aufdrängt, weil diese wichtige 
+– und nicht rein subjektiver Interpretation entspringende – Aspekte benennen, die bei der Begutach-
+tung unerkannt oder ungewürdigt geblieben sind (BGer 8C_549/2019 vom 26.11. 2019 E. 3.2). 
+4.3.3 Auch den Berichten und Gutachten versicherungsinterner Ärzte kommt Beweiswert zu, sofern 
+sie schlüssig erscheinen, nachvollziehbar begründet sowie in sich widerspruchsfrei sind und keine In-
+dizien gegen ihre Zuverlässigkeit bestehen. Die Tatsache allein, dass der befragte Arzt in einem Anstel-
+lungsverhältnis zum Versicherungsträger steht, lässt nicht schon auf mangelnde Objektivität und Be-
+fangenheit schliessen. Es bedarf vielmehr besonderer Umstände, welche das Misstrauen in die Unpar-
+teilichkeit der Beurteilung objektiv als begründet erscheinen lassen (BGE 125 V 351 E. 3b/ee, 122 V 
+157 E. 1c). 
+4.3.4 Bei den Ausführungen von RAD-Ärzten ohne eigene Untersuchung (Art. 54a IVG und Art. 49 
+Abs. 1 Verordnung über die Invalidenversicherung [IVV, SR 831.201]) handelt es sich hingegen lediglich 
+um Empfehlungen zur weiteren Bearbeitung des Leistungsbegehrens aus medizinischer Sicht (BGer 
+9C_405/2015 vom 18.01.2016 E. 5.1). In diesen würdigen RAD-Ärztinnen und -Ärzte die vorhandenen 
+Befunde aus medizinischer Sicht, ohne dass sie selber medizinische Befunde erheben. Solche RAD-Be-
+richte vermögen sich einzig dazu zu äussern, ob der einen oder anderen ärztlichen Ansicht zu folgen 
+oder aber eine zusätzliche Untersuchung vorzunehmen ist (BGer 9C_839/2015 vom 02.05.2016 E. 3.3). 
+Die dabei erstellten Berichte haben eine andere Funktion als die medizinischen Gutachten (Art. 44 
+ATSG) oder die Untersuchungsberichte i.S.v. Art. 49 Abs. 2 IVV (vergleiche zu Letzteren BGer 
+9C_204/2009 vom 06.07.2009 E. 3.3.2). Aufgrund dieser unterschiedlichen Funktion können und müs-
+sen sie nicht die an ein medizinisches Gutachten gestellten inhaltlichen Anforderungen erfüllen. Es 
+kann ihnen aber nicht jegliche Aussen- oder Beweiswirkung abgesprochen werden. Sie sind vielmehr 
+entscheidrelevante Aktenstücke (BGer 8C_756/2008 vom 04.06.2009 E. 4.4). Zu beachten ist jedoch, 
+dass, falls ein Versicherungsfall ohne Einholung eines externen Gutachtens entschieden werden soll, 
+an die Beweiswürdigung strenge Anforderungen zu stellen sind. Bestehen auch nur geringe Zweifel an 
+der Zuverlässigkeit und Schlüssigkeit der versicherungsinternen ärztlichen Feststellungen, kann auf de-
+ren Ergebnis nicht abgestellt werden und es sind ergänzende Abklärungen vorzunehmen (BGE 145 V 
+
+
+ 
+ 
+ 
+Seite 7 von 17 
+ 
+97 E. 8.5, 142 V 58 E. 5.1, 135 V 465 E. 4.4; BGer 8C_452/2016 vom 27.09.2016 E. 3 und 4 [uneinheitli-
+che Einschätzung der Arbeitsunfähigkeit]; Meyer/Reichmuth, Rechtsprechung des Bundesgerichts zum 
+IVG, 4. Aufl., Zürich 2022, Art. 54a N. 2 und 4). 
+4.3.5 Im Übrigen ist der Erfahrungstatsache Rechnung zu tragen, dass behandelnde Ärzte im Hinblick 
+auf ihre auftragsrechtliche Vertrauensstellung in Zweifelsfällen mitunter eher zugunsten ihrer Patien-
+ten aussagen. Dies gilt grundsätzlich nicht nur für Hausärzte (vergleiche BGE 135 V 465 E. 4.5, 125 V 
+351 E. 3b/cc), sondern auch für spezialärztlich behandelnde Medizinalpersonen (BGer 8C_234/2021 
+vom 12.08.2021 E. 5.2 in fine mit Hinweisen). 
+5. 
+Die Entwicklung des Gesundheitszustandes des Beschwerdeführers präsentiert sich – unter Berück-
+sichtigung der wichtigsten medizinischen Akten – wie folgt: 
+5.1 Dr. med. C.___, SPZ Nottwil, berichtete am 21. August 2020 über die ambulanten Kontrollen vom 
+5. und 19. August 2020 (Beschwerde-Beilage 8). In der Zwischenanamnese vom 5. August 2020 hielt 
+sie fest, die Zuweisung des Patienten sei aufgrund von Schwindel und Hypotonie seit 2 - 3 Jahren be-
+gleitet von präsynkopalen Ereignissen mit Benommenheitsgefühl erfolgt. Aufgetreten sei dies vor al-
+lem seit der Einnahme der Medikation mit Oxybutynin zur Harnblasenbehandlung. Eine Anpassung der 
+Brille habe eine tendenziöse Verbesserung gebracht. Die klinisch-internistische Untersuchung habe 
+keinen hinweisenden Befund ergeben. In der neurologischen Untersuchung haben sich kein neues neu-
+rologisch fokales Defizit feststellen lassen. Gemäss Zwischenanamnese vom 19. August 2020 habe der 
+Patient über eine Verbesserung durch die nun eingewöhnte Sicht durch die Gleitsichtbrille berichtet. 
+Ansonsten hätten sich keine neuen Aspekte seit der letzten Vorstellung ergeben. Die MRI-Untersu-
+chung (Schädel, HWS und BWS) habe keinen hinweisenden Befund für die vom Patienten dargelegte 
+Symptomatik erbracht. In Zusammenschau der Befunde und der anamnestischen Hinweise sähe sie 
+die Beschwerden am ehesten im Rahmen der Medikation mit Oxybutynin. Eine Zusatzmedikation zur 
+symptomatischen Unterstützung möchte der Patient erstmal nicht, da er mit der neuen Brille die prä-
+synkopalen Episoden besser beherrsche. 
+5.2 Dr. med. D.___, SPZ Nottwil, hielt im Arztbericht vom 27. Januar 2022 (Beschwerde-Beilage 4) 
+unter anderem fest, der Patient habe über Dekubitus am rechten Sitzbein aufgrund des langen Sitzens, 
+insgesamt 32 Stunden am Stück (Flug und lange Wartezeiten), berichtet. Die Haut sei seit einigen Tagen 
+offen. Es zeige sich ein Dekubitus Grad II am rechten Sitzbein (0.5 x 0.5 cm). Der Patient habe als Web-
+designer bis Ende August zu 70 Prozent gearbeitet, aufgrund von Dekubitus und geschwollenen Beinen 
+habe er auf 30 Prozent reduziert. Die neurologischen Defizite seien soweit beurteilbar unverändert 
+und entsprächen weiterhin einer sensomotorisch kompletten Paraplegie sub Th6. Im Rahmen der 
+Grunderkrankung leide der Patient unter begleitender Skoliose und Rumpfinstabilität sowie an 
+
+
+ 
+ 
+ 
+Seite 8 von 17 
+ 
+wiederholten haltungsabhängigen (teilweise bis in die Oberarme und Ellenbogen ausstrahlenden) 
+Schmerzen im Schulter- und Nackenbereich, was aufgrund der Rollstuhlmobilität eine negative Beein-
+trächtigung in den Alltagsaktivitäten darstelle. Bei aktuell kompensierter Situation sei die wöchentliche 
+Physiotherapie noch ausreichend, es sei jedoch davon auszugehen, dass die Frequenz in Zukunft ge-
+steigert werden müsse. 
+5.3 Im Austrittsbericht vom 18. März 2022 (Beschwerde-Beilage 3) stellte Prof. Dr. med. E.___, SPZ 
+Nottwil, folgende Diagnosen: 
+• sensomotorisch komplette Paraplegie sub Th6 (AIS A) nach Autounfall in X.___ 1991 
+• autonome Dysregulation mit Blasen-, Darm und Sexualfunktionsstörungen 
+o proximal bulbäre Harnröhrenstriktur 
+▪ 15.03.2022 Urethrotomia interna nach Sachse, SPZ 
+• Dekubitalleiden 
+o 01/2022 Dekubitus Grad II Sitzbein rechts 
+• Hämorrhoiden III-IV°, Analprolaps 
+• Refluxbeschwerden 
+• tiefe Beinvenenthrombose links bis auf Höhe V. iliaca communis, ED 14.02.2013 
+• ausgeprägte Fehlstatik bei V. a. Iliopsoas-Kontraktur bds. mit progredienter Hyperlordose, ge-
+ringer Entlordosierungsfähigkeit der LWS und Hüftbeugekontraktur bds. 
+• unspezifische Vertigo mit Präsynkope und Benommenheitsgefühl 
+• Postthrombotisches Syndrom rechter distaler Oberschenkel ca. 2004 
+• Leukopenie unter Rifampicin und Cotrimoxazol 
+Im Bericht wurde eine 100-prozentige Arbeitsunfähigkeit von 14. bis 18. März 2022 attestiert. Zum 
+Verlauf hielt der Neurologe fest, der Patient habe berichtet, seit vielen Jahren an rezidivierenden Harn-
+röhrenstrikturen zu leiden. Bisher habe er die Harnblase problemlos durch Selbstkatheterismus ent-
+leert. Seit Januar 2022 habe er über zunehmende Schwierigkeiten bei der intermittierenden Selbstka-
+therisierung berichtet, sodass er am 21. Januar 2022 notfallmässig in der urologischen Ambulant vor-
+stellig geworden sei. Im Zuge dessen sei aufgrund des Harnröhrenstrikturrezidivs ein Dauerkatheter 
+gelegt und die Indikation zur endoskopischen Urethrotomia interna gestellt worden. Dieser Eingriff sei 
+am 15. März 2022 komplikationslos durchgeführt worden, der postoperative Verlauf habe sich kom-
+plikationslos gestaltet. 
+5.4 Dr. med. F.___, hielt in der RAD-Stellungnahme vom 5. Juni 2023 (enthalten in Beschwerde-
+Beilage 1) fest, vordergründig sei die komplette Lähmung unterhalb des 6. Brustwirbels mit Rollstuhl-
+mobilität und gestörter Blasen- und Darmfunktion. Diesbezüglich bestehe ein stabil anhaltender Zu-
+stand auf tiefem Funktionsniveau seit dem Autounfall. Eine ganztägige sitzende Tätigkeit würde einen 
+Dekubitus an den Sitzbeinen, wie zuletzt im Januar 2022 und davor in den Jahren 2011 und 2007 do-
+kumentiert, begünstigen. Der Versicherte sei auf einen zwischenzeitlichen Transfer in eine die 
+
+
+ 
+ 
+ 
+Seite 9 von 17 
+ 
+Aufliegefläche zwischenzeitlich entlastende Position angewiesen. Zusätzliche Einschränkungen be-
+stünden aufgrund der (nach einer Beinvenenthrombose 2013) lebenslang erforderlichen oralen An-
+tikoagulation, insofern Tätigkeiten mit einem erhöhten Verletzungs- bzw. Kontusionsrisiko wegen der 
+erhöhten Blutungsneigung zu vermeiden seien. Grundsätzlich gehe er medizinisch-theoretisch von ei-
+ner erhaltenen Arbeitsfähigkeit in rein sitzender Tätigkeit aus. Aufgrund der Notwendigkeit vermehrter 
+Entlastungspausen könne von einer 20-prozentigen Einschränkung, d.h. von einer 80-prozentigen Ge-
+samtarbeitsfähigkeit in sitzender Tätigkeit ausgegangen werden. 
+5.5 Dr. med. B.___, SPZ Nottwil, äusserte sich im Arztbericht vom 8. August 2023 (Beschwerde-Beilage 
+9) zur Frage der Arbeitsfähigkeit aus paraplegiologischer Sicht. Beim Patienten liege seit 32 Jahren eine 
+komplette thorakale Querschnittlähmung mit Ausfall aller motorischen und sensiblen Funktionen un-
+terhalb des 6. Brustwirbels vor (vollständige Rollstuhlpflicht für die eigenständige Mobilität). Es sei im-
+mer wieder zu typischen, mit der Querschnittlähmung zusammenhängenden Komplikationen gekom-
+men. Hervorzuheben seien hier: 
+• im Bereich der Harnwege: mehrfache Harnröhrenstrikturen mit der Notwendigkeit zur Harn-
+röhrenschlitzung bei neurogener Harnblasenfunktionsstörung, die den intermittierenden 
+Selbstkatheterismus (5 - 6x/24h) erfordere. Zudem müsse die Harnröhre täglich mit einem et-
+was grösseren Katheter bougiert (geweitet) werden. 
+• im Bereich des Enddarms: Deutlich erhöhter Zeitaufwand bei der Defäkation (oftmals 1.5 - 2h); 
+aufgrund der Hautverhältnisse nur durchführbar im Liegen in Seitenlage. 
+• Dekubitalleiden mit mehreren Rezidiven und mehreren operativen Eingriffen im Bereich des 
+Gesässes. Chronifizierter Dekubitus rechtes Sitzbein mit nun erstmals geschlossenen Wund-
+verhältnissen seit vielen Monaten. 
+• Schmerzsyndrom im Schulter-Nackenbereich mit zeitweiser Ausstrahlung in die Arme (vorzei-
+tige degenerative Veränderungen mit negativer Auswirkung auf die eigenständige Rollstuhl-
+mobilität). 
+Zusammenfassend bestehe aus paraplegiologischer Sicht eine Arbeitsfähigkeit für 40 bis maximal 
+50 Prozent; dies auch unter dem Aspekt, die Arbeitsfähigkeit perspektivisch möglichst lange und ohne 
+erneute medizinische Komplikationen zu erhalten. 
+6. 
+ 
+In den Berechnungsblättern der Verfügungen vom 15. Juni 2023, welche integrierende Bestandteile 
+des vorliegend angefochtenen Einspracheentscheids bilden, wurde neu der effektive Mietzins 
+(CHF 22'380.00) angerechnet, dies bei einem maximal anrechenbaren Mietzins von CHF 28'560.00 
+(CHF 22'140 zuzüglich CHF 6'420, Stand 2023). Gestützt auf eine 80-prozentige Arbeitsfähigkeit in sit-
+zenden Tätigkeiten rechnete die Beschwerdegegnerin nebst dem effektiven Erwerbseinkommen (30%) 
+ein hypothetisches Einkommen in der Höhe von CHF 38'237.00 an (50%). Bei dessen Ermittlung stützte 
+sie sich auf den statistischen Lohnrechner "Salarium 2018" (netto rund CHF 76'475 x 50%). Weiter 
+
+
+ 
+ 
+ 
+Seite 10 von 17 
+ 
+wurde in den Berechnungen ab März 2023 die am X.____ geborene Tochter berücksichtigt. Diese Neu-
+berechnungen hatten EL-Nachzahlungen von total CHF 8'035.00 für die Zeit von März 2022 bis Juni 
+2023 zur Folge. Ab März 2023 habe der Beschwerdeführer und seine Familie Anspruch auf monatlich 
+CHF 948.00 Ergänzungsleistungen, zuzüglich den Pauschalbetrag an die Krankenkasse. Zusätzlich wur-
+den dem Beschwerdeführer und dessen Ehefrau Krankheits- und Behinderungskosten in Höhe von CHF 
+3'818.50 nachvergütet. 
+7. 
+Der Beschwerdeführer macht in seiner Beschwerde vom 23. August 2023 geltend, er sei aufgrund sei-
+ner sensomotorisch kompletten Paraplegie dauerhaft auf einen Rollstuhl angewiesen. Gemäss Verfü-
+gung der IV-Stelle sei er in den alltäglichen Lebensverrichtungen "Körperpflege", "Verrichten der Not-
+durft", "Fortbewegung" sowie "Aufstehen/Absitzen/Abliegen" hilflos im Sinne des Gesetzes, was be-
+deute, dass er in diesen Bereichen auf erhebliche Dritthilfe angewiesen sei. Dies führe dazu, dass der 
+Haushalt und die Körperpflege deutlich zeitintensiver sei als bei gesunden Personen. 
+7.1 Es sei unklar, wie die Beschwerdegegnerin auf ein 70-prozentiges Pensum bei der G.___GmbH 
+komme. Er habe bis August 2021 für das Spital H.___ (40%), die I.___ GmbH (15%) sowie die J.___ AG 
+(15%.) insgesamt 70 Prozent gearbeitet. Hinzu sei das kleine Pensum für seine eigene Gesellschaft, die 
+G.___ GmbH, gekommen. 
+7.2 Während des 70-Prozent-Pensums habe er ständig mit Thrombose, Inkontinenz, geschwollenen 
+Beinen, Dekubitus, Schwindel und Hypotonie zu kämpfen gehabt, sodass er gezwungen gewesen sei, 
+dieses drastisch zu reduzieren, indem er seine Anstellung beim Spital H.___ per 31. August 2021 ge-
+kündigt habe. Seither arbeite er nur noch je 15 Prozent bei der J.___AG und der G.___ GmbH. Auch 
+habe er unter Schmerzen im Schulter- und Nackenbereich, teilweise ausstrahlend in Oberarme und 
+Ellenbogen, sowie unter chronischen Schmerzen im Bereich der Brustwirbelsäule gelitten. Aufgrund 
+der weiter bestehenden Rumpfinstabilität würde er sich gar nicht täglich 8.5 Stunden aufrecht an ei-
+nem Schreibtisch halten können. Wie viele Paraplegiker leide auch er unter störenden Spastiken, die 
+eine Tätigkeit im Vollzeitpensum ebenfalls verunmöglichen würden. 
+7.3 Da er mit der Verletzung in die Schweiz eingereist sei, habe er keinen Anspruch auf Invalidenrente. 
+Deshalb sei seine Resterwerbsfähigkeit und sein Invaliditätsgrad anders als bei anderen Empfängern 
+von Ergänzungsleistungen nicht vorgängig in einem IV-Verfahren abgeklärt worden. Die Beurteilung 
+durch den Regionalärztlichen Dienst (RAD) sei nicht nach eingehender Begutachtung und im Nachgang 
+zu Eingliederungsmassnahmen erfolgt, sondern lediglich aufgrund der vorliegenden, nicht sehr um-
+fangreichen Versicherungsakten. Diese bestünden hauptsächlich aus Dokumenten zur Hilflosenent-
+schädigung, welche die Frage der Arbeitsfähigkeit ihrer Natur nach nicht beträfen. In der RAD-Stellung-
+nahme werde nur der Austrittsbericht des SPZ Nottwil vom 18. März 2022 als Quelle genannt, nicht 
+
+
+ 
+ 
+ 
+Seite 11 von 17 
+ 
+jedoch die Verlaufsberichte des SPZ Nottwil vom 21. August 2021 (recte: 2020) und 27. Januar 2022 
+(welche der Einsprache beigelegen hätten). 
+Der RAD-Arzt begründe nicht, wie er von der Diagnose gemäss Austrittsbericht des SPZ Nottwil zur 
+Einschätzung einer erhaltenen Arbeitsfähigkeit in rein sitzender Tätigkeit komme. Auch die Schlussfol-
+gerung, wonach aufgrund vermehrter Entlastungspausen von einer 20-prozentigen Einschränkung aus-
+zugehen sei, werde nicht näher begründet. Da der RAD-Arzt selber nie eine Exploration des Beschwer-
+deführers vorgenommen habe, handle es sich bei dessen Stellungnahme lediglich um ein Aktengut-
+achten. Weiter handle es sich bei der versicherungsinternen Berichterstattung lediglich um ein Partei-
+gutachten, welchem nicht derselbe Rang zu komme wie einem externen Gutachten. Es komme hinzu, 
+dass vorliegend nicht nur geringe, sondern erhebliche Zweifel an der Zuverlässigkeit und Schlüssigkeit 
+der RAD-Stellungnahme bestünden. 
+7.4 Angesichts dessen, dass er in seinem aktuellen 30-Prozent-Pensum gut eingestellt sei und die 
+Wunden damit erstmals zugegangen seien, und vor dem Hintergrund der ärztlichen Beurteilung des 
+ihn behandelnden Dr. med. B.___ – welcher gestützt auf eine körperliche Untersuchung zum Schluss 
+komme, dass aus paraplegiologischer Sicht eine Arbeitsunfähigkeit von 40 bis maximal 50 Prozent be-
+stehe – sei in casu von einer Resterwerbsfähigkeit von maximal 40 Prozent auszugehen. 
+7.5 Da vorliegend konkrete Angaben zu seinem Lohn als K.___ vorlägen, bestehe kein Grund, auf das 
+Salarium 2018 zurückzugreifen. Vielmehr sei für die Berechnung des hypothetischen Erwerbseinkom-
+mens von seinem konkreten Lohn auszugehen. In seinem Pensum von 30 Prozent als K.___ erziele er 
+ein Erwerbseinkommen von CHF 18'160.00 pro Monat (recte: pro Jahr). Dies ergebe auf 100 Prozent 
+hochgerechnet ein Jahreseinkommen von CHF 60'533.00. Da von einer Arbeitsfähigkeit von 40 Prozent 
+auszugehen sei und er 30 Prozent arbeite, sei ihm ein hypothetisches Erwerbseinkommen entspre-
+chend einer 10-Prozent-Tätigkeit anzurechnen, was einen Jahreslohn von CHF 6'053.00 ergebe (=CHF 
+60'533 / 100 * 10). 
+8. 
+ 
+Demgegenüber erachtet die Beschwerdegegnerin in ihrer Stellungnahme vom 29. September 2023 die 
+gesundheitliche Situation des Versicherten mit dem Austrittsbericht des SPZ Nottwil als gut und aus-
+reichend beschrieben. Der Regionale Ärztliche Dienst habe sich gestützt darauf ein umfassendes Bild 
+machen und zur Arbeitsfähigkeit Stellung nehmen können. Für sie sei nicht ersichtlich, welcher Mehr-
+wert eine Begutachtung des Versicherten (bei aktuell dokumentiertem Gesundheitszustand) für die 
+Beurteilung der Arbeitsfähigkeit hätte. Im beschwerdeweise genannten Bericht des SPZ Nottwil vom 
+8. August 2023 werde pauschal ausgeführt, die Schätzung des RAD sei "zu hoch eingeschätzt", ohne 
+dies medizinisch besser nachvollziehbar zu begründen. 
+
+
+ 
+ 
+ 
+Seite 12 von 17 
+ 
+9. 
+ 
+Mit Replik vom 2. November 2023 bringt der Beschwerdeführer vor, die Beschwerdegegnerin führe 
+nicht aus, wie sich der RAD gestützt auf die äusserst spärlichen Akten ein umfassendes Bild habe ma-
+chen können. Der RAD-Bericht bestehe aus lediglich 16 Zeilen und sei inhaltlich äusserst rudimentär 
+gehalten. Er äussere sich – ausser zu den Entlastungspausen – zu keiner einzigen theoretischen oder 
+tatsächlich vorliegenden paraplegiebedingten Komplikation oder Spezialität. Dadurch bestünden an 
+der RAD-Beurteilung eindeutig erhebliche Zweifel, weshalb vorliegend nicht auf diese abgestellt wer-
+den könne. 
+10. 
+In Bezug auf den anrechenbaren Mietzins, die Betreuungsgutschriften sowie die Nachzahlung von 
+Krankheits- und Behinderungskosten ist der Einspracheentscheid nicht angefochten und es sind auch 
+keine Unregelmässigkeiten ersichtlich, weshalb es damit sein Bewenden hat. Demnach ist vorliegend 
+nur noch die Höhe des anrechenbaren hypothetischen Nettoerwerbseinkommens bestritten. Insbe-
+sondere besteht Uneinigkeit bezüglich der zumutbaren Resterwerbsfähigkeit sowie ob für die Berech-
+nung des hypothetischen Erwerbseinkommens vom effektiv erzielten Lohn ausgegangen werden kann 
+oder ob auf den Lohnrechner "Salarium 2018" zurückzugreifen ist. 
+10.1 Bei der Beurteilung der Arbeits (un) fähigkeit stützt sich die Verwaltung und im Beschwerdefall 
+das Gericht auf Unterlagen, die von ärztlichen und gegebenenfalls auch anderen Fachleuten zur Ver-
+fügung zu stellen sind. Ärztliche Aufgabe ist es, den Gesundheitszustand zu beurteilen und dazu Stel-
+lung zu nehmen, in welchem Umfang und bezüglich welcher Tätigkeiten die versicherte Person arbeits-
+unfähig ist (zur Beweiswürdigung siehe E. 4.3 hievor). 
+10.2 Grundsätzlich wird bei der Berechnung der EL das effektiv erzielte Erwerbseinkommen berück-
+sichtigt; dies gilt auch für invalide Personen (Art. 14a Abs. 1 ELV i.V.m. Art. 9 Abs. 5 lit. c ELG). Bei 
+Personen, die ihre Erwerbsfähigkeit nicht voll ausschöpfen, wird in der EL-Berechnung ein hypotheti-
+sches Erwerbseinkommen berücksichtigt (Art. 11a Abs. 1 ELG). Der Sachverhalt der fehlenden oder 
+unzureichenden Verwertung der Resterwerbsfähigkeit bei Teilinvaliden wird in Art. 14a Abs. 2 ELV ge-
+regelt. Gemäss dieser Bestimmung ist Invaliden unter 60 Jahren als Erwerbseinkommen mindestens 
+anzurechnen: der um einen Drittel erhöhte Höchstbetrag für den Lebensbedarf von Alleinstehenden 
+nach Art. 10 Abs. 1 lit. a Ziff. 1 ELG bei einem Invaliditätsgrad von 40 bis unter 50 Prozent (lit. a), der 
+Höchstbetrag für den Lebensbedarf nach lit. a bei einem Invaliditätsgrad von 50 bis unter 60 Prozent 
+(lit. b) und zwei Drittel des Höchstbetrages für den Lebensbedarf nach lit. a bei einem Invaliditätsgrad 
+von 60 bis unter 70 Prozent (lit. c). Wird der Grenzbetrag in Art. 14a Abs. 2 lit. a-c ELV nicht erreicht, 
+insbesondere wenn keine Erwerbstätigkeit ausgeübt wird, gilt die Vermutung eines Verzichts auf Ein-
+künfte im Sinne von Art. 11 Abs. 1 lit. g ELG. Diese Vermutung kann durch den Nachweis, dass 
+
+
+ 
+ 
+ 
+Seite 13 von 17 
+ 
+invaliditätsfremde Gründe wie Alter, mangelhafte Ausbildung und Sprachkenntnisse, persönliche Um-
+stände oder die Arbeitsmarktsituation die Verwertung der Resterwerbsfähigkeit übermässig erschwe-
+ren oder verunmöglichen, widerlegt werden. Massgebend für die Berechnung der Ergänzungsleistun-
+gen ist daher das hypothetische Einkommen, das die Versicherte tatsächlich realisieren könnte (BGE 
+141 V 343 E. 3 und 5, 140 V 267 E. 2.2, 117 V 153 E. 2b/c, 117 V 202 E. 2a/b). 
+11. 
+Nach Art. 43 Abs. 1 ATSG hat der Versicherungsträger die Begehren zu prüfen, die notwendigen Abklä-
+rungen von Amtes wegen vorzunehmen und die erforderlichen Auskünfte einzuholen. Der Grundsatz 
+der Rechtsanwendung von Amtes wegen steht in einem engen Zusammenhang mit dem Untersu-
+chungsprinzip. Nach dem Untersuchungsgrundsatz hat die Behörde den rechtserheblichen Sachverhalt 
+von Amtes wegen abzuklären, ohne dabei an Anträge der Parteien gebunden zu sein. Sie hat deshalb 
+aus eigener Initiative vorzugehen und darf Parteivorbringen nicht mit der Begründung abtun, diese 
+seien nicht belegt worden. Was notwendig ist, ergibt sich zum einen daraus, in welchem Umfang Ab-
+klärungen vorzunehmen sind, und zum anderen daraus, in welcher Tiefe dies der Fall ist (Ueli Kieser, 
+ATSG-Kommentar, 4. Aufl., Zürich 2020, N 13 ff. zu Art. 43). Die Beweiserhebung kann abgeschlossen 
+werden, wenn feststeht, dass im Rahmen der Beweiswürdigung ein Beweisgrad erreicht ist, der die 
+Beurteilung der massgebenden Frage erlaubt. Deshalb dauert die Untersuchungspflicht so lange, bis 
+über die für die Beurteilung des streitigen Anspruchs erforderlichen Tatsachen hinreichende Klarheit 
+besteht (BGer 8C_794/2016 vom 28.04.2017 E. 4.1), wobei im Sozialversicherungsrecht grundsätzlich 
+der Beweisgrad der überwiegenden Wahrscheinlichkeit gilt (Ueli Kieser, a.a.O., N 52 f. zu Art. 43). 
+11.1 Vorliegend hat die Beschwerdegegnerin die Einschätzung des RAD-Arztes mit Stellungnahme 
+vom 5. Juni 2023 übernommen und ist von einer 80-prozentigen Arbeitsfähigkeit ausgegangen. Der 
+RAD-Arzt hat seine Einschätzung der Restarbeitsfähigkeit ohne eigene Untersuchung (gestützt auf den 
+Austrittsbericht des SPZ Nottwil vom 18.03.2022, E. 5.3 hievor) vorgenommen. 
+11.1.1 Bei Entscheiden gestützt auf versicherungsinterne ärztliche Beurteilungen, die im Wesentli-
+chen oder ausschliesslich aus dem Verfahren vor dem Sozialversicherungsträger stammen (Art. 49 Abs. 
+1 IVV; vergleiche E. 4.3.4), sind strenge Anforderungen an die Beweiswürdigung zu stellen. Bestehen 
+auch nur geringe Zweifel an der Zuverlässigkeit und Schlüssigkeit der versicherungsinternen ärztlichen 
+Feststellungen, sind rechtsprechungsgemäss ergänzende Abklärungen vorzunehmen (BGE 139 V 225 
+E. 5.2, 135 V 465 E. 4). Ein medizinischer Aktenbericht ist (nur) beweistauglich, wenn die Akten einen 
+vollständigen Überblick über Anamnese, Verlauf und gegenwärtigen Status ergeben und diese Daten 
+unbestritten sind; der Untersuchungsbefund muss lückenlos vorliegen, damit die berichterstattende 
+Person imstande ist, sich auf Grund der vorhandenen Unterlagen ein vollständiges Bild zu verschaffen 
+
+
+ 
+ 
+ 
+Seite 14 von 17 
+ 
+(BGer 8C_476/2021 vom 02.03.2022 E. 5.1, 9C_557/2020 vom 22.04.2021 E. 3.3, 8C_239/2008 vom 
+17.12.2009 E. 7.2, in: SVR 2010 UV Nr. 17 S. 63). 
+11.1.2 Geringe Zweifel an der Zuverlässigkeit und Schlüssigkeit von nicht im Verfahren nach Art. 44 
+ATSG eingeholten Berichten können rechtsprechungsgemäss namentlich mit – nachvollziehbar be-
+gründeten – Stellungnahmen anderer medizinischer Fachpersonen geweckt werden (vergleiche BGer 
+8C_399/2020 vom 28.09.2020 E. 5 mit weiteren Hinweisen). Es würde einen Verstoss gegen Bundes-
+recht bedeuten, die Eignung der Berichte der behandelnden Ärztinnen und Ärzte zur Weckung derar-
+tiger Zweifel von letztlich unerfüllbaren Anforderungen abhängig zu machen. Wird die Schlüssigkeit 
+der Feststellungen der versicherungsinternen Fachpersonen durch einen nachvollziehbaren Bericht ei-
+nes behandelnden Arztes in Zweifel gezogen, so genügt deshalb der pauschale Hinweis auf dessen 
+auftragsrechtliche Stellung nicht, um solche Zweifel auszuräumen. Ebenfalls kann nicht bloss darauf 
+verwiesen werden, diese Berichte erfüllten die Anforderungen an Gutachten gemäss BGE 125 V 351 
+E. 3a nicht oder nur unvollständig. Damit die versicherte Person eine vernünftige Chance hat, ihre Sa-
+che dem Gericht zu unterbreiten, ohne gegenüber dem Versicherungsträger klar benachteiligt zu sein, 
+darf bei Bestand solcher Zweifel nicht aufgrund der von der versicherten Person aufgelegten Berichte 
+einerseits und den versicherungsinternen medizinischen Berichten andererseits eine abschliessende 
+Beweiswürdigung vorgenommen werden. Um solche Zweifel auszuräumen, wird das Gericht vielmehr 
+entweder ein Gerichtsgutachten anzuordnen oder die Sache an den Versicherungsträger zurückzuwei-
+sen haben, damit dieser im Verfahren nach Art. 44 ATSG eine Begutachtung veranlasst (BGE 135 V 465 
+E. 4.6; BGer 9C_168/2020 vom 17.03.2021 E. 5.1). 
+11.1.3 Soweit aktenkundig hat der RAD-Arzt mit Stellungnahme vom 5. Juni 2023 als erster eine Schät-
+zung der Arbeitsfähigkeit vorgenommen. Den Akten lässt sich aber nicht entnehmen, dass die Be-
+schwerdegegnerin bei den behandelnden Ärzten einen Arztbericht bzw. eine Arbeitsfähigkeitsschät-
+zung eingeholt hätte. Der (dem RAD als Grundlage dienende) Austrittsbericht des SPZ Nottwil vom 
+18. März 2022 äusserte sich primär zum Eingriff vom 15. März 2022 und dessen Verlauf. Er enthält 
+weder Angaben zum Allgemeinzustand und weiteren (nicht den Eingriff betreffenden) Einschränkun-
+gen noch wird zur Arbeitsfähigkeit Stellung genommen. Im (ausführlicheren, von der Beschwerdegeg-
+nerin nicht berücksichtigten) Bericht vom 27. Januar 2022 wurde unter anderem erwähnt, dass der 
+Versicherte bis Ende August zu 70 Prozent gearbeitet und sein Pensum "aufgrund von Dekubitus und 
+geschwollenen Beinen" auf 30 Prozent reduziert habe. Es wurde zudem über Bewegungseinschränkun-
+gen, Skoliose, Rumpfinstabilität sowie haltungsabhängige Schmerzen berichtet (siehe E. 5.2 hievor), 
+deren allfällige Auswirkungen in der Beurteilung des RAD-Arztes nicht erwähnt wurden. Seine Einschät-
+zung einer 20-prozentigen Einschränkung gründet lediglich auf der Notwendigkeit vermehrter Entlas-
+tungspausen (zur Vermeidung eines Dekubitus). Demgegenüber nahmen die Ärzte des SPZ Nottwil im 
+
+
+ 
+ 
+ 
+Seite 15 von 17 
+ 
+Bericht vom 8. August 2023 Stellung zur Arbeitsfähigkeit (welche sie mit 40 - 50% bezifferten) und zu 
+dessen Einschätzung durch den RAD (80%). Hierzu hat sich der RAD-Arzt nicht mehr geäussert. 
+11.1.4 Zusammengefasst erfüllt die RAD-Stellungnahme vom 5. Juni 2023 die Voraussetzungen für 
+einen beweistauglichen Aktenbericht nicht. Es fehlt insbesondere an einer Auseinandersetzung mit 
+den gemäss den Berichten des SPZ Nottwil bestehenden Bewegungseinschränkungen, Skoliose, Rump-
+finstabilität sowie chronischen Schmerzen. Auf der anderen Seite begründet Dr. med. B.___ seine an-
+derslautende Einschätzung der Arbeitsfähigkeit von 40 bis 50 Prozent ebenfalls nicht näher, weshalb 
+auch darauf nicht unbesehen abgestellt werden kann. Im Gegensatz zum RAD-Arzt hat er jedoch den 
+Beschwerdeführer persönlich untersucht und er nennt zusätzliche die Arbeitsfähigkeit allenfalls beein-
+flussende Aspekte, welche eine von der Einschätzung des RAD-Arztes abweichende (tiefere) Arbeitsfä-
+higkeit durchaus plausibel erscheinen lassen. 
+11.2 Insgesamt ergeben sich für das Gericht objektive Zweifel an der Zuverlässigkeit und Schlüssigkeit 
+der versicherungsinternen ärztlichen Aktenbeurteilung vom 5. Juni 2023, auf welche sich die Be-
+schwerdegegnerin stützt. Für die Ermittlung der Arbeitsfähigkeit sind weitere Abklärungen notwendig. 
+12. 
+Es ist in erster Linie Aufgabe des Versicherungsträgers, von Amtes wegen die notwendigen Abklärun-
+gen vorzunehmen, um den rechtserheblichen Sachverhalt vollständig festzustellen (Art. 43 Abs. 1 
+ATSG). Die Sache ist deshalb an die Beschwerdegegnerin zurückzuweisen, damit diese eine Begutach-
+tung des Beschwerdeführers veranlasst und anschliessend über die Frage der Anrechenbarkeit eines 
+hypothetischen Erwerbseinkommens neu entscheidet (siehe E. 10.2 und 11.1.2 hievor). In diesem 
+Sinne ist die Verwaltungsgerichtsbeschwerde gutzuheissen. 
+13. 
+Die Rückweisung an die Beschwerdegegnerin zu neuer Abklärung und anschliessend neuer Verfügung 
+mit noch offenem Ausgang gilt für die Frage der Gerichtskosten und der Parteientschädigung als voll-
+ständiges Obsiegen (BGE 137 V 210 E. 7.1), unabhängig davon, ob sie überhaupt beantragt oder ob das 
+entsprechende Begehren im Haupt- oder Eventualantrag gestellt wird (BGer 9C_334/2019 vom 
+06.09.2019 E. 6). 
+13.1 Da im ELG keine Kostenpflicht vorgesehen ist, ist das Verfahren für die Parteien kostenlos (Art. 
+61 lit. fbis ATSG). 
+13.2 Dem Ausgang des Verfahrens entsprechend ist dem Beschwerdeführer für das Verfahren vor 
+Obergericht eine Parteientschädigung zuzusprechen. Diese ist ohne Rücksicht auf den Streitwert, nach 
+der Bedeutung der Streitsache und der Schwierigkeit des Prozesses zu bemessen (Art. 61 lit. g ATSG). 
+
+
+ 
+ 
+ 
+Seite 16 von 17 
+ 
+13.2.1 Die Rechtsvertreterin des Beschwerdeführers hat am 2. November 2023 eine Kostennote über 
+total CHF 3'048.90 eingereicht. Diese setzt sich aus einem Honorar von CHF 2'767.50 (10h 15min) sowie 
+Auslagen von total CHF 63.40 (Einschreiben + Kopien) plus Mehrwertsteuer (7.7%) zusammen. Sie 
+rechnete somit mit einem Honoraransatz von CHF 270.00/Std. (= 2'767.50 / 10.25) plus Mehrwert-
+steuer. 
+13.2.2 Der Stundenansatz bei der Anwaltsentschädigung beträgt in der Regel – so auch vorliegend – 
+260 Franken exklusive Mehrwertsteuer (Art. 34 Abs. 1 und 4 Reglement über die Gebühren und Ent-
+schädigungen vor Gerichtsbehörden [Gerichtsgebührenreglement, GGebR, RB 2.3232]). Unter Berück-
+sichtigung dieses Ansatzes resultiert beim geltend gemachten Aufwand ein Honorar von CHF 2'665.00. 
+Zuzüglich Auslagen von CHF 63.40 und Mehrwertsteuer ergibt dies einen Gesamtbetrag von CHF 
+2'938.50 (= [2'665 + 63.40] * 1.077) ergibt, was angemessen erscheint (Art. 18 Abs. 1 und 2, Art. 19 
+Abs. 1 und Art. 27 Abs. 2 lit. c Verordnung über die Gebühren und Entschädigungen vor Gerichtsbe-
+hörden [Gerichtsgebührenverordnung, GGebV, RB 2.3231] i.V.m. Art. 32 Abs. 1 GGebR). 
+13.2.3 Die Parteientschädigung ist auf insgesamt CHF 2'938.50 festzulegen. Sie geht zulasten der Be-
+schwerdegegnerin (Art. 37 Abs. 3 VRPV). 
+ 
+ 
+
+
+ 
+ 
+ 
+Seite 17 von 17 
+ 
+Das Obergericht erkennt: 
+1. Die Verwaltungsgerichtsbeschwerde wird gutgeheissen. Der Einspracheentscheid vom 21. Juni 
+2023 wird aufgehoben und die Sache an die Beschwerdegegnerin zurückgewiesen, damit diese 
+weitere Abklärungen im Sinne der Erwägungen tätige und anschliessend neu verfüge. 
+2. Es werden keine Verfahrenskosten erhoben. 
+3. Die Beschwerdegegnerin hat dem Beschwerdeführer eine Parteientschädigung von CHF 2’938.50 
+zu entrichten. 
+4. Eröffnung: 
+ 
+- Beschwerdeführer 
+ 
+- Beschwerdegegnerin 
+ 
+- Bundesamt für Sozialversicherungen 
+ 
+Altdorf, 1. Mai 2024 
+OBERGERICHT DES KANTONS URI 
+Verwaltungsrechtliche Abteilung 
+Die Präsidentin 
+Die Gerichtsschreiberin 
+ 
+ 
+ 
+ 
+Rechtsmittelbelehrung 
+Gegen diesen Entscheid kann unter der Voraussetzung, dass er einen nicht wieder gutzumachenden 
+Nachteil bewirken kann, Beschwerde in öffentlich-rechtlichen Angelegenheiten erhoben werden. Die 
+Beschwerde ist innert 30 Tagen nach der Eröffnung der vollständigen Ausfertigung beim Bundesge-
+richt, Schweizerhofquai 6, 6004 Luzern, in der in Art. 42 Bundesgesetz über das Bundesgericht (Bun-
+desgerichtsgesetz [BGG, SR 173.110]) vorgeschriebenen Weise schriftlich einzureichen. Die Beschwer-
+delegitimation und die zulässigen Beschwerdegründe richten sich nach den massgeblichen Bestim-
+mungen des BGG. 
+Versand:
