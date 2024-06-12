@@ -1,0 +1,221 @@
+---
+decision_id: "ur_gerichte_2024_OG_Z_24_10_Beschwerde"
+court: "UR Gerichte"
+court_id: "ur_gerichte"
+docket: "2024_OG Z 24 10 Beschwerde"
+decided: "2024-06-12"
+language: "de"
+source_url: "https://www.ur.ch/_rte/publikation/36139"
+pdf_url: "https://www.ur.ch/_rte/publikation/36139"
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-096.md", "switzerland/bund/acts/272/art-105.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# UR Gerichte 2024_OG Z 24 10 Beschwerde
+
+## Text
+
+OBERGERICHT 
+ Zivilrechtliche Abteilung 
+__________________________ 
+OG Z 24 10 
+ 
+ 
+Entscheid vom 12. Juni 2024 
+ 
+__________________________ 
+Besetzung 
+ 
+ 
+Vizepräsidentin Lenka Ziegler 
+Gerichtsschreiberin Michelle Zemp 
+__________________________ 
+Verfahrensbeteiligte 
+ 
+ 
+A.___ und B.___ 
+Beschwerdeführer 
+ 
+gegen 
+ 
+Landgericht Uri, Zivilrechtliche Abteilung 
+Rathausplatz 2, 6460 Altdorf 
+Beschwerdegegner 
+ 
+ 
+ 
+ 
+__________________________ 
+Gegenstand 
+ 
+Beschwerde gegen Einladung zum Augenschein vom 
+15. Mai 2024 (LGZ 23 10) 
+ 
+ 
+ 
+
+
+ 
+Seite 2 von 6 
+ 
+Prozessgeschichte: 
+A. 
+Mit Schreiben vom 15. Mai 2024 lud der Präsident der Zivilrechtlichen Abteilung des Landgerichts Uri 
+im hängigen Verfahren LGZ 23 10 A.___ und B.___ gegen C.___ betreffend Forderung aus Mietverhält-
+nis / Mängelbehebung, Anfechtung der Kündigung / Erstreckung, Anfechtung der Heiz- und Nebenkos-
+tenabrechnung (OG Z 24 9) die Parteien zu einem Augenschein am 14. Juni 2024 ein. 
+B. 
+Dagegen erhoben A.___ und B.___ (Beschwerdeführer) am 28. Mai 2024 Beschwerde und beantragten 
+sinngemäss die Aufhebung der Einladung zum Augenschein vom 15. Mai 2024. 
+C. 
+Das eingereichte Rechtsmittel wurde mit verfahrensleitender Verfügung vom 5. Juni 2024 in das Ge-
+schäftsprotokoll aufgenommen und die Beschwerdeführer wurden aufgefordert, einen Gerichtskos-
+tenvorschuss in der Höhe von CHF 700.00 zu bezahlen. Ferner wurden die Parteien darauf hingewie-
+sen, dass der Beschwerde die Rechtskraft und die Vollstreckbarkeit des angefochtenen Entscheids 
+nicht hemme (act. 1.1). 
+D. 
+Mit Eingabe vom 11. Juni 2024 stellten die Beschwerdeführer unter anderem ein Gesuch um aufschie-
+bende Wirkung der Beschwerde (act. 2.2). 
+E. 
+Mit Eingabe vom 12. Juni 2024 reichte das Landgericht Uri (nachfolgend: Vorinstanz) die Verfahrens-
+akten betreffend den Augenschein vom 14. Juni 2024 ein. Auf die Einholung einer Stellungnahme zum 
+Gesuch um aufschiebende Wirkung wurde mit Blick auf den Verfahrensausgang verzichtet. 
+ 
+ 
+Erwägungen: 
+1. 
+1.1 
+Das Obergericht des Kantons Uri (Zivilrechtliche Abteilung) ist für die Beurteilung der Beschwerde zu-
+ständig (Art. 37a Abs. 2 Gerichtsorganisationsgesetz [GOG, RB 2.3221]). Prozessentscheide ohne Sa-
+churteil fallen in die Zuständigkeit der Vorsitzenden der Abteilung (Art. 37g i.V.m. Art. 25a Abs. 3 lit. b 
+GOG). 
+1.2 
+
+
+ 
+3 
+ 
+Die Vorladung zu einem Augenschein ist eine prozessleitende Verfügung. Prozessleitende Verfügungen 
+sind mit Beschwerde anfechtbar, wenn durch sie ein nicht leicht wiedergutzumachender Nachteil 
+droht (Art. 319 lit. b Ziff. 2 Schweizerische Zivilprozessordnung [ZPO, SR 272]). 
+Die Beschwerdefrist gegen prozessleitende Verfügungen beträgt zehn Tage, da das Gesetz nichts an-
+deres bestimmt (Art. 321 Abs. 2 ZPO). Die Beschwerdeführer sind im Verfahren LGZ 23 10 anwaltlich 
+vertreten. Die angefochtene Verfügung wurde dem Rechtsvertreter der Beschwerdeführer am 
+17. Mai 2024 zugestellt (Sendungsverfolgung 98.40.371268.00021980). Die zehntägige Beschwerde-
+frist begann somit am 18. Mai 2024 zu laufen und endete am 27. Mai 2024 (vergleiche Art. 142 ZPO). 
+Die am 29. Mai 2024 persönlich überbrachte Beschwerde erfolgte somit verspätet. Auf die Beschwerde 
+ist deshalb nicht einzutreten. 
+2. 
+Selbst wenn die Beschwerde rechtzeitig eingereicht worden wäre, wäre das Obergericht aus den fol-
+genden Gründen nicht darauf eingetreten. 
+2.1 
+Prozessleitende Verfügungen sind mit Beschwerde anfechtbar, wenn durch sie einen nicht leicht wie-
+dergutzumachenden Nachteil droht (vergleiche E. 1.2). Ein drohender, nicht leicht wiedergutzuma-
+chender Nachteil ist ohne Weiteres anzunehmen, wenn er auch durch einen für den Ansprecher güns-
+tigen Endentscheid nicht mehr beseitigt werden kann. Indes ist bei der Annahme eines solchen Nach-
+teils grundsätzlich Zurückhaltung angebracht. Der Gesetzgeber hat die selbstständige Anfechtung ge-
+wöhnlicher Inzidenzentscheide absichtlich erschwert, denn der Gang des Prozesses sollte nicht unnötig 
+verzögert werden (Botschaft zur Schweizerischen Zivilprozessordnung vom 28.06.2006, BBl 2006, 
+S. 7377). Anordnungen betreffend die Beweisführung bewirken nach bundesgerichtlicher Rechtspre-
+chung in aller Regel keinen nicht wieder gutzumachenden Nachteil (BGer 25A_73/2014 vom 
+18.03.2014 E. 3.1), da mit einem Rechtsmittel gegen den Endentscheid für gewöhnlich erreicht werden 
+kann, dass ein zu Unrecht verweigerter Beweis abgenommen oder ein zu Unrecht erhobener Beweis 
+aus den Akten gewiesen wird (BGE 141 III 81 E. 1.2; BGer 5A_745/2014 vom 16.03.2015 E. 1.2.2; 
+5A_315/2012 vom 28.08.2012 E. 1.2.1). 
+2.2 
+In ihrer Eingabe argumentieren die Beschwerdeführer zusammengefasst, dass die Vorinstanz 
+umgehend einen Augenschein hätte durchführen müssen, als dieser in der Klage vom 15. Mai 2023 im 
+Verfahren LGZ 23 10 beantragt wurde. Die Durchführung der Beweismassnahme im jetzigen Verfah-
+rensstadium ist in Anbetracht aller Umstände sowie aufgrund der Sistierung des Verfahrens LGZ 23 10 
+inadäquat. Gemäss der Vorinstanz beschränkten sich die erwähnte Hauptverhandlung sowie der Teil-
+entscheid vom 19. Februar 2024 auf die Gültigkeit der Kündigung sowie die Erstreckung des 
+
+
+ 
+4 
+ 
+Mietverhältnisses. Die Beschwerdeführer stellen sich indes auf den Standpunkt, der Teilentscheid be-
+urteile einen grossen Teil der Mängel, für den nun ein Augenschein angesetzt sei. 
+Weshalb den Beschwerdeführern ein nicht leicht wiedergutzumachender Nachteil entstehen könnte, 
+wenn der Augenschein durch die Vorinstanz durchgeführt wird, geht aus der Eingabe der Beschwerde-
+führer nicht hervor. Wenn eine Partei mit einem Standpunkt nicht durchdringt, kann sie ihn – wie er-
+wähnt (E. 2.1) – mit dem Rechtsmittel gegen den späteren Entscheid in der Sache vor der Rechtsmit-
+telinstanz erneut vortragen. Die Situation der Beschwerdeführer wird durch die Vorladung zum Au-
+genschein respektive durch den Augenschein selbst nicht erheblich erschwert. 
+3. 
+Das Gesuch der Beschwerdeführer um aufschiebende Wirkung vom 11. Juni 2024 wird mit dem vorlie-
+genden Entscheid als gegenstandslos abgeschrieben. 
+4. 
+Mit Verfügung vom 5. Juni 2024 wurde den Beschwerdeführern eine Frist zur Leistung eines Gerichts-
+kostenvorschusses in der Höhe von CHF 700.00 angesetzt. Diese Frist wird ihnen mit Blick auf den 
+Verfahrensausgang abgenommen. 
+5. 
+Die Gerichtskosten werden von Amtes wegen festgesetzt und verteilt (Art. 105 Abs. 1 ZPO). Die Fest-
+setzung richtet sich nach dem kantonalen Tarif (Art. 96 ZPO). Die Entscheidgebühr (Art. 95 Abs. 2 lit. b 
+ZPO) für das Rechtsmittelverfahren ist auf CHF 300.00 festzusetzen (Art. 1 Abs. 1 lit. a und Art. 2 ff. 
+Gerichtsgebührenverordnung [RB 2.3231], Art. 9 Abs. 1 i.V.m. Art. 5 i.V.m Art. 2 Abs. 2 und 3 Gerichts-
+gebührenreglement [RB 2.3232]). Die Prozesskosten werden nach Obsiegen und Unterliegen auferlegt. 
+Bei Nichteintreten gilt die klagende Partei als unterliegend (Art. 95 Abs. 1 i.V.m. Art. 106 ZPO). Dem 
+Ausgang dieses Verfahrens entsprechend sind die Prozesskosten den Beschwerdeführern aufzuerle-
+gen. 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+5 
+ 
+Das Obergericht erkennt: 
+1. 
+Auf die Beschwerde wird nicht eingetreten. 
+2. 
+Das Gesuch um aufschiebende Wirkung wird als gegenstandslos abgeschrieben. 
+3. 
+Die Verfahrenskosten des Rechtsmittelverfahrens, bestehend aus 
+CHF 
+300.00 
+Entscheidgebühr 
+ 
+ 
+werden A.___ und B.___ auferlegt. 
+ 
+4. 
+Eröffnung 
+- 
+Beschwerdeführer 
+- 
+Vorinstanz/Beschwerdegegnerin 
+Mitteilung 
+- 
+C.___ 
+ 
+Altdorf, 12. Juni 2024 
+ 
+OBERGERICHT DES KANTONS URI 
+Zivilrechtliche Abteilung 
+Die Vizepräsidentin 
+Die Gerichtsschreiberin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+6 
+ 
+Rechtsmittelbelehrung 
+Gegen diesen, einen Streitwert von weniger als CHF 30'000.00 betreffender Entscheid kann subsidiäre 
+Verfassungsbeschwerde gemäss Art. 113 ff. Bundesgerichtsgesetz (BGG, SR 173.110) oder, Be-
+schwerde in Zivilsachen gemäss Art. 74 Abs. 2 lit. a BGG, wenn sich eine Rechtsfrage von grundsätzli-
+cher Bedeutung stellt, erhoben werden. Die Beschwerde ist innert 30 Tagen nach der Eröffnung beim 
+Bundesgericht, 1000 Lausanne 14, in der in Art. 42 BGG vorgeschriebenen Weise schriftlich einzu-
+reichen. Die Beschwerdelegitimation und die zulässigen Beschwerdegründe richten sich nach den mas-
+sgeblichen Bestimmungen des Bundesgerichtsgesetzes. 
+ 
+Versand:
